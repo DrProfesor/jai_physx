@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/snippets/compiler/cmake/CMakeLists.txt
+  ClassicMain.cpp
+  SnippetHelloWorld.cpp
+  SnippetHelloWorldRender.cpp
+  SnippetHelloWorld.vcxproj -> C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\SnippetHelloWorld_64.exe

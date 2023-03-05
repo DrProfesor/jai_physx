@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/snippets/compiler/cmake/CMakeLists.txt
+  SnippetCamera.cpp
+  SnippetRender.cpp
+  SnippetRender.vcxproj -> C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\debug\SnippetRender_static_64.lib

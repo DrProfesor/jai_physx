@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/snippets/compiler/cmake/CMakeLists.txt
+  ClassicMain.cpp
+  SnippetRaycastCCD.cpp
+  SnippetRaycastCCDRender.cpp
+  SnippetRaycastCCD.vcxproj -> C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\debug\SnippetRaycastCCD_64.exe

@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\src\PsAllocator.cpp">
+      <Filter>src\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\src\PsAssert.cpp">
+      <Filter>src\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\src\PsFoundation.cpp">
+      <Filter>src\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\src\PsMathUtils.cpp">
+      <Filter>src\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\src\PsString.cpp">
+      <Filter>src\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\src\PsTempAllocator.cpp">
+      <Filter>src\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\src\PsUtilities.cpp">
+      <Filter>src\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\src\windows\PsWindowsAtomic.cpp">
+      <Filter>src\src\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\src\windows\PsWindowsCpu.cpp">
+      <Filter>src\src\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\src\windows\PsWindowsFPU.cpp">
+      <Filter>src\src\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\src\windows\PsWindowsMutex.cpp">
+      <Filter>src\src\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\src\windows\PsWindowsPrintString.cpp">
+      <Filter>src\src\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\src\windows\PsWindowsSList.cpp">
+      <Filter>src\src\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\src\windows\PsWindowsSocket.cpp">
+      <Filter>src\src\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\src\windows\PsWindowsSync.cpp">
+      <Filter>src\src\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\src\windows\PsWindowsThread.cpp">
+      <Filter>src\src\windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\src\windows\PsWindowsTime.cpp">
+      <Filter>src\src\windows</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\Ps.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsAlignedMalloc.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsAlloca.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsAllocator.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsAoS.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsArray.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsAtomic.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsBasicTemplates.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsBitUtils.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsBroadcast.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsCpu.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsFoundation.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsFPU.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsHash.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsHashInternals.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsHashMap.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsHashSet.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsInlineAllocator.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsInlineAoS.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsInlineArray.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsIntrinsics.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsMathUtils.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsMutex.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsPool.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsSList.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsSocket.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsSort.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsSortInternals.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsString.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsSync.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsTempAllocator.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsThread.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsTime.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsUserAllocated.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsUtilities.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsVecMath.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsVecMathAoSScalar.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsVecMathAoSScalarInline.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsVecMathSSE.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsVecMathUtilities.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsVecQuat.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\PsVecTransform.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include\PxFoundation.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include\foundation\PxAssert.h">
+      <Filter>include\foundation</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include\foundation\PxFoundationConfig.h">
+      <Filter>include\foundation</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include\foundation\PxMathUtils.h">
+      <Filter>include\foundation</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\windows\PsWindowsAoS.h">
+      <Filter>src\include\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\windows\PsWindowsFPU.h">
+      <Filter>src\include\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\windows\PsWindowsInclude.h">
+      <Filter>src\include\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\windows\PsWindowsInlineAoS.h">
+      <Filter>src\include\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\windows\PsWindowsIntrinsics.h">
+      <Filter>src\include\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include\windows\PsWindowsTrigConstants.h">
+      <Filter>src\include\windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\pxshared\include\foundation\Px.h">
+      <Filter>shared\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\pxshared\include\foundation\PxAllocatorCallback.h">
+      <Filter>shared\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\pxshared\include\foundation\PxProfiler.h">
+      <Filter>shared\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\pxshared\include\foundation\PxSharedAssert.h">
+      <Filter>shared\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\pxshared\include\foundation\PxBitAndData.h">
+      <Filter>shared\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\pxshared\include\foundation\PxBounds3.h">
+      <Filter>shared\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\pxshared\include\foundation\PxErrorCallback.h">
+      <Filter>shared\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\pxshared\include\foundation\PxErrors.h">
+      <Filter>shared\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\pxshared\include\foundation\PxFlags.h">
+      <Filter>shared\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\pxshared\include\foundation\PxIntrinsics.h">
+      <Filter>shared\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\pxshared\include\foundation\PxIO.h">
+      <Filter>shared\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\pxshared\include\foundation\PxMat33.h">
+      <Filter>shared\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\pxshared\include\foundation\PxMat44.h">
+      <Filter>shared\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\pxshared\include\foundation\PxMath.h">
+      <Filter>shared\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\pxshared\include\foundation\PxMemory.h">
+      <Filter>shared\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\pxshared\include\foundation\PxPlane.h">
+      <Filter>shared\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\pxshared\include\foundation\PxPreprocessor.h">
+      <Filter>shared\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\pxshared\include\foundation\PxQuat.h">
+      <Filter>shared\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\pxshared\include\foundation\PxSimpleTypes.h">
+      <Filter>shared\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\pxshared\include\foundation\PxStrideIterator.h">
+      <Filter>shared\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\pxshared\include\foundation\PxTransform.h">
+      <Filter>shared\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\pxshared\include\foundation\PxUnionCast.h">
+      <Filter>shared\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\pxshared\include\foundation\PxVec2.h">
+      <Filter>shared\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\pxshared\include\foundation\PxVec3.h">
+      <Filter>shared\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\pxshared\include\foundation\PxVec4.h">
+      <Filter>shared\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\pxshared\include\foundation\windows\PxWindowsIntrinsics.h">
+      <Filter>shared\include\windows</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\compiler\cmake\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\compiler\resource_x64\PhysXFoundation.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{DA99DC59-6AFE-387A-8FF2-4F40D45B3B77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\foundation">
+      <UniqueIdentifier>{315BDD23-CCB0-3EBE-8032-62C69583C1A5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{7D4F49A6-3837-39FD-B125-F297D0A503CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{406643EA-96DF-30E1-9F5C-F9CEAE130956}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared\include">
+      <UniqueIdentifier>{E336C21D-BFFB-3689-ADFC-111B29B4B005}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared\include\windows">
+      <UniqueIdentifier>{B83F0E45-E1B4-3DB6-8DC4-F00435A0233B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{873E5AAF-253D-30EC-B8D5-D65B7113EA83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\include">
+      <UniqueIdentifier>{1156D85A-CF93-3782-AE8E-5FA90B2070FA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\include\windows">
+      <UniqueIdentifier>{C3D92954-8279-3DE9-86BF-46F269277C3D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\src">
+      <UniqueIdentifier>{80B70DC9-8BB3-3252-815D-436FA3EBE59A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\src\windows">
+      <UniqueIdentifier>{8E4C4A96-9A7B-32AC-8AD6-B85D172C339D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
