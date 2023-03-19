@@ -1,150 +1,150 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleComponents.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleComponents.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleDrive.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleDrive.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleDrive4W.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleDrive4W.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleDriveNW.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleDriveNW.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleDriveTank.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleDriveTank.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleMetaData.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleMetaData.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleNoDrive.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleNoDrive.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleSDK.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleSDK.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleSerialization.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleSerialization.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleSuspWheelTire4.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleSuspWheelTire4.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleTireFriction.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleTireFriction.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleUpdate.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleUpdate.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleWheels.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleWheels.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxvehicle\src\VehicleUtilControl.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxvehicle\src\VehicleUtilControl.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxvehicle\src\VehicleUtilSetup.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxvehicle\src\VehicleUtilSetup.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxvehicle\src\VehicleUtilTelemetry.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxvehicle\src\VehicleUtilTelemetry.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxvehicle\src\physxmetadata\src\PxVehicleAutoGeneratedMetaDataObjects.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxvehicle\src\physxmetadata\src\PxVehicleAutoGeneratedMetaDataObjects.cpp">
       <Filter>metadata\src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxvehicle\src\physxmetadata\src\PxVehicleMetaDataObjects.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxvehicle\src\physxmetadata\src\PxVehicleMetaDataObjects.cpp">
       <Filter>metadata\src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleDefaults.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleDefaults.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleLinearMath.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleLinearMath.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleSerialization.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleSerialization.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleSuspLimitConstraintShader.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleSuspLimitConstraintShader.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleSuspWheelTire4.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxvehicle\src\PxVehicleSuspWheelTire4.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include\vehicle\PxVehicleComponents.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include\vehicle\PxVehicleComponents.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include\vehicle\PxVehicleDrive.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include\vehicle\PxVehicleDrive.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include\vehicle\PxVehicleDrive4W.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include\vehicle\PxVehicleDrive4W.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include\vehicle\PxVehicleDriveNW.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include\vehicle\PxVehicleDriveNW.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include\vehicle\PxVehicleDriveTank.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include\vehicle\PxVehicleDriveTank.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include\vehicle\PxVehicleNoDrive.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include\vehicle\PxVehicleNoDrive.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include\vehicle\PxVehicleSDK.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include\vehicle\PxVehicleSDK.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include\vehicle\PxVehicleShaders.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include\vehicle\PxVehicleShaders.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include\vehicle\PxVehicleTireFriction.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include\vehicle\PxVehicleTireFriction.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include\vehicle\PxVehicleUpdate.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include\vehicle\PxVehicleUpdate.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include\vehicle\PxVehicleUtil.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include\vehicle\PxVehicleUtil.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include\vehicle\PxVehicleUtilControl.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include\vehicle\PxVehicleUtilControl.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include\vehicle\PxVehicleUtilSetup.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include\vehicle\PxVehicleUtilSetup.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include\vehicle\PxVehicleUtilTelemetry.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include\vehicle\PxVehicleUtilTelemetry.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include\vehicle\PxVehicleWheels.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include\vehicle\PxVehicleWheels.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxvehicle\src\physxmetadata\include\PxVehicleAutoGeneratedMetaDataObjectNames.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxvehicle\src\physxmetadata\include\PxVehicleAutoGeneratedMetaDataObjectNames.h">
       <Filter>metadata\include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxvehicle\src\physxmetadata\include\PxVehicleAutoGeneratedMetaDataObjects.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxvehicle\src\physxmetadata\include\PxVehicleAutoGeneratedMetaDataObjects.h">
       <Filter>metadata\include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxvehicle\src\physxmetadata\include\PxVehicleMetaDataObjects.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxvehicle\src\physxmetadata\include\PxVehicleMetaDataObjects.h">
       <Filter>metadata\include</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\compiler\cmake\CMakeLists.txt" />
+    <CustomBuild Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\compiler\cmake\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="include">
-      <UniqueIdentifier>{DA99DC59-6AFE-387A-8FF2-4F40D45B3B77}</UniqueIdentifier>
+      <UniqueIdentifier>{42A9E21F-953E-3525-9EF5-171D6D37AF54}</UniqueIdentifier>
     </Filter>
     <Filter Include="metadata">
-      <UniqueIdentifier>{1BBB11B1-529E-36D2-8043-3FC5240684D0}</UniqueIdentifier>
+      <UniqueIdentifier>{FB50F0C0-6634-39FA-B51E-029127C3E56D}</UniqueIdentifier>
     </Filter>
     <Filter Include="metadata\include">
-      <UniqueIdentifier>{605E4A53-0B92-30BA-8426-2F352807B0EB}</UniqueIdentifier>
+      <UniqueIdentifier>{DC34AD79-3604-3F27-B587-2A1A8B2B4230}</UniqueIdentifier>
     </Filter>
     <Filter Include="metadata\src">
-      <UniqueIdentifier>{6386190D-771B-3BEF-96D4-34B958C91ED8}</UniqueIdentifier>
+      <UniqueIdentifier>{CB41B56F-8A26-38CB-B446-1E9922E12858}</UniqueIdentifier>
     </Filter>
     <Filter Include="src">
-      <UniqueIdentifier>{873E5AAF-253D-30EC-B8D5-D65B7113EA83}</UniqueIdentifier>
+      <UniqueIdentifier>{527F5D1E-BED6-3206-A9F3-D9D8D6374842}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

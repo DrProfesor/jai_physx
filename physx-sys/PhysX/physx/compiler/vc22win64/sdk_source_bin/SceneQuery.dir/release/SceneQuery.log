@@ -1,4 +1,4 @@
-﻿  Building Custom Rule C:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/source/compiler/cmake/CMakeLists.txt
+﻿  Building Custom Rule C:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/source/compiler/cmake/CMakeLists.txt
   SqAABBPruner.cpp
   SqAABBTree.cpp
   SqIncrementalAABBPruner.cpp
@@ -14,4 +14,4 @@
   SqPruningPool.cpp
   SqPruningStructure.cpp
   SqSceneQueryManager.cpp
-  SceneQuery.vcxproj -> C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\SceneQuery_static_64.lib
+  SceneQuery.vcxproj -> C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\SceneQuery_static_64.lib

@@ -1,243 +1,243 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxProfileEventImpl.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxProfileEventImpl.cpp">
       <Filter>src\src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxPvd.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxPvd.cpp">
       <Filter>src\src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxPvdDataStream.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxPvdDataStream.cpp">
       <Filter>src\src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxPvdDefaultFileTransport.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxPvdDefaultFileTransport.cpp">
       <Filter>src\src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxPvdDefaultSocketTransport.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxPvdDefaultSocketTransport.cpp">
       <Filter>src\src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxPvdImpl.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxPvdImpl.cpp">
       <Filter>src\src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxPvdMemClient.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxPvdMemClient.cpp">
       <Filter>src\src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxPvdObjectModelMetaData.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxPvdObjectModelMetaData.cpp">
       <Filter>src\src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxPvdObjectRegistrar.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxPvdObjectRegistrar.cpp">
       <Filter>src\src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxPvdProfileZoneClient.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxPvdProfileZoneClient.cpp">
       <Filter>src\src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxPvdUserRenderer.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxPvdUserRenderer.cpp">
       <Filter>src\src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include\pvd\PxPvd.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include\pvd\PxPvd.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include\pvd\PxPvdTransport.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include\pvd\PxPvdTransport.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\filebuf\include\PsAsciiConversion.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\filebuf\include\PsAsciiConversion.h">
       <Filter>filebuf\include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\filebuf\include\PsAsciiConversion.inl">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\filebuf\include\PsAsciiConversion.inl">
       <Filter>filebuf\include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\filebuf\include\PsFileBuffer.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\filebuf\include\PsFileBuffer.h">
       <Filter>filebuf\include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\filebuf\include\PsIOStream.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\filebuf\include\PsIOStream.h">
       <Filter>filebuf\include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\filebuf\include\PsIOStream.inl">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\filebuf\include\PsIOStream.inl">
       <Filter>filebuf\include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\filebuf\include\PsMemoryBuffer.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\filebuf\include\PsMemoryBuffer.h">
       <Filter>filebuf\include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\include\PsPvd.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\include\PsPvd.h">
       <Filter>src\include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\include\PxProfileAllocatorWrapper.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\include\PxProfileAllocatorWrapper.h">
       <Filter>src\include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\include\PxPvdClient.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\include\PxPvdClient.h">
       <Filter>src\include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\include\PxPvdDataStream.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\include\PxPvdDataStream.h">
       <Filter>src\include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\include\PxPvdDataStreamHelpers.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\include\PxPvdDataStreamHelpers.h">
       <Filter>src\include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\include\PxPvdErrorCodes.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\include\PxPvdErrorCodes.h">
       <Filter>src\include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\include\PxPvdObjectModelBaseTypes.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\include\PxPvdObjectModelBaseTypes.h">
       <Filter>src\include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\include\PxPvdRenderBuffer.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\include\PxPvdRenderBuffer.h">
       <Filter>src\include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\include\PxPvdUserRenderer.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\include\PxPvdUserRenderer.h">
       <Filter>src\include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxProfileContextProvider.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxProfileContextProvider.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxProfileContextProviderImpl.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxProfileContextProviderImpl.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxProfileDataBuffer.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxProfileDataBuffer.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxProfileDataParsing.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxProfileDataParsing.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxProfileEventBuffer.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxProfileEventBuffer.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxProfileEventBufferAtomic.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxProfileEventBufferAtomic.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxProfileEventBufferClient.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxProfileEventBufferClient.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxProfileEventBufferClientManager.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxProfileEventBufferClientManager.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxProfileEventId.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxProfileEventId.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxProfileEventMutex.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxProfileEventMutex.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxProfileEventNames.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxProfileEventNames.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxProfileEvents.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxProfileEvents.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxProfileEventSender.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxProfileEventSender.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxProfileEventSerialization.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxProfileEventSerialization.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxProfileMemory.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxProfileMemory.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxProfileMemoryBuffer.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxProfileMemoryBuffer.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxProfileMemoryEventBuffer.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxProfileMemoryEventBuffer.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxProfileMemoryEvents.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxProfileMemoryEvents.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxProfileScopedEvent.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxProfileScopedEvent.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxProfileScopedMutexLock.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxProfileScopedMutexLock.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxPvdProfileZone.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxPvdProfileZone.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxProfileZoneImpl.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxProfileZoneImpl.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxProfileZoneManager.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxProfileZoneManager.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxProfileZoneManagerImpl.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxProfileZoneManagerImpl.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxPvdBits.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxPvdBits.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxPvdByteStreams.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxPvdByteStreams.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxPvdCommStreamEvents.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxPvdCommStreamEvents.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxPvdCommStreamEventSink.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxPvdCommStreamEventSink.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxPvdCommStreamTypes.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxPvdCommStreamTypes.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxPvdDefaultFileTransport.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxPvdDefaultFileTransport.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxPvdDefaultSocketTransport.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxPvdDefaultSocketTransport.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxPvdFoundation.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxPvdFoundation.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxPvdImpl.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxPvdImpl.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxPvdInternalByteStreams.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxPvdInternalByteStreams.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxPvdMarshalling.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxPvdMarshalling.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxPvdMemClient.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxPvdMemClient.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxPvdObjectModelInternalTypeDefs.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxPvdObjectModelInternalTypeDefs.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxPvdObjectModelInternalTypes.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxPvdObjectModelInternalTypes.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxPvdObjectModelMetaData.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxPvdObjectModelMetaData.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxPvdObjectRegistrar.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxPvdObjectRegistrar.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxPvdProfileZoneClient.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxPvdProfileZoneClient.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxPvdUserRenderImpl.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxPvdUserRenderImpl.h">
       <Filter>src\src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\pvd\src\PxPvdUserRenderTypes.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\pvd\src\PxPvdUserRenderTypes.h">
       <Filter>src\src</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\compiler\cmake\CMakeLists.txt" />
+    <CustomBuild Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\compiler\cmake\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="filebuf">
-      <UniqueIdentifier>{9EA210BF-E23C-3377-88C7-75CB4968438B}</UniqueIdentifier>
+      <UniqueIdentifier>{68C49BF8-724F-3EBC-BA07-21DC699400A6}</UniqueIdentifier>
     </Filter>
     <Filter Include="filebuf\include">
-      <UniqueIdentifier>{026F9BD9-936E-380E-A161-EB041E8DD698}</UniqueIdentifier>
+      <UniqueIdentifier>{AA108F4C-5276-3E6F-8B39-A1EFCFDEE2B6}</UniqueIdentifier>
     </Filter>
     <Filter Include="include">
-      <UniqueIdentifier>{DA99DC59-6AFE-387A-8FF2-4F40D45B3B77}</UniqueIdentifier>
+      <UniqueIdentifier>{42A9E21F-953E-3525-9EF5-171D6D37AF54}</UniqueIdentifier>
     </Filter>
     <Filter Include="src">
-      <UniqueIdentifier>{873E5AAF-253D-30EC-B8D5-D65B7113EA83}</UniqueIdentifier>
+      <UniqueIdentifier>{527F5D1E-BED6-3206-A9F3-D9D8D6374842}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\include">
-      <UniqueIdentifier>{1156D85A-CF93-3782-AE8E-5FA90B2070FA}</UniqueIdentifier>
+      <UniqueIdentifier>{7002CE8E-BA26-30AC-9CE9-1E53B1A73F22}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\src">
-      <UniqueIdentifier>{80B70DC9-8BB3-3252-815D-436FA3EBE59A}</UniqueIdentifier>
+      <UniqueIdentifier>{BDC3FA53-AC96-3821-87DA-D24E66E1069E}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

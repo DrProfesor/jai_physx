@@ -1,270 +1,270 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyArticulation.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyArticulation.cpp">
       <Filter>Dynamics Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyArticulationContactPrep.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyArticulationContactPrep.cpp">
       <Filter>Dynamics Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyArticulationContactPrepPF.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyArticulationContactPrepPF.cpp">
       <Filter>Dynamics Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyArticulationHelper.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyArticulationHelper.cpp">
       <Filter>Dynamics Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyArticulationScalar.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyArticulationScalar.cpp">
       <Filter>Dynamics Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyArticulationSIMD.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyArticulationSIMD.cpp">
       <Filter>Dynamics Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyFeatherstoneArticulation.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyFeatherstoneArticulation.cpp">
       <Filter>Dynamics Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyFeatherstoneForwardDynamic.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyFeatherstoneForwardDynamic.cpp">
       <Filter>Dynamics Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyFeatherstoneInverseDynamic.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyFeatherstoneInverseDynamic.cpp">
       <Filter>Dynamics Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyConstraintPartition.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyConstraintPartition.cpp">
       <Filter>Dynamics Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyConstraintSetup.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyConstraintSetup.cpp">
       <Filter>Dynamics Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyConstraintSetupBlock.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyConstraintSetupBlock.cpp">
       <Filter>Dynamics Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyContactPrep.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyContactPrep.cpp">
       <Filter>Dynamics Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyContactPrep4.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyContactPrep4.cpp">
       <Filter>Dynamics Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyContactPrep4PF.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyContactPrep4PF.cpp">
       <Filter>Dynamics Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyContactPrepPF.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyContactPrepPF.cpp">
       <Filter>Dynamics Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyDynamics.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyDynamics.cpp">
       <Filter>Dynamics Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyFrictionCorrelation.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyFrictionCorrelation.cpp">
       <Filter>Dynamics Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyRigidBodyToSolverBody.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyRigidBodyToSolverBody.cpp">
       <Filter>Dynamics Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverConstraints.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverConstraints.cpp">
       <Filter>Dynamics Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverConstraintsBlock.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverConstraintsBlock.cpp">
       <Filter>Dynamics Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverControl.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverControl.cpp">
       <Filter>Dynamics Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverControlPF.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverControlPF.cpp">
       <Filter>Dynamics Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverPFConstraints.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverPFConstraints.cpp">
       <Filter>Dynamics Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverPFConstraintsBlock.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverPFConstraintsBlock.cpp">
       <Filter>Dynamics Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyThreadContext.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyThreadContext.cpp">
       <Filter>Dynamics Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyThresholdTable.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyThresholdTable.cpp">
       <Filter>Dynamics Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyTGSDynamics.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyTGSDynamics.cpp">
       <Filter>Dynamics Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyTGSContactPrep.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyTGSContactPrep.cpp">
       <Filter>Dynamics Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyTGSContactPrepBlock.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyTGSContactPrepBlock.cpp">
       <Filter>Dynamics Source</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\include\DyArticulationCore.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\include\DyArticulationCore.h">
       <Filter>Dynamics Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\include\DyVArticulation.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\include\DyVArticulation.h">
       <Filter>Dynamics Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\include\DyArticulation.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\include\DyArticulation.h">
       <Filter>Dynamics Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\include\DyFeatherstoneArticulation.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\include\DyFeatherstoneArticulation.h">
       <Filter>Dynamics Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\include\DyFeatherstoneArticulationJointData.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\include\DyFeatherstoneArticulationJointData.h">
       <Filter>Dynamics Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\include\DyFeatherstoneArticulationUtils.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\include\DyFeatherstoneArticulationUtils.h">
       <Filter>Dynamics Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\include\DyConstraint.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\include\DyConstraint.h">
       <Filter>Dynamics Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\include\DyConstraintWriteBack.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\include\DyConstraintWriteBack.h">
       <Filter>Dynamics Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\include\DyContext.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\include\DyContext.h">
       <Filter>Dynamics Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\include\DySleepingConfigulation.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\include\DySleepingConfigulation.h">
       <Filter>Dynamics Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\include\DyThresholdTable.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\include\DyThresholdTable.h">
       <Filter>Dynamics Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\include\DyArticulationJointCore.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\include\DyArticulationJointCore.h">
       <Filter>Dynamics Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverConstraint1DStep.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverConstraint1DStep.h">
       <Filter>Dynamics Source</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyArticulationContactPrep.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyArticulationContactPrep.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyArticulationFnsDebug.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyArticulationFnsDebug.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyArticulationFnsScalar.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyArticulationFnsScalar.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyArticulationFnsSimd.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyArticulationFnsSimd.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyArticulationHelper.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyArticulationHelper.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyArticulationPImpl.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyArticulationPImpl.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyArticulationReference.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyArticulationReference.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyArticulationScalar.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyArticulationScalar.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyArticulationUtils.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyArticulationUtils.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyFeatherstoneArticulationLink.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyFeatherstoneArticulationLink.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyBodyCoreIntegrator.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyBodyCoreIntegrator.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyConstraintPartition.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyConstraintPartition.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyConstraintPrep.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyConstraintPrep.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyContactPrep.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyContactPrep.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyContactPrepShared.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyContactPrepShared.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyContactReduction.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyContactReduction.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyCorrelationBuffer.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyCorrelationBuffer.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyDynamics.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyDynamics.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyFrictionPatch.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyFrictionPatch.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyFrictionPatchStreamPair.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyFrictionPatchStreamPair.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverBody.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverBody.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverConstraint1D.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverConstraint1D.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverConstraint1D4.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverConstraint1D4.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverConstraintDesc.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverConstraintDesc.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverConstraintExtShared.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverConstraintExtShared.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverConstraintsShared.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverConstraintsShared.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverConstraintTypes.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverConstraintTypes.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverContact.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverContact.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverContact4.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverContact4.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverContactPF.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverContactPF.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverContactPF4.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverContactPF4.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverContext.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverContext.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverControl.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverControl.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverControlPF.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverControlPF.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverCore.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverCore.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverExt.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySolverExt.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySpatial.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DySpatial.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyThreadContext.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyThreadContext.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyTGSDynamics.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyTGSDynamics.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyTGSContactPrep.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowleveldynamics\src\DyTGSContactPrep.h">
       <Filter>Dynamics Internal Includes</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\compiler\cmake\CMakeLists.txt" />
+    <CustomBuild Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\compiler\cmake\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Dynamics Includes">
-      <UniqueIdentifier>{AD5AAE76-0D7B-327A-A10C-790227144D33}</UniqueIdentifier>
+      <UniqueIdentifier>{5236C274-BB15-3837-A58F-03E69BD6A972}</UniqueIdentifier>
     </Filter>
     <Filter Include="Dynamics Internal Includes">
-      <UniqueIdentifier>{3DB8E957-832D-398C-9D56-D5F3967AA625}</UniqueIdentifier>
+      <UniqueIdentifier>{594F10A0-A6D6-3187-9F46-7055442A274D}</UniqueIdentifier>
     </Filter>
     <Filter Include="Dynamics Source">
-      <UniqueIdentifier>{C26A12A7-1C14-3EA8-91A1-C1D1F84B2572}</UniqueIdentifier>
+      <UniqueIdentifier>{8BAF1E9F-5685-3B2B-B37C-1DF06F581D04}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

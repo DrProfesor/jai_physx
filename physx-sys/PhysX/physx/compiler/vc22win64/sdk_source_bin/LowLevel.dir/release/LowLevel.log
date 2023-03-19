@@ -1,4 +1,4 @@
-﻿  Building Custom Rule C:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/source/compiler/cmake/CMakeLists.txt
+﻿  Building Custom Rule C:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/source/compiler/cmake/CMakeLists.txt
   px_globals.cpp
   PxcContactCache.cpp
   PxcContactMethodImpl.cpp
@@ -19,4 +19,4 @@
   PxsMaterialCombiner.cpp
   PxsNphaseImplementationContext.cpp
   PxsSimpleIslandManager.cpp
-  LowLevel.vcxproj -> C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\LowLevel_static_64.lib
+  LowLevel.vcxproj -> C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\LowLevel_static_64.lib

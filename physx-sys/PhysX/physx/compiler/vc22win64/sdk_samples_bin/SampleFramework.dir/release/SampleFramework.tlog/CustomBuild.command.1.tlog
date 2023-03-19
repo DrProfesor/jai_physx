@@ -1,6 +1,6 @@
-^C:\DEV\JAISCAPE\WORKBENCH\EXTERNAL\PHYSX\PHYSX-RS\PHYSX-SYS\PHYSX\PHYSX\SAMPLES\COMPILER\CMAKE\CMAKELISTS.TXT
+^C:\DEV\JAISCAPE\WORKBENCH\EXTERNAL\PHYSX\PHYSX-SYS\PHYSX\PHYSX\SAMPLES\COMPILER\CMAKE\CMAKELISTS.TXT
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/compiler/public -BC:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/compiler/vc22win64 --check-stamp-file C:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/compiler/vc22win64/sdk_samples_bin/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/compiler/public -BC:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/compiler/vc22win64 --check-stamp-file C:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/compiler/vc22win64/sdk_samples_bin/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

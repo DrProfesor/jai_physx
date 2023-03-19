@@ -1,4 +1,4 @@
-﻿  Building Custom Rule C:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/source/compiler/cmake/CMakeLists.txt
+﻿  Building Custom Rule C:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/source/compiler/cmake/CMakeLists.txt
   CmCollection.cpp
   CmMathUtils.cpp
   CmPtrTable.cpp
@@ -69,8 +69,8 @@
   GuIntersectionBoxBox.cpp
   GuIntersectionCapsuleTriangle.cpp
   GuIntersectionEdgeEdge.cpp
-  GuIntersectionRayCapsule.cpp
   GuIntersectionRayBox.cpp
+  GuIntersectionRayCapsule.cpp
   GuIntersectionRaySphere.cpp
   GuIntersectionSphereBox.cpp
   GuIntersectionTriangleBox.cpp
@@ -104,8 +104,8 @@
   GuPCMContactCapsuleHeightField.cpp
   GuPCMContactCapsuleMesh.cpp
   GuPCMContactConvexCommon.cpp
-  GuPCMContactConvexHeightField.cpp
   GuPCMContactConvexConvex.cpp
+  GuPCMContactConvexHeightField.cpp
   GuPCMContactConvexMesh.cpp
   GuPCMContactGenBoxConvex.cpp
   GuPCMContactGenSphereCapsule.cpp
@@ -133,6 +133,6 @@
   GuSweepSphereSphere.cpp
   GuSweepSphereTriangle.cpp
   GuSweepTriangleUtils.cpp
-     Creating library C:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/bin/win.x86_64.vc142.mt/release/PhysXCommon_64.lib and object C:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/bin/win.x86_64.vc142.mt/release/PhysXCommon_64.exp
-LINK : warning LNK4217: symbol '?PxTransformFromSegment@physx@@YA?AVPxTransform@1@AEBVPxVec3@1@0PEAM@Z (class physx::PxTransform __cdecl physx::PxTransformFromSegment(class physx::PxVec3 const &,class physx::PxVec3 const &,float *))' defined in 'CmMathUtils.obj' is imported by 'GuMTD.obj' in function '"bool __cdecl pointConvexDistance(class physx::PxVec3 &,class physx::PxVec3 &,float &,class physx::PxVec3 const &,class physx::Gu::ConvexMesh const *,class physx::PxMeshScale const &,class physx::PxTransform const &)" (?pointConvexDistance@@YA_NAEAVPxVec3@physx@@0AEAMAEBV12@PEBVConvexMesh@Gu@2@AEBVPxMeshScale@2@AEBVPxTransform@2@@Z)'
-  PhysXCommon.vcxproj -> C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\PhysXCommon_64.dll
+     Creating library C:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/bin/win.x86_64.vc142.mt/release/PhysXCommon_64.lib and object C:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/bin/win.x86_64.vc142.mt/release/PhysXCommon_64.exp
+LINK : warning LNK4217: symbol '?PxTransformFromSegment@physx@@YA?AVPxTransform@1@AEBVPxVec3@1@0PEAM@Z (class physx::PxTransform __cdecl physx::PxTransformFromSegment(class physx::PxVec3 const &,class physx::PxVec3 const &,float *))' defined in 'CmMathUtils.obj' is imported by 'GuMTD.obj' in function '"bool __cdecl computeMTD_CapsuleMesh(class physx::PxVec3 &,float &,class physx::Gu::Capsule const &,class physx::PxTriangleMeshGeometry const &,class physx::PxTransform const &)" (?computeMTD_CapsuleMesh@@YA_NAEAVPxVec3@physx@@AEAMAEBVCapsule@Gu@2@AEBVPxTriangleMeshGeometry@2@AEBVPxTransform@2@@Z)'
+  PhysXCommon.vcxproj -> C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\PhysXCommon_64.dll

@@ -1,81 +1,81 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpAABBManager.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpAABBManager.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpBroadPhase.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpBroadPhase.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpBroadPhaseABP.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpBroadPhaseABP.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpBroadPhaseMBP.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpBroadPhaseMBP.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpBroadPhaseSap.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpBroadPhaseSap.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpBroadPhaseSapAux.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpBroadPhaseSapAux.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpBroadPhaseShared.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpBroadPhaseShared.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpMBPTasks.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpMBPTasks.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpSAPTasks.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpSAPTasks.cpp">
       <Filter>src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevelaabb\include\BpAABBManager.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevelaabb\include\BpAABBManager.h">
       <Filter>includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevelaabb\include\BpAABBManagerTasks.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevelaabb\include\BpAABBManagerTasks.h">
       <Filter>includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevelaabb\include\BpBroadPhase.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevelaabb\include\BpBroadPhase.h">
       <Filter>includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevelaabb\include\BpBroadPhaseUpdate.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevelaabb\include\BpBroadPhaseUpdate.h">
       <Filter>includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpBroadPhaseABP.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpBroadPhaseABP.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpBroadPhaseMBP.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpBroadPhaseMBP.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpBroadPhaseMBPCommon.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpBroadPhaseMBPCommon.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpBroadPhaseSap.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpBroadPhaseSap.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpBroadPhaseSapAux.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpBroadPhaseSapAux.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpBroadPhaseShared.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpBroadPhaseShared.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpMBPTasks.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpMBPTasks.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpSAPTasks.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevelaabb\src\BpSAPTasks.h">
       <Filter>src</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\compiler\cmake\CMakeLists.txt" />
+    <CustomBuild Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\compiler\cmake\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="includes">
-      <UniqueIdentifier>{8FD16605-54BE-36F7-B2AB-BB4F4AD7E551}</UniqueIdentifier>
+      <UniqueIdentifier>{9C3494AB-0D47-3CF9-82CA-77FD0658DF29}</UniqueIdentifier>
     </Filter>
     <Filter Include="src">
-      <UniqueIdentifier>{873E5AAF-253D-30EC-B8D5-D65B7113EA83}</UniqueIdentifier>
+      <UniqueIdentifier>{527F5D1E-BED6-3206-A9F3-D9D8D6374842}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

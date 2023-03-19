@@ -1,243 +1,243 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplebridges\SampleBridges.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplebridges\SampleBridges.cpp">
       <Filter>SampleBridges</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplebridges\SampleBridgesCCT.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplebridges\SampleBridgesCCT.cpp">
       <Filter>SampleBridges</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplecustomgravity\Planet.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplecustomgravity\Planet.cpp">
       <Filter>SampleCustomGravity</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplecustomgravity\SampleCustomGravity.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplecustomgravity\SampleCustomGravity.cpp">
       <Filter>SampleCustomGravity</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplecustomgravity\SampleCustomGravity_CCT.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplecustomgravity\SampleCustomGravity_CCT.cpp">
       <Filter>SampleCustomGravity</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplecustomgravity\SampleCustomGravityBuilder.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplecustomgravity\SampleCustomGravityBuilder.cpp">
       <Filter>SampleCustomGravity</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplecustomgravity\SampleCustomGravityCameraController.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplecustomgravity\SampleCustomGravityCameraController.cpp">
       <Filter>SampleCustomGravity</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplecustomgravity\SampleCustomGravityFilterShader.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplecustomgravity\SampleCustomGravityFilterShader.cpp">
       <Filter>SampleCustomGravity</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplehelloworld\SampleHelloWorld.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplehelloworld\SampleHelloWorld.cpp">
       <Filter>SampleHelloWorld</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplelargeworld\ChunkLoader.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplelargeworld\ChunkLoader.cpp">
       <Filter>SampleLargeWorld</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplelargeworld\MeshBuilder.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplelargeworld\MeshBuilder.cpp">
       <Filter>SampleLargeWorld</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplelargeworld\SampleLargeWorld.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplelargeworld\SampleLargeWorld.cpp">
       <Filter>SampleLargeWorld</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplelargeworld\SampleLargeWorldCCT.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplelargeworld\SampleLargeWorldCCT.cpp">
       <Filter>SampleLargeWorld</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplenorthpole\SampleNorthPole.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplenorthpole\SampleNorthPole.cpp">
       <Filter>SampleNorthPole</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplenorthpole\SampleNorthPoleBuilder.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplenorthpole\SampleNorthPoleBuilder.cpp">
       <Filter>SampleNorthPole</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplenorthpole\SampleNorthPoleCameraController.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplenorthpole\SampleNorthPoleCameraController.cpp">
       <Filter>SampleNorthPole</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplenorthpole\SampleNorthPoleCCT.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplenorthpole\SampleNorthPoleCCT.cpp">
       <Filter>SampleNorthPole</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplenorthpole\SampleNorthPoleDynamics.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplenorthpole\SampleNorthPoleDynamics.cpp">
       <Filter>SampleNorthPole</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplenorthpole\SampleNorthPoleFilterShader.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplenorthpole\SampleNorthPoleFilterShader.cpp">
       <Filter>SampleNorthPole</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplesubmarine\Crab.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplesubmarine\Crab.cpp">
       <Filter>SampleSubmarine</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplesubmarine\SampleSubmarine.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplesubmarine\SampleSubmarine.cpp">
       <Filter>SampleSubmarine</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle.cpp">
       <Filter>SampleVehicle</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicleDebugRender.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicleDebugRender.cpp">
       <Filter>SampleVehicle</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicleTerrain.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicleTerrain.cpp">
       <Filter>SampleVehicle</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_CameraController.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_CameraController.cpp">
       <Filter>SampleVehicle</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_ControlInputs.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_ControlInputs.cpp">
       <Filter>SampleVehicle</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_GameLogic.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_GameLogic.cpp">
       <Filter>SampleVehicle</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_SceneQuery.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_SceneQuery.cpp">
       <Filter>SampleVehicle</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_VehicleController.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_VehicleController.cpp">
       <Filter>SampleVehicle</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_VehicleCooking.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_VehicleCooking.cpp">
       <Filter>SampleVehicle</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_VehicleManager.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_VehicleManager.cpp">
       <Filter>SampleVehicle</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_WheelQueryResults.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_WheelQueryResults.cpp">
       <Filter>SampleVehicle</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplecctsharedcode\KinematicPlatform.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplecctsharedcode\KinematicPlatform.cpp">
       <Filter>CCTShared</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplecctsharedcode\SampleCCTActor.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplecctsharedcode\SampleCCTActor.cpp">
       <Filter>CCTShared</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplecctsharedcode\SampleCCTCameraController.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplecctsharedcode\SampleCCTCameraController.cpp">
       <Filter>CCTShared</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplecctsharedcode\SampleCCTJump.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplecctsharedcode\SampleCCTJump.cpp">
       <Filter>CCTShared</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplebridges\SampleBridges.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplebridges\SampleBridges.h">
       <Filter>SampleBridges</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplebridges\SampleBridgesInputEventIds.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplebridges\SampleBridgesInputEventIds.h">
       <Filter>SampleBridges</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplebridges\SampleBridgesSettings.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplebridges\SampleBridgesSettings.h">
       <Filter>SampleBridges</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplecustomgravity\Planet.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplecustomgravity\Planet.h">
       <Filter>SampleCustomGravity</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplecustomgravity\SampleCustomGravity.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplecustomgravity\SampleCustomGravity.h">
       <Filter>SampleCustomGravity</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplecustomgravity\SampleCustomGravityCameraController.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplecustomgravity\SampleCustomGravityCameraController.h">
       <Filter>SampleCustomGravity</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplecustomgravity\SampleCustomGravityInputEventIds.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplecustomgravity\SampleCustomGravityInputEventIds.h">
       <Filter>SampleCustomGravity</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplehelloworld\SampleHelloWorld.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplehelloworld\SampleHelloWorld.h">
       <Filter>SampleHelloWorld</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplelargeworld\ChunkLoader.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplelargeworld\ChunkLoader.h">
       <Filter>SampleLargeWorld</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplelargeworld\MeshBuilder.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplelargeworld\MeshBuilder.h">
       <Filter>SampleLargeWorld</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplelargeworld\SampleLargeWorld.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplelargeworld\SampleLargeWorld.h">
       <Filter>SampleLargeWorld</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplelargeworld\SampleLargeWorldInputEventIds.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplelargeworld\SampleLargeWorldInputEventIds.h">
       <Filter>SampleLargeWorld</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplenorthpole\SampleNorthPole.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplenorthpole\SampleNorthPole.h">
       <Filter>SampleNorthPole</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplenorthpole\SampleNorthPoleCameraController.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplenorthpole\SampleNorthPoleCameraController.h">
       <Filter>SampleNorthPole</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplenorthpole\SampleNorthPoleInputEventIds.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplenorthpole\SampleNorthPoleInputEventIds.h">
       <Filter>SampleNorthPole</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplesubmarine\Crab.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplesubmarine\Crab.h">
       <Filter>SampleSubmarine</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplesubmarine\SampleSubmarine.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplesubmarine\SampleSubmarine.h">
       <Filter>SampleSubmarine</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplesubmarine\SampleSubmarineInputEventIds.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplesubmarine\SampleSubmarineInputEventIds.h">
       <Filter>SampleSubmarine</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplesubmarine\SubmarineCameraController.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplesubmarine\SubmarineCameraController.h">
       <Filter>SampleSubmarine</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle.h">
       <Filter>SampleVehicle</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicleInputEventIds.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicleInputEventIds.h">
       <Filter>SampleVehicle</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_CameraController.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_CameraController.h">
       <Filter>SampleVehicle</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_ControlInputs.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_ControlInputs.h">
       <Filter>SampleVehicle</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_GameLogic.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_GameLogic.h">
       <Filter>SampleVehicle</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_SceneQuery.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_SceneQuery.h">
       <Filter>SampleVehicle</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_VehicleController.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_VehicleController.h">
       <Filter>SampleVehicle</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_VehicleCooking.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_VehicleCooking.h">
       <Filter>SampleVehicle</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_VehicleManager.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_VehicleManager.h">
       <Filter>SampleVehicle</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_WheelQueryResults.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplevehicle\SampleVehicle_WheelQueryResults.h">
       <Filter>SampleVehicle</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplecctsharedcode\KinematicPlatform.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplecctsharedcode\KinematicPlatform.h">
       <Filter>CCTShared</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplecctsharedcode\SampleCCTActor.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplecctsharedcode\SampleCCTActor.h">
       <Filter>CCTShared</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplecctsharedcode\SampleCCTCameraController.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplecctsharedcode\SampleCCTCameraController.h">
       <Filter>CCTShared</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\samplecctsharedcode\SampleCCTJump.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\samplecctsharedcode\SampleCCTJump.h">
       <Filter>CCTShared</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\samples\compiler\cmake\CMakeLists.txt" />
+    <CustomBuild Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\samples\compiler\cmake\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CCTShared">
-      <UniqueIdentifier>{F2D5DC25-02B6-3B5F-B19B-B7940D7E2720}</UniqueIdentifier>
+      <UniqueIdentifier>{D025D176-ED11-39E2-BDF3-826BFA3BBE18}</UniqueIdentifier>
     </Filter>
     <Filter Include="SampleBridges">
-      <UniqueIdentifier>{CA760F1E-74EC-3DD9-BCFD-92E23FB31E40}</UniqueIdentifier>
+      <UniqueIdentifier>{AC999324-E4AE-379A-99D9-DFDEDE50E2FF}</UniqueIdentifier>
     </Filter>
     <Filter Include="SampleCustomGravity">
-      <UniqueIdentifier>{629965E0-D7FE-30BB-813D-ACF2E8447D6E}</UniqueIdentifier>
+      <UniqueIdentifier>{4759CA8E-4940-309E-92ED-9472CDFFEE90}</UniqueIdentifier>
     </Filter>
     <Filter Include="SampleHelloWorld">
-      <UniqueIdentifier>{AC1CA75D-9AB4-3B7E-8434-CDAC6F575FD6}</UniqueIdentifier>
+      <UniqueIdentifier>{44817C84-26E6-3B63-8A3C-E6D7402DBAB9}</UniqueIdentifier>
     </Filter>
     <Filter Include="SampleLargeWorld">
-      <UniqueIdentifier>{0BF3532E-CB7B-3AD0-8BD9-207C12E80989}</UniqueIdentifier>
+      <UniqueIdentifier>{0B47CA7A-1FFD-3463-8939-43E09D953F8E}</UniqueIdentifier>
     </Filter>
     <Filter Include="SampleNorthPole">
-      <UniqueIdentifier>{63C84F15-A678-395D-B898-8ACC9C5DF4D2}</UniqueIdentifier>
+      <UniqueIdentifier>{C3C84015-BB60-3852-824D-7AF423829FEA}</UniqueIdentifier>
     </Filter>
     <Filter Include="SampleSubmarine">
-      <UniqueIdentifier>{62886B36-171E-3839-8D46-339246182BBA}</UniqueIdentifier>
+      <UniqueIdentifier>{367E07B9-4E61-3834-85AD-315EB8A089D4}</UniqueIdentifier>
     </Filter>
     <Filter Include="SampleVehicle">
-      <UniqueIdentifier>{6850EE62-839C-3645-8AFA-DFAB754735F6}</UniqueIdentifier>
+      <UniqueIdentifier>{311E53AC-4E4C-3A1A-97E1-EEAC4E38A762}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

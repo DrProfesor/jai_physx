@@ -185,11 +185,11 @@ public:
         : mAllocCallback(allocCb), mDeallocCallback(deallocCb), mUserData(userdata) {
     }
 
-	void *allocate(size_t size, const char* typeName, const char* filename, int line) {
+    void *allocate(size_t size, const char* typeName, const char* filename, int line) {
         return mAllocCallback((uint64_t)size, typeName, filename, line, mUserData);
     }
 
-	virtual void deallocate(void* ptr) {
+    virtual void deallocate(void* ptr) {
         mDeallocCallback(ptr, mUserData);
     }
 
@@ -209,15 +209,15 @@ public:
         : mStartCallback(startCb), mEndCallback(endCb), mUserData(userdata) {
     }
 
-	virtual void* zoneStart(const char* eventName, bool detached, uint64_t contextId) override
-	{
-		return mStartCallback(eventName, detached, contextId, mUserData);
-	}
+    virtual void* zoneStart(const char* eventName, bool detached, uint64_t contextId) override
+    {
+        return mStartCallback(eventName, detached, contextId, mUserData);
+    }
 
-	virtual void zoneEnd(void* profilerData, const char* eventName, bool detached, uint64_t contextId) override
-	{
-		return mEndCallback(profilerData, eventName, detached, contextId, mUserData);
-	}
+    virtual void zoneEnd(void* profilerData, const char* eventName, bool detached, uint64_t contextId) override
+    {
+        return mEndCallback(profilerData, eventName, detached, contextId, mUserData);
+    }
 
 private:
     ZoneStartCallback mStartCallback;
@@ -232,7 +232,7 @@ class ErrorTrampoline : public PxErrorCallback {
 public:
     ErrorTrampoline(ErrorCallback errorCb, void* userdata)
         : mErrorCallback(errorCb), mUserdata(userdata)
-	{}
+    {}
 
     void reportError(PxErrorCode::Enum code, const char* message, const char* file, int line) override {
         mErrorCallback(code, message, file, line, mUserdata);
@@ -249,9 +249,9 @@ class AssertTrampoline : public PxAssertHandler {
 public:
     AssertTrampoline(AssertHandler onAssert, void* userdata)
         : mAssertHandler(onAssert), mUserdata(userdata)
-	{}
+    {}
 
-	virtual void operator()(const char* exp, const char* file, int line, bool& ignore) override final {
+    virtual void operator()(const char* exp, const char* file, int line, bool& ignore) override final {
         mAssertHandler(exp, file, line, &ignore, mUserdata);
     }
 
@@ -286,9 +286,9 @@ extern "C"
         return &gErrorCallback;
     }
 
-    PxPhysics *physx_create_physics(PxFoundation *foundation)
+    PxPhysics *physx_create_physics(PxFoundation *foundation, PxPvd *pvd)
     {
-        return PxCreatePhysics(PX_PHYSICS_VERSION, *foundation, PxTolerancesScale(), true, nullptr);
+        return PxCreatePhysics(PX_PHYSICS_VERSION, *foundation, PxTolerancesScale(), true, pvd);
     }
 
     PxQueryFilterCallback *create_raycast_filter_callback(PxRigidActor *actor_to_ignore)
@@ -313,7 +313,7 @@ extern "C"
         return trampoline->mUserData;
     }
 
-	PxProfilerCallback *create_profiler_callback(
+    PxProfilerCallback *create_profiler_callback(
         ZoneStartCallback zone_start_callback,
         ZoneEndCallback zone_end_callback,
         void *userdata
@@ -372,13 +372,67 @@ extern "C"
         desc->filterShaderDataSize = sizeof(FilterCallbackData);
     }
 
-	// Not generated, used only for testing and examples!
+    // Not generated, used only for testing and examples!
     void PxAssertHandler_opCall_mut(physx_PxErrorCallback_Pod* self__pod, char const* expr, char const* file, int32_t line, bool* ignore ) {
-		physx::PxAssertHandler* self_ = reinterpret_cast<physx::PxAssertHandler*>(self__pod);
-		(*self_)(expr, file, line, *ignore);
-	};
-}
+        physx::PxAssertHandler* self_ = reinterpret_cast<physx::PxAssertHandler*>(self__pod);
+        (*self_)(expr, file, line, *ignore);
+    };
 
+    struct HitAllCallback : PxRaycastCallback
+    {
+        HitAllCallback(PxRaycastHit* aTouches, PxU32 aMaxNbTouches) : PxRaycastCallback(aTouches, aMaxNbTouches) {
+
+        }
+
+        PxAgain processTouches(const PxRaycastHit* buffer, PxU32 nbHits) {
+            return true;
+        }
+    };
+
+    void make_raycast_callback(PxRaycastCallback* to_init, PxRaycastHit* buffer, PxU32 count) {
+        new (to_init) HitAllCallback(buffer, count);
+    }
+
+    void make_shape_flags(PxShapeFlags* to_init, PxU8 val) {
+        new (to_init) PxShapeFlags(val);
+    }
+
+    PxShape* PxPhysics_createShape(PxPhysics* phys, PxGeometry& geo, PxMaterial*const* materials, PxU16 materialCount, bool isExclusive) {
+        return phys->createShape(geo, materials, materialCount, isExclusive, PxShapeFlags());
+    }
+
+    void make_query_flags(PxQueryFlags *to_init, PxU8 val) {
+        new (to_init) PxQueryFlags(val);
+    }
+
+    void make_hit_flags(PxHitFlags *to_init, PxU16 val) {
+        new (to_init) PxHitFlags(val);
+    }
+
+    void make_query_filter_data(PxQueryFilterData *to_init, PxU8 query_flags, PxU32 word0) {
+        new (to_init)PxQueryFilterData(PxFilterData(word0, 0, 0, 0), PxQueryFlags(query_flags));
+    }
+
+    void make_pvd_instrumentation_flag(PxPvdInstrumentationFlags *to_init, PxU8 val) {
+        new (to_init) PxPvdInstrumentationFlags(val);
+    }
+
+    bool PxPvd_connect(PxPvd* ths, PxPvdTransport& transport) {
+        return ths->connect(transport, PxPvdInstrumentationFlag::eALL);
+    }
+
+    void make_mesh_preprocess_flags(PxMeshPreprocessingFlags *to_init, PxU32 val) {
+        new (to_init) PxMeshPreprocessingFlags(val);
+    }
+
+    void make_geo_flags(PxMeshGeometryFlags *to_init, PxU8 val) {
+        new (to_init) PxMeshGeometryFlags(val);
+    }
+
+    void make_raycast_buffer(PxRaycastBuffer *to_init) {
+        new (to_init) PxRaycastBuffer();
+    }
+}
 
 int physx_dummy_main() {
     return 0;

@@ -1,4 +1,4 @@
-﻿  Building Custom Rule C:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/samples/compiler/cmake/CMakeLists.txt
+﻿  Building Custom Rule C:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/samples/compiler/cmake/CMakeLists.txt
   AcclaimLoader.cpp
   Dummy.cpp
   InputEventBuffer.cpp
@@ -31,4 +31,4 @@
   TestGroup.cpp
   TestMotionGenerator.cpp
   wavefront.cpp
-  SampleBase.vcxproj -> C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\SampleBase_static_64.lib
+  SampleBase.vcxproj -> C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\SampleBase_static_64.lib

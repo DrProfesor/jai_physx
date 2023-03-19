@@ -1,4 +1,4 @@
-﻿  Building Custom Rule C:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/source/compiler/cmake/CMakeLists.txt
+﻿  Building Custom Rule C:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/source/compiler/cmake/CMakeLists.txt
   DyArticulation.cpp
   DyArticulationContactPrep.cpp
   DyArticulationContactPrepPF.cpp
@@ -29,4 +29,4 @@
   DyTGSDynamics.cpp
   DyTGSContactPrep.cpp
   DyTGSContactPrepBlock.cpp
-  LowLevelDynamics.vcxproj -> C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\LowLevelDynamics_static_64.lib
+  LowLevelDynamics.vcxproj -> C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\LowLevelDynamics_static_64.lib

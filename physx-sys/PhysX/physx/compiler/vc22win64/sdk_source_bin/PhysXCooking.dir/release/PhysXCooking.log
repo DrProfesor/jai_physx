@@ -1,4 +1,4 @@
-﻿  Building Custom Rule C:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/source/compiler/cmake/CMakeLists.txt
+﻿  Building Custom Rule C:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/source/compiler/cmake/CMakeLists.txt
   Adjacencies.cpp
   Cooking.cpp
   CookingUtils.cpp
@@ -20,5 +20,5 @@
   QuickHullConvexHullLib.cpp
   VolumeIntegration.cpp
   WindowsCookingDelayLoadHook.cpp
-     Creating library C:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/bin/win.x86_64.vc142.mt/release/PhysXCooking_64.lib and object C:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/bin/win.x86_64.vc142.mt/release/PhysXCooking_64.exp
-  PhysXCooking.vcxproj -> C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\PhysXCooking_64.dll
+     Creating library C:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/bin/win.x86_64.vc142.mt/release/PhysXCooking_64.lib and object C:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/bin/win.x86_64.vc142.mt/release/PhysXCooking_64.exp
+  PhysXCooking.vcxproj -> C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\PhysXCooking_64.dll

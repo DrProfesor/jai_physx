@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\compiler\vc22win64\x64\release\ZERO_CHECK</FullPath>
+      <FullPath>C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\compiler\vc22win64\x64\release\ZERO_CHECK</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

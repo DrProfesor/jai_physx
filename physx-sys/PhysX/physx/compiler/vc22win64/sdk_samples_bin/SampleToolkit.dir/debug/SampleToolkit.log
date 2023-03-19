@@ -1,7 +1,0 @@
-﻿  Building Custom Rule C:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/samples/compiler/cmake/CMakeLists.txt
-  PxTkBmpLoader.cpp
-  PxTkFPS.cpp
-  PxTkMatrixUtils.cpp
-  PxTkRandom.cpp
-  PxTkStream.cpp
-  SampleToolkit.vcxproj -> C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\debug\SamplesToolkit_static_64.lib

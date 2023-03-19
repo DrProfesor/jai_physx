@@ -674,7 +674,7 @@ physx :: struct {
     \brief scalar division
     */
     operator/= :: (this: *physx.PxVec3, f: float) -> *physx.PxVec3 #cpp_method #foreign physx_lib "??_0PxVec3@physx@@QEAAAEAV01@M@Z";
-    #run {if true then return;
+    #run {
         instance: PxVec3;
         assert(((cast(*void)(*instance.x)) - cast(*void)(*instance)) == 0, "PxVec3.x has unexpected offset % instead of 0", ((cast(*void)(*instance.x)) - cast(*void)(*instance)));
         assert(size_of(type_of(PxVec3.x)) == 4, "PxVec3.x has unexpected size % instead of 4", size_of(type_of(PxVec3.x)));
@@ -872,7 +872,7 @@ physx :: struct {
     operator* :: (this: physx.PxQuat, r: float) -> physx.PxQuat #no_context {
         return operator*(*this, r);
     }
-    #run {if true then return;
+    #run {
         instance: PxQuat;
         assert(((cast(*void)(*instance.x)) - cast(*void)(*instance)) == 0, "PxQuat.x has unexpected offset % instead of 0", ((cast(*void)(*instance.x)) - cast(*void)(*instance)));
         assert(size_of(type_of(PxQuat.x)) == 4, "PxQuat.x has unexpected size % instead of 4", size_of(type_of(PxQuat.x)));
@@ -956,7 +956,7 @@ physx :: struct {
         n: PxVec3; //!< The normal to the plane
         d: float; //!< The distance from the origin
     }
-    #run {if true then return;
+    #run {
         instance: PxPlane;
         assert(((cast(*void)(*instance.n)) - cast(*void)(*instance)) == 0, "PxPlane.n has unexpected offset % instead of 0", ((cast(*void)(*instance.n)) - cast(*void)(*instance)));
         assert(size_of(type_of(PxPlane.n)) == 12, "PxPlane.n has unexpected size % instead of 12", size_of(type_of(PxPlane.n)));
@@ -1633,7 +1633,6 @@ physx :: struct {
     PxFlags :: struct(enumtype: Type, storagetype: Type) {
         InternalType :: storagetype;
 
-        _: *void;
         mBits:        storagetype;
     }
 
@@ -5121,7 +5120,7 @@ physx :: struct {
         \note	Otherwise, this value will be >= 0 */
         distance: PxF32;
     }
-    #run {if true then return;
+    #run {
         assert(size_of(type_of(PxLocationHit.pxqueryhit)) == 24, "PxLocationHit.pxqueryhit has unexpected size % instead of 24", size_of(type_of(PxLocationHit.pxqueryhit)));
         instance: PxLocationHit;
         assert(((cast(*void)(*instance.flags)) - cast(*void)(*instance)) == 24, "PxLocationHit.flags has unexpected offset % instead of 24", ((cast(*void)(*instance.flags)) - cast(*void)(*instance)));
@@ -5154,7 +5153,7 @@ physx :: struct {
         u: PxReal; //!< barycentric coordinates of hit point, for triangle mesh and height field (flag: #PxHitFlag::eUV)
         v: PxReal; //!< barycentric coordinates of hit point, for triangle mesh and height field (flag: #PxHitFlag::eUV)
     }
-    #run {if true then return;
+    #run {
         assert(size_of(type_of(PxRaycastHit.pxlocationhit)) == 56, "PxRaycastHit.pxlocationhit has unexpected size % instead of 56", size_of(type_of(PxRaycastHit.pxlocationhit)));
         instance: PxRaycastHit;
         assert(((cast(*void)(*instance.u)) - cast(*void)(*instance)) == 56, "PxRaycastHit.u has unexpected offset % instead of 56", ((cast(*void)(*instance.u)) - cast(*void)(*instance)));
@@ -8214,7 +8213,7 @@ physx :: struct {
         }
         __empty_struct_padding: u8; // C++ makes empty structs have length 1
     }
-    #run {if true then return;
+    #run {
         assert(size_of(PxShapeFlag) == 1, "PxShapeFlag has size % instead of 1", size_of(PxShapeFlag));
     }
 
@@ -13235,7 +13234,7 @@ physx :: struct {
 
     vtable :: (obj: *PxScene) -> *PxScene_VTable { return obj.vtable; }
 
-    #run {if true then return;
+    #run {
         instance: PxScene;
         assert(((cast(*void)(*instance.userData)) - cast(*void)(*instance)) == 8, "PxScene.userData has unexpected offset % instead of 8", ((cast(*void)(*instance.userData)) - cast(*void)(*instance)));
         assert(size_of(type_of(PxScene.userData)) == 8, "PxScene.userData has unexpected size % instead of 8", size_of(type_of(PxScene.userData)));
@@ -32714,7 +32713,7 @@ get_default_allocator :: () -> *physx.PxAllocatorCallback #foreign physx_lib;
 // linking against the raw interface
 get_default_error_callback :: () -> *physx.PxErrorCallback #foreign physx_lib;
 
-physx_create_physics :: (foundation: *physx.PxFoundation) -> *physx.PxPhysics #foreign physx_lib;
+physx_create_physics :: (foundation: *physx.PxFoundation, pvd: *physx.PxPvd) -> *physx.PxPhysics #foreign physx_lib;
 
 create_raycast_filter_callback :: (actor_to_ignore: *physx.PxRigidActor) -> *physx.PxQueryFilterCallback #foreign physx_lib;
 
@@ -32742,6 +32741,53 @@ enable_custom_filter_shader :: (desc: *physx.PxSceneDesc, filter: SimulationShad
 
 // Not generated, used only for testing and examples!
 PxAssertHandler_opCall_mut :: (self__pod: *physx_PxErrorCallback_Pod, expr: *u8, file: *u8, line: s32, ignore: *bool) -> void #foreign physx_lib;
+
+HitAllCallback :: struct {
+    #as using pxraycastcallback: physx.PxRaycastCallback;
+    vtable: *HitAllCallback_VTable;
+
+    Constructor :: (this: *HitAllCallback, aTouches: *physx.PxRaycastHit, aMaxNbTouches: physx.PxU32) -> void #cpp_method #foreign physx_lib "??0HitAllCallback@@QEAA@PEAUPxRaycastHit@physx@@I@Z";
+
+    // Virtual functions:
+    // Normally you should call them via the vtable.
+    // But these bindings can be useful if you need to call the parent implementation in a sub-struct’s overwritten method
+    // or need to create a vtable yourself.
+
+    virtual_processTouches :: (this: *HitAllCallback, buffer: *physx.PxRaycastHit, nbHits: physx.PxU32) -> physx.PxAgain #cpp_method #foreign physx_lib "?processTouches@HitAllCallback@@UEAA_NPEBUPxRaycastHit@physx@@I@Z";
+}
+HitAllCallback_VTable :: struct #type_info_none {
+    processTouches: (this: *HitAllCallback, buffer: *physx.PxRaycastHit, nbHits: physx.PxU32) -> physx.PxAgain #cpp_method;
+}
+HitAllCallback_processTouches :: inline (this: *HitAllCallback, buffer: *physx.PxRaycastHit, nbHits: physx.PxU32) -> physx.PxAgain { return this.vtable.processTouches(this, buffer, nbHits); }
+
+vtable :: (obj: *HitAllCallback) -> *HitAllCallback_VTable { return obj.vtable; }
+
+#run { if true return;
+    assert(size_of(type_of(HitAllCallback.pxraycastcallback)) == 96, "HitAllCallback.pxraycastcallback has unexpected size % instead of 96", size_of(type_of(HitAllCallback.pxraycastcallback)));
+    assert(size_of(HitAllCallback) == 96, "HitAllCallback has size % instead of 96", size_of(HitAllCallback));
+}
+
+make_raycast_callback :: (to_init: *physx.PxRaycastCallback, buffer: *physx.PxRaycastHit, count: physx.PxU32) -> void #foreign physx_lib;
+
+make_shape_flags :: (to_init: *physx.PxShapeFlags, val: physx.PxU8) -> void #foreign physx_lib;
+
+PxPhysics_createShape :: (phys: *physx.PxPhysics, geo: *physx.PxGeometry, materials: **physx.PxMaterial, materialCount: physx.PxU16, isExclusive: bool) -> *physx.PxShape #foreign physx_lib;
+
+make_query_flags :: (to_init: *physx.PxQueryFlags, val: physx.PxU8) -> void #foreign physx_lib;
+
+make_hit_flags :: (to_init: *physx.PxHitFlags, val: physx.PxU16) -> void #foreign physx_lib;
+
+make_query_filter_data :: (to_init: *physx.PxQueryFilterData, query_flags: physx.PxU8, word0: physx.PxU32) -> void #foreign physx_lib;
+
+make_pvd_instrumentation_flag :: (to_init: *physx.PxPvdInstrumentationFlags, val: physx.PxU8) -> void #foreign physx_lib;
+
+PxPvd_connect :: (ths: *physx.PxPvd, transport: *physx.PxPvdTransport) -> bool #foreign physx_lib;
+
+make_mesh_preprocess_flags :: (to_init: *physx.PxMeshPreprocessingFlags, val: physx.PxU32) -> void #foreign physx_lib;
+
+make_geo_flags :: (to_init: *physx.PxMeshGeometryFlags, val: physx.PxU8) -> void #foreign physx_lib;
+
+make_raycast_buffer :: (to_init: *physx.PxRaycastBuffer) -> void #foreign physx_lib;
 
 physx_dummy_main :: () -> s32 #foreign physx_lib "?physx_dummy_main@@YAHXZ";
 

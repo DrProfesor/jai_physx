@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\compiler\vc22win64\CMakeFiles\3.24.2\CompilerIdCXX\CompilerIdCXX.exe</FullPath>
+      <FullPath>C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\compiler\vc22win64\CMakeFiles\3.24.2\CompilerIdCXX\CompilerIdCXX.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

@@ -1,0 +1,4420 @@
+Microsoft (R) COFF/PE Dumper Version 14.34.31935.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file PhysX_64.lib
+
+File Type: LIBRARY
+
+Archive member name at 8: /               
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+    4D7A size
+correct header end
+
+    331 public symbols
+
+     9B82 __IMPORT_DESCRIPTOR_PhysX_64
+     9DB0 __NULL_IMPORT_DESCRIPTOR
+     9EE8 PhysX_64_NULL_THUNK_DATA
+     BACC ??0PxPhysicsGeneratedValues@physx@@QEAA@PEBVPxPhysics@1@@Z
+     BACC __imp_??0PxPhysicsGeneratedValues@physx@@QEAA@PEBVPxPhysics@1@@Z
+     BA46 ??0PxPhysicsGeneratedInfo@physx@@QEAA@XZ
+     BA46 __imp_??0PxPhysicsGeneratedInfo@physx@@QEAA@XZ
+     B888 ??0PxMaterialGeneratedValues@physx@@QEAA@PEBVPxMaterial@1@@Z
+     B888 __imp_??0PxMaterialGeneratedValues@physx@@QEAA@PEBVPxMaterial@1@@Z
+     B800 ??0PxMaterialGeneratedInfo@physx@@QEAA@XZ
+     B800 __imp_??0PxMaterialGeneratedInfo@physx@@QEAA@XZ
+     A3F0 ??0PxActorGeneratedValues@physx@@QEAA@PEBVPxActor@1@@Z
+     A3F0 __imp_??0PxActorGeneratedValues@physx@@QEAA@PEBVPxActor@1@@Z
+     A36C ??0PxActorGeneratedInfo@physx@@QEAA@XZ
+     A36C __imp_??0PxActorGeneratedInfo@physx@@QEAA@XZ
+     BE58 ??0PxRigidActorGeneratedValues@physx@@QEAA@PEBVPxRigidActor@1@@Z
+     BE58 __imp_??0PxRigidActorGeneratedValues@physx@@QEAA@PEBVPxRigidActor@1@@Z
+     BDCE ??0PxRigidActorGeneratedInfo@physx@@QEAA@XZ
+     BDCE __imp_??0PxRigidActorGeneratedInfo@physx@@QEAA@XZ
+     BF7E ??0PxRigidBodyGeneratedValues@physx@@QEAA@PEBVPxRigidBody@1@@Z
+     BF7E __imp_??0PxRigidBodyGeneratedValues@physx@@QEAA@PEBVPxRigidBody@1@@Z
+     BEF6 ??0PxRigidBodyGeneratedInfo@physx@@QEAA@XZ
+     BEF6 __imp_??0PxRigidBodyGeneratedInfo@physx@@QEAA@XZ
+     C0A6 ??0PxRigidDynamicGeneratedValues@physx@@QEAA@PEBVPxRigidDynamic@1@@Z
+     C0A6 __imp_??0PxRigidDynamicGeneratedValues@physx@@QEAA@PEBVPxRigidDynamic@1@@Z
+     C01A ??0PxRigidDynamicGeneratedInfo@physx@@QEAA@XZ
+     C01A __imp_??0PxRigidDynamicGeneratedInfo@physx@@QEAA@XZ
+     C1D2 ??0PxRigidStaticGeneratedValues@physx@@QEAA@PEBVPxRigidStatic@1@@Z
+     C1D2 __imp_??0PxRigidStaticGeneratedValues@physx@@QEAA@PEBVPxRigidStatic@1@@Z
+     C148 ??0PxRigidStaticGeneratedInfo@physx@@QEAA@XZ
+     C148 __imp_??0PxRigidStaticGeneratedInfo@physx@@QEAA@XZ
+     AC94 ??0PxArticulationLinkGeneratedValues@physx@@QEAA@PEBVPxArticulationLink@1@@Z
+     AC94 __imp_??0PxArticulationLinkGeneratedValues@physx@@QEAA@PEBVPxArticulationLink@1@@Z
+     AC04 ??0PxArticulationLinkGeneratedInfo@physx@@QEAA@XZ
+     AC04 __imp_??0PxArticulationLinkGeneratedInfo@physx@@QEAA@XZ
+     A8A4 ??0PxArticulationJointBaseGeneratedValues@physx@@QEAA@PEBVPxArticulationJointBase@1@@Z
+     A8A4 __imp_??0PxArticulationJointBaseGeneratedValues@physx@@QEAA@PEBVPxArticulationJointBase@1@@Z
+     A810 ??0PxArticulationJointBaseGeneratedInfo@physx@@QEAA@XZ
+     A810 __imp_??0PxArticulationJointBaseGeneratedInfo@physx@@QEAA@XZ
+     A9E8 ??0PxArticulationJointGeneratedValues@physx@@QEAA@PEBVPxArticulationJoint@1@@Z
+     A9E8 __imp_??0PxArticulationJointGeneratedValues@physx@@QEAA@PEBVPxArticulationJoint@1@@Z
+     A958 ??0PxArticulationJointGeneratedInfo@physx@@QEAA@XZ
+     A958 __imp_??0PxArticulationJointGeneratedInfo@physx@@QEAA@XZ
+     AB36 ??0PxArticulationJointReducedCoordinateGeneratedValues@physx@@QEAA@PEBVPxArticulationJointReducedCoordinate@1@@Z
+     AB36 __imp_??0PxArticulationJointReducedCoordinateGeneratedValues@physx@@QEAA@PEBVPxArticulationJointReducedCoordinate@1@@Z
+     AA94 ??0PxArticulationJointReducedCoordinateGeneratedInfo@physx@@QEAA@XZ
+     AA94 __imp_??0PxArticulationJointReducedCoordinateGeneratedInfo@physx@@QEAA@XZ
+     A638 ??0PxArticulationBaseGeneratedValues@physx@@QEAA@PEBVPxArticulationBase@1@@Z
+     A638 __imp_??0PxArticulationBaseGeneratedValues@physx@@QEAA@PEBVPxArticulationBase@1@@Z
+     A5A8 ??0PxArticulationBaseGeneratedInfo@physx@@QEAA@XZ
+     A5A8 __imp_??0PxArticulationBaseGeneratedInfo@physx@@QEAA@XZ
+     A76E ??0PxArticulationGeneratedValues@physx@@QEAA@PEBVPxArticulation@1@@Z
+     A76E __imp_??0PxArticulationGeneratedValues@physx@@QEAA@PEBVPxArticulation@1@@Z
+     A6E2 ??0PxArticulationGeneratedInfo@physx@@QEAA@XZ
+     A6E2 __imp_??0PxArticulationGeneratedInfo@physx@@QEAA@XZ
+     ADDA ??0PxArticulationReducedCoordinateGeneratedValues@physx@@QEAA@PEBVPxArticulationReducedCoordinate@1@@Z
+     ADDA __imp_??0PxArticulationReducedCoordinateGeneratedValues@physx@@QEAA@PEBVPxArticulationReducedCoordinate@1@@Z
+     AD3E ??0PxArticulationReducedCoordinateGeneratedInfo@physx@@QEAA@XZ
+     AD3E __imp_??0PxArticulationReducedCoordinateGeneratedInfo@physx@@QEAA@XZ
+     A50C ??0PxAggregateGeneratedValues@physx@@QEAA@PEBVPxAggregate@1@@Z
+     A50C __imp_??0PxAggregateGeneratedValues@physx@@QEAA@PEBVPxAggregate@1@@Z
+     A484 ??0PxAggregateGeneratedInfo@physx@@QEAA@XZ
+     A484 __imp_??0PxAggregateGeneratedInfo@physx@@QEAA@XZ
+     B188 ??0PxConstraintGeneratedValues@physx@@QEAA@PEBVPxConstraint@1@@Z
+     B188 __imp_??0PxConstraintGeneratedValues@physx@@QEAA@PEBVPxConstraint@1@@Z
+     B0FE ??0PxConstraintGeneratedInfo@physx@@QEAA@XZ
+     B0FE __imp_??0PxConstraintGeneratedInfo@physx@@QEAA@XZ
+     C65C ??0PxShapeGeneratedValues@physx@@QEAA@PEBVPxShape@1@@Z
+     C65C __imp_??0PxShapeGeneratedValues@physx@@QEAA@PEBVPxShape@1@@Z
+     C5D8 ??0PxShapeGeneratedInfo@physx@@QEAA@XZ
+     C5D8 __imp_??0PxShapeGeneratedInfo@physx@@QEAA@XZ
+     BD24 ??0PxPruningStructureGeneratedValues@physx@@QEAA@PEBVPxPruningStructure@1@@Z
+     BD24 __imp_??0PxPruningStructureGeneratedValues@physx@@QEAA@PEBVPxPruningStructure@1@@Z
+     BC94 ??0PxPruningStructureGeneratedInfo@physx@@QEAA@XZ
+     BC94 __imp_??0PxPruningStructureGeneratedInfo@physx@@QEAA@XZ
+     C9F8 ??0PxTolerancesScaleGeneratedValues@physx@@QEAA@PEBVPxTolerancesScale@1@@Z
+     C9F8 __imp_??0PxTolerancesScaleGeneratedValues@physx@@QEAA@PEBVPxTolerancesScale@1@@Z
+     C96A ??0PxTolerancesScaleGeneratedInfo@physx@@QEAA@XZ
+     C96A __imp_??0PxTolerancesScaleGeneratedInfo@physx@@QEAA@XZ
+     B4EE ??0PxGeometryGeneratedValues@physx@@QEAA@PEBVPxGeometry@1@@Z
+     B4EE __imp_??0PxGeometryGeneratedValues@physx@@QEAA@PEBVPxGeometry@1@@Z
+     B466 ??0PxGeometryGeneratedInfo@physx@@QEAA@XZ
+     B466 __imp_??0PxGeometryGeneratedInfo@physx@@QEAA@XZ
+     AF28 ??0PxBoxGeometryGeneratedValues@physx@@QEAA@PEBVPxBoxGeometry@1@@Z
+     AF28 __imp_??0PxBoxGeometryGeneratedValues@physx@@QEAA@PEBVPxBoxGeometry@1@@Z
+     AE9E ??0PxBoxGeometryGeneratedInfo@physx@@QEAA@XZ
+     AE9E __imp_??0PxBoxGeometryGeneratedInfo@physx@@QEAA@XZ
+     B056 ??0PxCapsuleGeometryGeneratedValues@physx@@QEAA@PEBVPxCapsuleGeometry@1@@Z
+     B056 __imp_??0PxCapsuleGeometryGeneratedValues@physx@@QEAA@PEBVPxCapsuleGeometry@1@@Z
+     AFC8 ??0PxCapsuleGeometryGeneratedInfo@physx@@QEAA@XZ
+     AFC8 __imp_??0PxCapsuleGeometryGeneratedInfo@physx@@QEAA@XZ
+     B9AA ??0PxMeshScaleGeneratedValues@physx@@QEAA@PEBVPxMeshScale@1@@Z
+     B9AA __imp_??0PxMeshScaleGeneratedValues@physx@@QEAA@PEBVPxMeshScale@1@@Z
+     B922 ??0PxMeshScaleGeneratedInfo@physx@@QEAA@XZ
+     B922 __imp_??0PxMeshScaleGeneratedInfo@physx@@QEAA@XZ
+     B2B8 ??0PxConvexMeshGeometryGeneratedValues@physx@@QEAA@PEBVPxConvexMeshGeometry@1@@Z
+     B2B8 __imp_??0PxConvexMeshGeometryGeneratedValues@physx@@QEAA@PEBVPxConvexMeshGeometry@1@@Z
+     B226 ??0PxConvexMeshGeometryGeneratedInfo@physx@@QEAA@XZ
+     B226 __imp_??0PxConvexMeshGeometryGeneratedInfo@physx@@QEAA@XZ
+     C8C4 ??0PxSphereGeometryGeneratedValues@physx@@QEAA@PEBVPxSphereGeometry@1@@Z
+     C8C4 __imp_??0PxSphereGeometryGeneratedValues@physx@@QEAA@PEBVPxSphereGeometry@1@@Z
+     C836 ??0PxSphereGeometryGeneratedInfo@physx@@QEAA@XZ
+     C836 __imp_??0PxSphereGeometryGeneratedInfo@physx@@QEAA@XZ
+     BBF0 ??0PxPlaneGeometryGeneratedValues@physx@@QEAA@PEBVPxPlaneGeometry@1@@Z
+     BBF0 __imp_??0PxPlaneGeometryGeneratedValues@physx@@QEAA@PEBVPxPlaneGeometry@1@@Z
+     BB64 ??0PxPlaneGeometryGeneratedInfo@physx@@QEAA@XZ
+     BB64 __imp_??0PxPlaneGeometryGeneratedInfo@physx@@QEAA@XZ
+     CB34 ??0PxTriangleMeshGeometryGeneratedValues@physx@@QEAA@PEBVPxTriangleMeshGeometry@1@@Z
+     CB34 __imp_??0PxTriangleMeshGeometryGeneratedValues@physx@@QEAA@PEBVPxTriangleMeshGeometry@1@@Z
+     CAA0 ??0PxTriangleMeshGeometryGeneratedInfo@physx@@QEAA@XZ
+     CAA0 __imp_??0PxTriangleMeshGeometryGeneratedInfo@physx@@QEAA@XZ
+     B750 ??0PxHeightFieldGeometryGeneratedValues@physx@@QEAA@PEBVPxHeightFieldGeometry@1@@Z
+     B750 __imp_??0PxHeightFieldGeometryGeneratedValues@physx@@QEAA@PEBVPxHeightFieldGeometry@1@@Z
+     B6BE ??0PxHeightFieldGeometryGeneratedInfo@physx@@QEAA@XZ
+     B6BE __imp_??0PxHeightFieldGeometryGeneratedInfo@physx@@QEAA@XZ
+     B616 ??0PxHeightFieldDescGeneratedValues@physx@@QEAA@PEBVPxHeightFieldDesc@1@@Z
+     B616 __imp_??0PxHeightFieldDescGeneratedValues@physx@@QEAA@PEBVPxHeightFieldDesc@1@@Z
+     B588 ??0PxHeightFieldDescGeneratedInfo@physx@@QEAA@XZ
+     B588 __imp_??0PxHeightFieldDescGeneratedInfo@physx@@QEAA@XZ
+     C41A ??0PxSceneGeneratedValues@physx@@QEAA@PEBVPxScene@1@@Z
+     C41A __imp_??0PxSceneGeneratedValues@physx@@QEAA@PEBVPxScene@1@@Z
+     C396 ??0PxSceneGeneratedInfo@physx@@QEAA@XZ
+     C396 __imp_??0PxSceneGeneratedInfo@physx@@QEAA@XZ
+     C538 ??0PxSceneLimitsGeneratedValues@physx@@QEAA@PEBVPxSceneLimits@1@@Z
+     C538 __imp_??0PxSceneLimitsGeneratedValues@physx@@QEAA@PEBVPxSceneLimits@1@@Z
+     C4AE ??0PxSceneLimitsGeneratedInfo@physx@@QEAA@XZ
+     C4AE __imp_??0PxSceneLimitsGeneratedInfo@physx@@QEAA@XZ
+     CC7A ??0PxgDynamicsMemoryConfigGeneratedValues@physx@@QEAA@PEBUPxgDynamicsMemoryConfig@1@@Z
+     CC7A __imp_??0PxgDynamicsMemoryConfigGeneratedValues@physx@@QEAA@PEBUPxgDynamicsMemoryConfig@1@@Z
+     CBE6 ??0PxgDynamicsMemoryConfigGeneratedInfo@physx@@QEAA@XZ
+     CBE6 __imp_??0PxgDynamicsMemoryConfigGeneratedInfo@physx@@QEAA@XZ
+     C2FA ??0PxSceneDescGeneratedValues@physx@@QEAA@PEBVPxSceneDesc@1@@Z
+     C2FA __imp_??0PxSceneDescGeneratedValues@physx@@QEAA@PEBVPxSceneDesc@1@@Z
+     C272 ??0PxSceneDescGeneratedInfo@physx@@QEAA@XZ
+     C272 __imp_??0PxSceneDescGeneratedInfo@physx@@QEAA@XZ
+     C784 ??0PxSimulationStatisticsGeneratedValues@physx@@QEAA@PEBVPxSimulationStatistics@1@@Z
+     C784 __imp_??0PxSimulationStatisticsGeneratedValues@physx@@QEAA@PEBVPxSimulationStatistics@1@@Z
+     C6F0 ??0PxSimulationStatisticsGeneratedInfo@physx@@QEAA@XZ
+     C6F0 __imp_??0PxSimulationStatisticsGeneratedInfo@physx@@QEAA@XZ
+     CDBA ??1PxFoundation@physx@@MEAA@XZ
+     CDBA __imp_??1PxFoundation@physx@@MEAA@XZ
+     B3EA ??0PxFoundation@physx@@QEAA@XZ
+     B3EA __imp_??0PxFoundation@physx@@QEAA@XZ
+     B366 ??0PxFoundation@physx@@QEAA@AEBV01@@Z
+     B366 __imp_??0PxFoundation@physx@@QEAA@AEBV01@@Z
+     D076 ??4PxFoundation@physx@@QEAAAEAV01@AEBV01@@Z
+     D076 __imp_??4PxFoundation@physx@@QEAAAEAV01@AEBV01@@Z
+     A044 ??0Allocator@shdfnd@physx@@QEAA@PEBD@Z
+     A044 __imp_??0Allocator@shdfnd@physx@@QEAA@PEBD@Z
+     CEC8 ??4Allocator@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z
+     CEC8 __imp_??4Allocator@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z
+     CE36 ??4Allocator@shdfnd@physx@@QEAAAEAV012@$$QEAV012@@Z
+     CE36 __imp_??4Allocator@shdfnd@physx@@QEAAAEAV012@$$QEAV012@@Z
+     D298 ??_FAllocator@shdfnd@physx@@QEAAXXZ
+     D298 __imp_??_FAllocator@shdfnd@physx@@QEAAXXZ
+     CFE6 ??4MutexImpl@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z
+     CFE6 __imp_??4MutexImpl@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z
+     D764 ?getErrorCallback@Foundation@shdfnd@physx@@UEAAAEAVPxErrorCallback@3@XZ
+     D764 __imp_?getErrorCallback@Foundation@shdfnd@physx@@UEAAAEAVPxErrorCallback@3@XZ
+     DEAA ?getInternalErrorCallback@Foundation@shdfnd@physx@@QEAAAEAVPxErrorCallback@3@XZ
+     DEAA __imp_?getInternalErrorCallback@Foundation@shdfnd@physx@@QEAAAEAVPxErrorCallback@3@XZ
+     E34C ?setErrorLevel@Foundation@shdfnd@physx@@UEAAXW4Enum@PxErrorCode@3@@Z
+     E34C __imp_?setErrorLevel@Foundation@shdfnd@physx@@UEAAXW4Enum@PxErrorCode@3@@Z
+     D80A ?getErrorLevel@Foundation@shdfnd@physx@@UEBA?AW4Enum@PxErrorCode@3@XZ
+     D80A __imp_?getErrorLevel@Foundation@shdfnd@physx@@UEBA?AW4Enum@PxErrorCode@3@XZ
+     D6B6 ?getAllocatorCallback@Foundation@shdfnd@physx@@UEAAAEAVPxAllocatorCallback@3@XZ
+     D6B6 __imp_?getAllocatorCallback@Foundation@shdfnd@physx@@UEAAAEAVPxAllocatorCallback@3@XZ
+     D610 ?getAllocator@Foundation@shdfnd@physx@@QEAAAEAVPxAllocatorCallback@3@XZ
+     D610 __imp_?getAllocator@Foundation@shdfnd@physx@@QEAAAEAVPxAllocatorCallback@3@XZ
+     E120 ?getReportAllocationNames@Foundation@shdfnd@physx@@UEBA_NXZ
+     E120 __imp_?getReportAllocationNames@Foundation@shdfnd@physx@@UEBA_NXZ
+     E4AA ?setReportAllocationNames@Foundation@shdfnd@physx@@UEAAX_N@Z
+     E4AA __imp_?setReportAllocationNames@Foundation@shdfnd@physx@@UEAAX_N@Z
+     DF58 ?getNamedAllocMap@Foundation@shdfnd@physx@@QEAAAEAV?$HashMap@PEBVNamedAllocator@shdfnd@physx@@PEBDU?$Hash@PEBVNamedAllocator@shdfnd@physx@@@23@VNonTrackingAllocator@23@@23@XZ
+     DF58 __imp_?getNamedAllocMap@Foundation@shdfnd@physx@@QEAAAEAV?$HashMap@PEBVNamedAllocator@shdfnd@physx@@PEBDU?$Hash@PEBVNamedAllocator@shdfnd@physx@@@23@VNonTrackingAllocator@23@@23@XZ
+     E064 ?getNamedAllocMutex@Foundation@shdfnd@physx@@QEAAAEAV?$MutexT@VAllocator@shdfnd@physx@@@23@XZ
+     E064 __imp_?getNamedAllocMutex@Foundation@shdfnd@physx@@QEAAAEAV?$MutexT@VAllocator@shdfnd@physx@@@23@XZ
+     E1BA ?getTempAllocFreeTable@Foundation@shdfnd@physx@@QEAAAEAV?$Array@PEATTempAllocatorChunk@shdfnd@physx@@VAllocator@23@@23@XZ
+     E1BA __imp_?getTempAllocFreeTable@Foundation@shdfnd@physx@@QEAAAEAV?$Array@PEATTempAllocatorChunk@shdfnd@physx@@VAllocator@23@@23@XZ
+     E292 ?getTempAllocMutex@Foundation@shdfnd@physx@@QEAAAEAV?$MutexT@VAllocator@shdfnd@physx@@@23@XZ
+     E292 __imp_?getTempAllocMutex@Foundation@shdfnd@physx@@QEAAAEAV?$MutexT@VAllocator@shdfnd@physx@@@23@XZ
+     DDE8 ?getGeometryType@PxShapeGeometryPropertyHelper@physx@@QEBA?AW4Enum@PxGeometryType@2@PEBVPxShape@2@@Z
+     DDE8 __imp_?getGeometryType@PxShapeGeometryPropertyHelper@physx@@QEBA?AW4Enum@PxGeometryType@2@PEBVPxShape@2@@Z
+     D8AE ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxBoxGeometry@2@@Z
+     D8AE __imp_?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxBoxGeometry@2@@Z
+     DC66 ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxSphereGeometry@2@@Z
+     DC66 __imp_?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxSphereGeometry@2@@Z
+     D968 ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxCapsuleGeometry@2@@Z
+     D968 __imp_?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxCapsuleGeometry@2@@Z
+     DBAA ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxPlaneGeometry@2@@Z
+     DBAA __imp_?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxPlaneGeometry@2@@Z
+     DA26 ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxConvexMeshGeometry@2@@Z
+     DA26 __imp_?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxConvexMeshGeometry@2@@Z
+     DD24 ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxTriangleMeshGeometry@2@@Z
+     DD24 __imp_?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxTriangleMeshGeometry@2@@Z
+     DAE8 ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxHeightFieldGeometry@2@@Z
+     DAE8 __imp_?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxHeightFieldGeometry@2@@Z
+     E3EE ?setMaterials@PxShapeMaterialsPropertyHelper@physx@@QEBAXPEAVPxShape@2@PEBQEAVPxMaterial@2@G@Z
+     E3EE __imp_?setMaterials@PxShapeMaterialsPropertyHelper@physx@@QEBAXPEAVPxShape@2@PEBQEAVPxMaterial@2@G@Z
+     D400 ?createShape@PxRigidActorShapeCollectionHelper@physx@@QEBAPEAVPxShape@2@PEAVPxRigidActor@2@AEBVPxGeometry@2@AEAVPxMaterial@2@V?$PxFlags@W4Enum@PxShapeFlag@physx@@E@2@@Z
+     D400 __imp_?createShape@PxRigidActorShapeCollectionHelper@physx@@QEBAPEAVPxShape@2@PEAVPxRigidActor@2@AEBVPxGeometry@2@AEAVPxMaterial@2@V?$PxFlags@W4Enum@PxShapeFlag@physx@@E@2@@Z
+     D506 ?createShape@PxRigidActorShapeCollectionHelper@physx@@QEBAPEAVPxShape@2@PEAVPxRigidActor@2@AEBVPxGeometry@2@PEBQEAVPxMaterial@2@GV?$PxFlags@W4Enum@PxShapeFlag@physx@@E@2@@Z
+     D506 __imp_?createShape@PxRigidActorShapeCollectionHelper@physx@@QEBAPEAVPxShape@2@PEAVPxRigidActor@2@AEBVPxGeometry@2@PEBQEAVPxMaterial@2@GV?$PxFlags@W4Enum@PxShapeFlag@physx@@E@2@@Z
+     D31A ?createLink@PxArticulationLinkCollectionPropHelper@physx@@QEBAPEAVPxArticulationLink@2@PEAVPxArticulation@2@PEAV32@AEBVPxTransform@2@@Z
+     D31A __imp_?createLink@PxArticulationLinkCollectionPropHelper@physx@@QEBAPEAVPxArticulationLink@2@PEAVPxArticulation@2@PEAV32@AEBVPxTransform@2@@Z
+     A266 ??0NbShapesProperty@physx@@QEAA@XZ
+     A266 __imp_??0NbShapesProperty@physx@@QEAA@XZ
+     A14A ??0NbDiscreteContactPairsProperty@physx@@QEAA@XZ
+     A14A __imp_??0NbDiscreteContactPairsProperty@physx@@QEAA@XZ
+     A1D8 ??0NbModifiedContactPairsProperty@physx@@QEAA@XZ
+     A1D8 __imp_??0NbModifiedContactPairsProperty@physx@@QEAA@XZ
+     A0C8 ??0NbCCDPairsProperty@physx@@QEAA@XZ
+     A0C8 __imp_??0NbCCDPairsProperty@physx@@QEAA@XZ
+     A2E6 ??0NbTriggerPairsProperty@physx@@QEAA@XZ
+     A2E6 __imp_??0NbTriggerPairsProperty@physx@@QEAA@XZ
+     CD2E ??0SimulationStatisticsProperty@physx@@QEAA@XZ
+     CD2E __imp_??0SimulationStatisticsProperty@physx@@QEAA@XZ
+     D21E __imp_??_7PxFoundation@physx@@6B@
+     E544 __imp_?waitForever@SyncImpl@shdfnd@physx@@2IB
+     CF58 ??4FPUGuard@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z
+     CF58 __imp_??4FPUGuard@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z
+     D100 ??4SyncImpl@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z
+     D100 __imp_??4SyncImpl@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z
+     D18E ??4ThreadImpl@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z
+     D18E __imp_??4ThreadImpl@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z
+     F548 PxGetPhysicsBinaryMetaData
+     F548 __imp_PxGetPhysicsBinaryMetaData
+     F72C PxRegisterArticulations
+     F72C __imp_PxRegisterArticulations
+     F7A2 PxRegisterArticulationsReducedCoordinate
+     F7A2 __imp_PxRegisterArticulationsReducedCoordinate
+     F828 PxRegisterHeightFields
+     F828 __imp_PxRegisterHeightFields
+     EBEE PxCreateBasePhysics
+     EBEE __imp_PxCreateBasePhysics
+     F4DE PxGetPhysics
+     F4DE __imp_PxGetPhysics
+     E63E PxAddCollectionToPhysics
+     E63E __imp_PxAddCollectionToPhysics
+     F91A PxRegisterPhysicsSerializers
+     F91A __imp_PxRegisterPhysicsSerializers
+     FD2C PxUnregisterPhysicsSerializers
+     FD2C __imp_PxUnregisterPhysicsSerializers
+     E90E PxConstructSolverBodies
+     E90E __imp_PxConstructSolverBodies
+     E9FC PxConstructStaticSolverBody
+     E9FC __imp_PxConstructStaticSolverBody
+     E72A PxBatchConstraints
+     E72A __imp_PxBatchConstraints
+     EC60 PxCreateContactConstraints
+     EC60 __imp_PxCreateContactConstraints
+     EEC8 PxCreateJointConstraints
+     EEC8 __imp_PxCreateJointConstraints
+     F0D0 PxCreateJointConstraintsWithShaders
+     F0D0 __imp_PxCreateJointConstraintsWithShaders
+     EFB8 PxCreateJointConstraintsWithImmediateShaders
+     EFB8 __imp_PxCreateJointConstraintsWithImmediateShaders
+     FC48 PxSolveConstraints
+     FC48 __imp_PxSolveConstraints
+     F63E PxIntegrateSolverBodies
+     F63E __imp_PxIntegrateSolverBodies
+     F1D6 PxGenerateContacts
+     F1D6 __imp_PxGenerateContacts
+     F89C PxRegisterImmediateArticulations
+     F89C __imp_PxRegisterImmediateArticulations
+     EE4A PxCreateFeatherstoneArticulation
+     EE4A __imp_PxCreateFeatherstoneArticulation
+     F994 PxReleaseArticulation
+     F994 __imp_PxReleaseArticulation
+     EB76 PxCreateArticulationCache
+     EB76 __imp_PxCreateArticulationCache
+     EAF2 PxCopyInternalStateToArticulationCache
+     EAF2 __imp_PxCopyInternalStateToArticulationCache
+     E6B4 PxApplyArticulationCache
+     E6B4 __imp_PxApplyArticulationCache
+     FA08 PxReleaseArticulationCache
+     FA08 __imp_PxReleaseArticulationCache
+     E5CA PxAddArticulationLink
+     E5CA __imp_PxAddArticulationLink
+     F320 PxGetLinkArticulation
+     F320 __imp_PxGetLinkArticulation
+     F400 PxGetLinkIndex
+     F400 __imp_PxGetLinkIndex
+     F394 PxGetLinkData
+     F394 __imp_PxGetLinkData
+     F246 PxGetAllLinkData
+     F246 __imp_PxGetAllLinkData
+     F46C PxGetMutableLinkData
+     F46C __imp_PxGetMutableLinkData
+     FAEC PxSetMutableLinkData
+     FAEC __imp_PxSetMutableLinkData
+     F2B4 PxGetJointData
+     F2B4 __imp_PxGetJointData
+     FA80 PxSetJointData
+     FA80 __imp_PxSetJointData
+     E80E PxComputeUnconstrainedVelocities
+     E80E __imp_PxComputeUnconstrainedVelocities
+     FDA8 PxUpdateArticulationBodies
+     FDA8 __imp_PxUpdateArticulationBodies
+     E88C PxComputeUnconstrainedVelocitiesTGS
+     E88C __imp_PxComputeUnconstrainedVelocitiesTGS
+     FE20 PxUpdateArticulationBodiesTGS
+     FE20 __imp_PxUpdateArticulationBodiesTGS
+     E984 PxConstructSolverBodiesTGS
+     E984 __imp_PxConstructSolverBodiesTGS
+     EA76 PxConstructStaticSolverBodyTGS
+     EA76 __imp_PxConstructStaticSolverBodyTGS
+     E79A PxBatchConstraintsTGS
+     E79A __imp_PxBatchConstraintsTGS
+     ECD8 PxCreateContactConstraintsTGS
+     ECD8 __imp_PxCreateContactConstraintsTGS
+     EF3E PxCreateJointConstraintsTGS
+     EF3E __imp_PxCreateJointConstraintsTGS
+     F152 PxCreateJointConstraintsWithShadersTGS
+     F152 __imp_PxCreateJointConstraintsWithShadersTGS
+     F042 PxCreateJointConstraintsWithImmediateShadersTGS
+     F042 __imp_PxCreateJointConstraintsWithImmediateShadersTGS
+     FCB8 PxSolveConstraintsTGS
+     FCB8 __imp_PxSolveConstraintsTGS
+     F6B4 PxIntegrateSolverBodiesTGS
+     F6B4 __imp_PxIntegrateSolverBodiesTGS
+     F5C0 PxGetSuggestedCudaDeviceOrdinal
+     F5C0 __imp_PxGetSuggestedCudaDeviceOrdinal
+     EDD2 PxCreateCudaContextManager
+     EDD2 __imp_PxCreateCudaContextManager
+     ED54 PxCreateCudaClientContextManager
+     ED54 __imp_PxCreateCudaClientContextManager
+     FBD4 PxSetPhysXGpuLoadHook
+     FBD4 __imp_PxSetPhysXGpuLoadHook
+     FB5E PxSetPhysXDelayLoadHook
+     FB5E __imp_PxSetPhysXDelayLoadHook
+
+Archive member name at 4DBE: /               
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+    4D88 size
+correct header end
+
+    168 offsets
+
+        1     9B82
+        2     9DB0
+        3     9EE8
+        4     BACC
+        5     BA46
+        6     B888
+        7     B800
+        8     A3F0
+        9     A36C
+        A     BE58
+        B     BDCE
+        C     BF7E
+        D     BEF6
+        E     C0A6
+        F     C01A
+       10     C1D2
+       11     C148
+       12     AC94
+       13     AC04
+       14     A8A4
+       15     A810
+       16     A9E8
+       17     A958
+       18     AB36
+       19     AA94
+       1A     A638
+       1B     A5A8
+       1C     A76E
+       1D     A6E2
+       1E     ADDA
+       1F     AD3E
+       20     A50C
+       21     A484
+       22     B188
+       23     B0FE
+       24     C65C
+       25     C5D8
+       26     BD24
+       27     BC94
+       28     C9F8
+       29     C96A
+       2A     B4EE
+       2B     B466
+       2C     AF28
+       2D     AE9E
+       2E     B056
+       2F     AFC8
+       30     B9AA
+       31     B922
+       32     B2B8
+       33     B226
+       34     C8C4
+       35     C836
+       36     BBF0
+       37     BB64
+       38     CB34
+       39     CAA0
+       3A     B750
+       3B     B6BE
+       3C     B616
+       3D     B588
+       3E     C41A
+       3F     C396
+       40     C538
+       41     C4AE
+       42     CC7A
+       43     CBE6
+       44     C2FA
+       45     C272
+       46     C784
+       47     C6F0
+       48     CDBA
+       49     B3EA
+       4A     B366
+       4B     D076
+       4C     A044
+       4D     CEC8
+       4E     CE36
+       4F     D298
+       50     CFE6
+       51     D764
+       52     DEAA
+       53     E34C
+       54     D80A
+       55     D6B6
+       56     D610
+       57     E120
+       58     E4AA
+       59     DF58
+       5A     E064
+       5B     E1BA
+       5C     E292
+       5D     DDE8
+       5E     D8AE
+       5F     DC66
+       60     D968
+       61     DBAA
+       62     DA26
+       63     DD24
+       64     DAE8
+       65     E3EE
+       66     D400
+       67     D506
+       68     D31A
+       69     A266
+       6A     A14A
+       6B     A1D8
+       6C     A0C8
+       6D     A2E6
+       6E     CD2E
+       6F     D21E
+       70     E544
+       71     CF58
+       72     D100
+       73     D18E
+       74     F548
+       75     F72C
+       76     F7A2
+       77     F828
+       78     EBEE
+       79     F4DE
+       7A     E63E
+       7B     F91A
+       7C     FD2C
+       7D     E90E
+       7E     E9FC
+       7F     E72A
+       80     EC60
+       81     EEC8
+       82     F0D0
+       83     EFB8
+       84     FC48
+       85     F63E
+       86     F1D6
+       87     F89C
+       88     EE4A
+       89     F994
+       8A     EB76
+       8B     EAF2
+       8C     E6B4
+       8D     FA08
+       8E     E5CA
+       8F     F320
+       90     F400
+       91     F394
+       92     F246
+       93     F46C
+       94     FAEC
+       95     F2B4
+       96     FA80
+       97     E80E
+       98     FDA8
+       99     E88C
+       9A     FE20
+       9B     E984
+       9C     EA76
+       9D     E79A
+       9E     ECD8
+       9F     EF3E
+       A0     F152
+       A1     F042
+       A2     FCB8
+       A3     F6B4
+       A4     F5C0
+       A5     EDD2
+       A6     ED54
+       A7     FBD4
+       A8     FB5E
+
+    331 public symbols
+
+       4C ??0Allocator@shdfnd@physx@@QEAA@PEBD@Z
+       6C ??0NbCCDPairsProperty@physx@@QEAA@XZ
+       6A ??0NbDiscreteContactPairsProperty@physx@@QEAA@XZ
+       6B ??0NbModifiedContactPairsProperty@physx@@QEAA@XZ
+       69 ??0NbShapesProperty@physx@@QEAA@XZ
+       6D ??0NbTriggerPairsProperty@physx@@QEAA@XZ
+        9 ??0PxActorGeneratedInfo@physx@@QEAA@XZ
+        8 ??0PxActorGeneratedValues@physx@@QEAA@PEBVPxActor@1@@Z
+       21 ??0PxAggregateGeneratedInfo@physx@@QEAA@XZ
+       20 ??0PxAggregateGeneratedValues@physx@@QEAA@PEBVPxAggregate@1@@Z
+       1B ??0PxArticulationBaseGeneratedInfo@physx@@QEAA@XZ
+       1A ??0PxArticulationBaseGeneratedValues@physx@@QEAA@PEBVPxArticulationBase@1@@Z
+       1D ??0PxArticulationGeneratedInfo@physx@@QEAA@XZ
+       1C ??0PxArticulationGeneratedValues@physx@@QEAA@PEBVPxArticulation@1@@Z
+       15 ??0PxArticulationJointBaseGeneratedInfo@physx@@QEAA@XZ
+       14 ??0PxArticulationJointBaseGeneratedValues@physx@@QEAA@PEBVPxArticulationJointBase@1@@Z
+       17 ??0PxArticulationJointGeneratedInfo@physx@@QEAA@XZ
+       16 ??0PxArticulationJointGeneratedValues@physx@@QEAA@PEBVPxArticulationJoint@1@@Z
+       19 ??0PxArticulationJointReducedCoordinateGeneratedInfo@physx@@QEAA@XZ
+       18 ??0PxArticulationJointReducedCoordinateGeneratedValues@physx@@QEAA@PEBVPxArticulationJointReducedCoordinate@1@@Z
+       13 ??0PxArticulationLinkGeneratedInfo@physx@@QEAA@XZ
+       12 ??0PxArticulationLinkGeneratedValues@physx@@QEAA@PEBVPxArticulationLink@1@@Z
+       1F ??0PxArticulationReducedCoordinateGeneratedInfo@physx@@QEAA@XZ
+       1E ??0PxArticulationReducedCoordinateGeneratedValues@physx@@QEAA@PEBVPxArticulationReducedCoordinate@1@@Z
+       2D ??0PxBoxGeometryGeneratedInfo@physx@@QEAA@XZ
+       2C ??0PxBoxGeometryGeneratedValues@physx@@QEAA@PEBVPxBoxGeometry@1@@Z
+       2F ??0PxCapsuleGeometryGeneratedInfo@physx@@QEAA@XZ
+       2E ??0PxCapsuleGeometryGeneratedValues@physx@@QEAA@PEBVPxCapsuleGeometry@1@@Z
+       23 ??0PxConstraintGeneratedInfo@physx@@QEAA@XZ
+       22 ??0PxConstraintGeneratedValues@physx@@QEAA@PEBVPxConstraint@1@@Z
+       33 ??0PxConvexMeshGeometryGeneratedInfo@physx@@QEAA@XZ
+       32 ??0PxConvexMeshGeometryGeneratedValues@physx@@QEAA@PEBVPxConvexMeshGeometry@1@@Z
+       4A ??0PxFoundation@physx@@QEAA@AEBV01@@Z
+       49 ??0PxFoundation@physx@@QEAA@XZ
+       2B ??0PxGeometryGeneratedInfo@physx@@QEAA@XZ
+       2A ??0PxGeometryGeneratedValues@physx@@QEAA@PEBVPxGeometry@1@@Z
+       3D ??0PxHeightFieldDescGeneratedInfo@physx@@QEAA@XZ
+       3C ??0PxHeightFieldDescGeneratedValues@physx@@QEAA@PEBVPxHeightFieldDesc@1@@Z
+       3B ??0PxHeightFieldGeometryGeneratedInfo@physx@@QEAA@XZ
+       3A ??0PxHeightFieldGeometryGeneratedValues@physx@@QEAA@PEBVPxHeightFieldGeometry@1@@Z
+        7 ??0PxMaterialGeneratedInfo@physx@@QEAA@XZ
+        6 ??0PxMaterialGeneratedValues@physx@@QEAA@PEBVPxMaterial@1@@Z
+       31 ??0PxMeshScaleGeneratedInfo@physx@@QEAA@XZ
+       30 ??0PxMeshScaleGeneratedValues@physx@@QEAA@PEBVPxMeshScale@1@@Z
+        5 ??0PxPhysicsGeneratedInfo@physx@@QEAA@XZ
+        4 ??0PxPhysicsGeneratedValues@physx@@QEAA@PEBVPxPhysics@1@@Z
+       37 ??0PxPlaneGeometryGeneratedInfo@physx@@QEAA@XZ
+       36 ??0PxPlaneGeometryGeneratedValues@physx@@QEAA@PEBVPxPlaneGeometry@1@@Z
+       27 ??0PxPruningStructureGeneratedInfo@physx@@QEAA@XZ
+       26 ??0PxPruningStructureGeneratedValues@physx@@QEAA@PEBVPxPruningStructure@1@@Z
+        B ??0PxRigidActorGeneratedInfo@physx@@QEAA@XZ
+        A ??0PxRigidActorGeneratedValues@physx@@QEAA@PEBVPxRigidActor@1@@Z
+        D ??0PxRigidBodyGeneratedInfo@physx@@QEAA@XZ
+        C ??0PxRigidBodyGeneratedValues@physx@@QEAA@PEBVPxRigidBody@1@@Z
+        F ??0PxRigidDynamicGeneratedInfo@physx@@QEAA@XZ
+        E ??0PxRigidDynamicGeneratedValues@physx@@QEAA@PEBVPxRigidDynamic@1@@Z
+       11 ??0PxRigidStaticGeneratedInfo@physx@@QEAA@XZ
+       10 ??0PxRigidStaticGeneratedValues@physx@@QEAA@PEBVPxRigidStatic@1@@Z
+       45 ??0PxSceneDescGeneratedInfo@physx@@QEAA@XZ
+       44 ??0PxSceneDescGeneratedValues@physx@@QEAA@PEBVPxSceneDesc@1@@Z
+       3F ??0PxSceneGeneratedInfo@physx@@QEAA@XZ
+       3E ??0PxSceneGeneratedValues@physx@@QEAA@PEBVPxScene@1@@Z
+       41 ??0PxSceneLimitsGeneratedInfo@physx@@QEAA@XZ
+       40 ??0PxSceneLimitsGeneratedValues@physx@@QEAA@PEBVPxSceneLimits@1@@Z
+       25 ??0PxShapeGeneratedInfo@physx@@QEAA@XZ
+       24 ??0PxShapeGeneratedValues@physx@@QEAA@PEBVPxShape@1@@Z
+       47 ??0PxSimulationStatisticsGeneratedInfo@physx@@QEAA@XZ
+       46 ??0PxSimulationStatisticsGeneratedValues@physx@@QEAA@PEBVPxSimulationStatistics@1@@Z
+       35 ??0PxSphereGeometryGeneratedInfo@physx@@QEAA@XZ
+       34 ??0PxSphereGeometryGeneratedValues@physx@@QEAA@PEBVPxSphereGeometry@1@@Z
+       29 ??0PxTolerancesScaleGeneratedInfo@physx@@QEAA@XZ
+       28 ??0PxTolerancesScaleGeneratedValues@physx@@QEAA@PEBVPxTolerancesScale@1@@Z
+       39 ??0PxTriangleMeshGeometryGeneratedInfo@physx@@QEAA@XZ
+       38 ??0PxTriangleMeshGeometryGeneratedValues@physx@@QEAA@PEBVPxTriangleMeshGeometry@1@@Z
+       43 ??0PxgDynamicsMemoryConfigGeneratedInfo@physx@@QEAA@XZ
+       42 ??0PxgDynamicsMemoryConfigGeneratedValues@physx@@QEAA@PEBUPxgDynamicsMemoryConfig@1@@Z
+       6E ??0SimulationStatisticsProperty@physx@@QEAA@XZ
+       48 ??1PxFoundation@physx@@MEAA@XZ
+       4E ??4Allocator@shdfnd@physx@@QEAAAEAV012@$$QEAV012@@Z
+       4D ??4Allocator@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z
+       71 ??4FPUGuard@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z
+       50 ??4MutexImpl@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z
+       4B ??4PxFoundation@physx@@QEAAAEAV01@AEBV01@@Z
+       72 ??4SyncImpl@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z
+       73 ??4ThreadImpl@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z
+       4F ??_FAllocator@shdfnd@physx@@QEAAXXZ
+       68 ?createLink@PxArticulationLinkCollectionPropHelper@physx@@QEBAPEAVPxArticulationLink@2@PEAVPxArticulation@2@PEAV32@AEBVPxTransform@2@@Z
+       66 ?createShape@PxRigidActorShapeCollectionHelper@physx@@QEBAPEAVPxShape@2@PEAVPxRigidActor@2@AEBVPxGeometry@2@AEAVPxMaterial@2@V?$PxFlags@W4Enum@PxShapeFlag@physx@@E@2@@Z
+       67 ?createShape@PxRigidActorShapeCollectionHelper@physx@@QEBAPEAVPxShape@2@PEAVPxRigidActor@2@AEBVPxGeometry@2@PEBQEAVPxMaterial@2@GV?$PxFlags@W4Enum@PxShapeFlag@physx@@E@2@@Z
+       56 ?getAllocator@Foundation@shdfnd@physx@@QEAAAEAVPxAllocatorCallback@3@XZ
+       55 ?getAllocatorCallback@Foundation@shdfnd@physx@@UEAAAEAVPxAllocatorCallback@3@XZ
+       51 ?getErrorCallback@Foundation@shdfnd@physx@@UEAAAEAVPxErrorCallback@3@XZ
+       54 ?getErrorLevel@Foundation@shdfnd@physx@@UEBA?AW4Enum@PxErrorCode@3@XZ
+       5E ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxBoxGeometry@2@@Z
+       60 ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxCapsuleGeometry@2@@Z
+       62 ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxConvexMeshGeometry@2@@Z
+       64 ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxHeightFieldGeometry@2@@Z
+       61 ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxPlaneGeometry@2@@Z
+       5F ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxSphereGeometry@2@@Z
+       63 ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxTriangleMeshGeometry@2@@Z
+       5D ?getGeometryType@PxShapeGeometryPropertyHelper@physx@@QEBA?AW4Enum@PxGeometryType@2@PEBVPxShape@2@@Z
+       52 ?getInternalErrorCallback@Foundation@shdfnd@physx@@QEAAAEAVPxErrorCallback@3@XZ
+       59 ?getNamedAllocMap@Foundation@shdfnd@physx@@QEAAAEAV?$HashMap@PEBVNamedAllocator@shdfnd@physx@@PEBDU?$Hash@PEBVNamedAllocator@shdfnd@physx@@@23@VNonTrackingAllocator@23@@23@XZ
+       5A ?getNamedAllocMutex@Foundation@shdfnd@physx@@QEAAAEAV?$MutexT@VAllocator@shdfnd@physx@@@23@XZ
+       57 ?getReportAllocationNames@Foundation@shdfnd@physx@@UEBA_NXZ
+       5B ?getTempAllocFreeTable@Foundation@shdfnd@physx@@QEAAAEAV?$Array@PEATTempAllocatorChunk@shdfnd@physx@@VAllocator@23@@23@XZ
+       5C ?getTempAllocMutex@Foundation@shdfnd@physx@@QEAAAEAV?$MutexT@VAllocator@shdfnd@physx@@@23@XZ
+       53 ?setErrorLevel@Foundation@shdfnd@physx@@UEAAXW4Enum@PxErrorCode@3@@Z
+       65 ?setMaterials@PxShapeMaterialsPropertyHelper@physx@@QEBAXPEAVPxShape@2@PEBQEAVPxMaterial@2@G@Z
+       58 ?setReportAllocationNames@Foundation@shdfnd@physx@@UEAAX_N@Z
+       8E PxAddArticulationLink
+       7A PxAddCollectionToPhysics
+       8C PxApplyArticulationCache
+       7F PxBatchConstraints
+       9D PxBatchConstraintsTGS
+       97 PxComputeUnconstrainedVelocities
+       99 PxComputeUnconstrainedVelocitiesTGS
+       7D PxConstructSolverBodies
+       9B PxConstructSolverBodiesTGS
+       7E PxConstructStaticSolverBody
+       9C PxConstructStaticSolverBodyTGS
+       8B PxCopyInternalStateToArticulationCache
+       8A PxCreateArticulationCache
+       78 PxCreateBasePhysics
+       80 PxCreateContactConstraints
+       9E PxCreateContactConstraintsTGS
+       A6 PxCreateCudaClientContextManager
+       A5 PxCreateCudaContextManager
+       88 PxCreateFeatherstoneArticulation
+       81 PxCreateJointConstraints
+       9F PxCreateJointConstraintsTGS
+       83 PxCreateJointConstraintsWithImmediateShaders
+       A1 PxCreateJointConstraintsWithImmediateShadersTGS
+       82 PxCreateJointConstraintsWithShaders
+       A0 PxCreateJointConstraintsWithShadersTGS
+       86 PxGenerateContacts
+       92 PxGetAllLinkData
+       95 PxGetJointData
+       8F PxGetLinkArticulation
+       91 PxGetLinkData
+       90 PxGetLinkIndex
+       93 PxGetMutableLinkData
+       79 PxGetPhysics
+       74 PxGetPhysicsBinaryMetaData
+       A4 PxGetSuggestedCudaDeviceOrdinal
+       85 PxIntegrateSolverBodies
+       A3 PxIntegrateSolverBodiesTGS
+       75 PxRegisterArticulations
+       76 PxRegisterArticulationsReducedCoordinate
+       77 PxRegisterHeightFields
+       87 PxRegisterImmediateArticulations
+       7B PxRegisterPhysicsSerializers
+       89 PxReleaseArticulation
+       8D PxReleaseArticulationCache
+       96 PxSetJointData
+       94 PxSetMutableLinkData
+       A8 PxSetPhysXDelayLoadHook
+       A7 PxSetPhysXGpuLoadHook
+       84 PxSolveConstraints
+       A2 PxSolveConstraintsTGS
+       7C PxUnregisterPhysicsSerializers
+       98 PxUpdateArticulationBodies
+       9A PxUpdateArticulationBodiesTGS
+        1 __IMPORT_DESCRIPTOR_PhysX_64
+        2 __NULL_IMPORT_DESCRIPTOR
+       4C __imp_??0Allocator@shdfnd@physx@@QEAA@PEBD@Z
+       6C __imp_??0NbCCDPairsProperty@physx@@QEAA@XZ
+       6A __imp_??0NbDiscreteContactPairsProperty@physx@@QEAA@XZ
+       6B __imp_??0NbModifiedContactPairsProperty@physx@@QEAA@XZ
+       69 __imp_??0NbShapesProperty@physx@@QEAA@XZ
+       6D __imp_??0NbTriggerPairsProperty@physx@@QEAA@XZ
+        9 __imp_??0PxActorGeneratedInfo@physx@@QEAA@XZ
+        8 __imp_??0PxActorGeneratedValues@physx@@QEAA@PEBVPxActor@1@@Z
+       21 __imp_??0PxAggregateGeneratedInfo@physx@@QEAA@XZ
+       20 __imp_??0PxAggregateGeneratedValues@physx@@QEAA@PEBVPxAggregate@1@@Z
+       1B __imp_??0PxArticulationBaseGeneratedInfo@physx@@QEAA@XZ
+       1A __imp_??0PxArticulationBaseGeneratedValues@physx@@QEAA@PEBVPxArticulationBase@1@@Z
+       1D __imp_??0PxArticulationGeneratedInfo@physx@@QEAA@XZ
+       1C __imp_??0PxArticulationGeneratedValues@physx@@QEAA@PEBVPxArticulation@1@@Z
+       15 __imp_??0PxArticulationJointBaseGeneratedInfo@physx@@QEAA@XZ
+       14 __imp_??0PxArticulationJointBaseGeneratedValues@physx@@QEAA@PEBVPxArticulationJointBase@1@@Z
+       17 __imp_??0PxArticulationJointGeneratedInfo@physx@@QEAA@XZ
+       16 __imp_??0PxArticulationJointGeneratedValues@physx@@QEAA@PEBVPxArticulationJoint@1@@Z
+       19 __imp_??0PxArticulationJointReducedCoordinateGeneratedInfo@physx@@QEAA@XZ
+       18 __imp_??0PxArticulationJointReducedCoordinateGeneratedValues@physx@@QEAA@PEBVPxArticulationJointReducedCoordinate@1@@Z
+       13 __imp_??0PxArticulationLinkGeneratedInfo@physx@@QEAA@XZ
+       12 __imp_??0PxArticulationLinkGeneratedValues@physx@@QEAA@PEBVPxArticulationLink@1@@Z
+       1F __imp_??0PxArticulationReducedCoordinateGeneratedInfo@physx@@QEAA@XZ
+       1E __imp_??0PxArticulationReducedCoordinateGeneratedValues@physx@@QEAA@PEBVPxArticulationReducedCoordinate@1@@Z
+       2D __imp_??0PxBoxGeometryGeneratedInfo@physx@@QEAA@XZ
+       2C __imp_??0PxBoxGeometryGeneratedValues@physx@@QEAA@PEBVPxBoxGeometry@1@@Z
+       2F __imp_??0PxCapsuleGeometryGeneratedInfo@physx@@QEAA@XZ
+       2E __imp_??0PxCapsuleGeometryGeneratedValues@physx@@QEAA@PEBVPxCapsuleGeometry@1@@Z
+       23 __imp_??0PxConstraintGeneratedInfo@physx@@QEAA@XZ
+       22 __imp_??0PxConstraintGeneratedValues@physx@@QEAA@PEBVPxConstraint@1@@Z
+       33 __imp_??0PxConvexMeshGeometryGeneratedInfo@physx@@QEAA@XZ
+       32 __imp_??0PxConvexMeshGeometryGeneratedValues@physx@@QEAA@PEBVPxConvexMeshGeometry@1@@Z
+       4A __imp_??0PxFoundation@physx@@QEAA@AEBV01@@Z
+       49 __imp_??0PxFoundation@physx@@QEAA@XZ
+       2B __imp_??0PxGeometryGeneratedInfo@physx@@QEAA@XZ
+       2A __imp_??0PxGeometryGeneratedValues@physx@@QEAA@PEBVPxGeometry@1@@Z
+       3D __imp_??0PxHeightFieldDescGeneratedInfo@physx@@QEAA@XZ
+       3C __imp_??0PxHeightFieldDescGeneratedValues@physx@@QEAA@PEBVPxHeightFieldDesc@1@@Z
+       3B __imp_??0PxHeightFieldGeometryGeneratedInfo@physx@@QEAA@XZ
+       3A __imp_??0PxHeightFieldGeometryGeneratedValues@physx@@QEAA@PEBVPxHeightFieldGeometry@1@@Z
+        7 __imp_??0PxMaterialGeneratedInfo@physx@@QEAA@XZ
+        6 __imp_??0PxMaterialGeneratedValues@physx@@QEAA@PEBVPxMaterial@1@@Z
+       31 __imp_??0PxMeshScaleGeneratedInfo@physx@@QEAA@XZ
+       30 __imp_??0PxMeshScaleGeneratedValues@physx@@QEAA@PEBVPxMeshScale@1@@Z
+        5 __imp_??0PxPhysicsGeneratedInfo@physx@@QEAA@XZ
+        4 __imp_??0PxPhysicsGeneratedValues@physx@@QEAA@PEBVPxPhysics@1@@Z
+       37 __imp_??0PxPlaneGeometryGeneratedInfo@physx@@QEAA@XZ
+       36 __imp_??0PxPlaneGeometryGeneratedValues@physx@@QEAA@PEBVPxPlaneGeometry@1@@Z
+       27 __imp_??0PxPruningStructureGeneratedInfo@physx@@QEAA@XZ
+       26 __imp_??0PxPruningStructureGeneratedValues@physx@@QEAA@PEBVPxPruningStructure@1@@Z
+        B __imp_??0PxRigidActorGeneratedInfo@physx@@QEAA@XZ
+        A __imp_??0PxRigidActorGeneratedValues@physx@@QEAA@PEBVPxRigidActor@1@@Z
+        D __imp_??0PxRigidBodyGeneratedInfo@physx@@QEAA@XZ
+        C __imp_??0PxRigidBodyGeneratedValues@physx@@QEAA@PEBVPxRigidBody@1@@Z
+        F __imp_??0PxRigidDynamicGeneratedInfo@physx@@QEAA@XZ
+        E __imp_??0PxRigidDynamicGeneratedValues@physx@@QEAA@PEBVPxRigidDynamic@1@@Z
+       11 __imp_??0PxRigidStaticGeneratedInfo@physx@@QEAA@XZ
+       10 __imp_??0PxRigidStaticGeneratedValues@physx@@QEAA@PEBVPxRigidStatic@1@@Z
+       45 __imp_??0PxSceneDescGeneratedInfo@physx@@QEAA@XZ
+       44 __imp_??0PxSceneDescGeneratedValues@physx@@QEAA@PEBVPxSceneDesc@1@@Z
+       3F __imp_??0PxSceneGeneratedInfo@physx@@QEAA@XZ
+       3E __imp_??0PxSceneGeneratedValues@physx@@QEAA@PEBVPxScene@1@@Z
+       41 __imp_??0PxSceneLimitsGeneratedInfo@physx@@QEAA@XZ
+       40 __imp_??0PxSceneLimitsGeneratedValues@physx@@QEAA@PEBVPxSceneLimits@1@@Z
+       25 __imp_??0PxShapeGeneratedInfo@physx@@QEAA@XZ
+       24 __imp_??0PxShapeGeneratedValues@physx@@QEAA@PEBVPxShape@1@@Z
+       47 __imp_??0PxSimulationStatisticsGeneratedInfo@physx@@QEAA@XZ
+       46 __imp_??0PxSimulationStatisticsGeneratedValues@physx@@QEAA@PEBVPxSimulationStatistics@1@@Z
+       35 __imp_??0PxSphereGeometryGeneratedInfo@physx@@QEAA@XZ
+       34 __imp_??0PxSphereGeometryGeneratedValues@physx@@QEAA@PEBVPxSphereGeometry@1@@Z
+       29 __imp_??0PxTolerancesScaleGeneratedInfo@physx@@QEAA@XZ
+       28 __imp_??0PxTolerancesScaleGeneratedValues@physx@@QEAA@PEBVPxTolerancesScale@1@@Z
+       39 __imp_??0PxTriangleMeshGeometryGeneratedInfo@physx@@QEAA@XZ
+       38 __imp_??0PxTriangleMeshGeometryGeneratedValues@physx@@QEAA@PEBVPxTriangleMeshGeometry@1@@Z
+       43 __imp_??0PxgDynamicsMemoryConfigGeneratedInfo@physx@@QEAA@XZ
+       42 __imp_??0PxgDynamicsMemoryConfigGeneratedValues@physx@@QEAA@PEBUPxgDynamicsMemoryConfig@1@@Z
+       6E __imp_??0SimulationStatisticsProperty@physx@@QEAA@XZ
+       48 __imp_??1PxFoundation@physx@@MEAA@XZ
+       4E __imp_??4Allocator@shdfnd@physx@@QEAAAEAV012@$$QEAV012@@Z
+       4D __imp_??4Allocator@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z
+       71 __imp_??4FPUGuard@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z
+       50 __imp_??4MutexImpl@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z
+       4B __imp_??4PxFoundation@physx@@QEAAAEAV01@AEBV01@@Z
+       72 __imp_??4SyncImpl@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z
+       73 __imp_??4ThreadImpl@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z
+       6F __imp_??_7PxFoundation@physx@@6B@
+       4F __imp_??_FAllocator@shdfnd@physx@@QEAAXXZ
+       68 __imp_?createLink@PxArticulationLinkCollectionPropHelper@physx@@QEBAPEAVPxArticulationLink@2@PEAVPxArticulation@2@PEAV32@AEBVPxTransform@2@@Z
+       66 __imp_?createShape@PxRigidActorShapeCollectionHelper@physx@@QEBAPEAVPxShape@2@PEAVPxRigidActor@2@AEBVPxGeometry@2@AEAVPxMaterial@2@V?$PxFlags@W4Enum@PxShapeFlag@physx@@E@2@@Z
+       67 __imp_?createShape@PxRigidActorShapeCollectionHelper@physx@@QEBAPEAVPxShape@2@PEAVPxRigidActor@2@AEBVPxGeometry@2@PEBQEAVPxMaterial@2@GV?$PxFlags@W4Enum@PxShapeFlag@physx@@E@2@@Z
+       56 __imp_?getAllocator@Foundation@shdfnd@physx@@QEAAAEAVPxAllocatorCallback@3@XZ
+       55 __imp_?getAllocatorCallback@Foundation@shdfnd@physx@@UEAAAEAVPxAllocatorCallback@3@XZ
+       51 __imp_?getErrorCallback@Foundation@shdfnd@physx@@UEAAAEAVPxErrorCallback@3@XZ
+       54 __imp_?getErrorLevel@Foundation@shdfnd@physx@@UEBA?AW4Enum@PxErrorCode@3@XZ
+       5E __imp_?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxBoxGeometry@2@@Z
+       60 __imp_?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxCapsuleGeometry@2@@Z
+       62 __imp_?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxConvexMeshGeometry@2@@Z
+       64 __imp_?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxHeightFieldGeometry@2@@Z
+       61 __imp_?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxPlaneGeometry@2@@Z
+       5F __imp_?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxSphereGeometry@2@@Z
+       63 __imp_?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxTriangleMeshGeometry@2@@Z
+       5D __imp_?getGeometryType@PxShapeGeometryPropertyHelper@physx@@QEBA?AW4Enum@PxGeometryType@2@PEBVPxShape@2@@Z
+       52 __imp_?getInternalErrorCallback@Foundation@shdfnd@physx@@QEAAAEAVPxErrorCallback@3@XZ
+       59 __imp_?getNamedAllocMap@Foundation@shdfnd@physx@@QEAAAEAV?$HashMap@PEBVNamedAllocator@shdfnd@physx@@PEBDU?$Hash@PEBVNamedAllocator@shdfnd@physx@@@23@VNonTrackingAllocator@23@@23@XZ
+       5A __imp_?getNamedAllocMutex@Foundation@shdfnd@physx@@QEAAAEAV?$MutexT@VAllocator@shdfnd@physx@@@23@XZ
+       57 __imp_?getReportAllocationNames@Foundation@shdfnd@physx@@UEBA_NXZ
+       5B __imp_?getTempAllocFreeTable@Foundation@shdfnd@physx@@QEAAAEAV?$Array@PEATTempAllocatorChunk@shdfnd@physx@@VAllocator@23@@23@XZ
+       5C __imp_?getTempAllocMutex@Foundation@shdfnd@physx@@QEAAAEAV?$MutexT@VAllocator@shdfnd@physx@@@23@XZ
+       53 __imp_?setErrorLevel@Foundation@shdfnd@physx@@UEAAXW4Enum@PxErrorCode@3@@Z
+       65 __imp_?setMaterials@PxShapeMaterialsPropertyHelper@physx@@QEBAXPEAVPxShape@2@PEBQEAVPxMaterial@2@G@Z
+       58 __imp_?setReportAllocationNames@Foundation@shdfnd@physx@@UEAAX_N@Z
+       70 __imp_?waitForever@SyncImpl@shdfnd@physx@@2IB
+       8E __imp_PxAddArticulationLink
+       7A __imp_PxAddCollectionToPhysics
+       8C __imp_PxApplyArticulationCache
+       7F __imp_PxBatchConstraints
+       9D __imp_PxBatchConstraintsTGS
+       97 __imp_PxComputeUnconstrainedVelocities
+       99 __imp_PxComputeUnconstrainedVelocitiesTGS
+       7D __imp_PxConstructSolverBodies
+       9B __imp_PxConstructSolverBodiesTGS
+       7E __imp_PxConstructStaticSolverBody
+       9C __imp_PxConstructStaticSolverBodyTGS
+       8B __imp_PxCopyInternalStateToArticulationCache
+       8A __imp_PxCreateArticulationCache
+       78 __imp_PxCreateBasePhysics
+       80 __imp_PxCreateContactConstraints
+       9E __imp_PxCreateContactConstraintsTGS
+       A6 __imp_PxCreateCudaClientContextManager
+       A5 __imp_PxCreateCudaContextManager
+       88 __imp_PxCreateFeatherstoneArticulation
+       81 __imp_PxCreateJointConstraints
+       9F __imp_PxCreateJointConstraintsTGS
+       83 __imp_PxCreateJointConstraintsWithImmediateShaders
+       A1 __imp_PxCreateJointConstraintsWithImmediateShadersTGS
+       82 __imp_PxCreateJointConstraintsWithShaders
+       A0 __imp_PxCreateJointConstraintsWithShadersTGS
+       86 __imp_PxGenerateContacts
+       92 __imp_PxGetAllLinkData
+       95 __imp_PxGetJointData
+       8F __imp_PxGetLinkArticulation
+       91 __imp_PxGetLinkData
+       90 __imp_PxGetLinkIndex
+       93 __imp_PxGetMutableLinkData
+       79 __imp_PxGetPhysics
+       74 __imp_PxGetPhysicsBinaryMetaData
+       A4 __imp_PxGetSuggestedCudaDeviceOrdinal
+       85 __imp_PxIntegrateSolverBodies
+       A3 __imp_PxIntegrateSolverBodiesTGS
+       75 __imp_PxRegisterArticulations
+       76 __imp_PxRegisterArticulationsReducedCoordinate
+       77 __imp_PxRegisterHeightFields
+       87 __imp_PxRegisterImmediateArticulations
+       7B __imp_PxRegisterPhysicsSerializers
+       89 __imp_PxReleaseArticulation
+       8D __imp_PxReleaseArticulationCache
+       96 __imp_PxSetJointData
+       94 __imp_PxSetMutableLinkData
+       A8 __imp_PxSetPhysXDelayLoadHook
+       A7 __imp_PxSetPhysXGpuLoadHook
+       84 __imp_PxSolveConstraints
+       A2 __imp_PxSolveConstraintsTGS
+       7C __imp_PxUnregisterPhysicsSerializers
+       98 __imp_PxUpdateArticulationBodies
+       9A __imp_PxUpdateArticulationBodiesTGS
+        3 PhysX_64_NULL_THUNK_DATA
+
+Archive member name at 9B82: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+     1F2 size
+correct header end
+
+FILE HEADER VALUES
+            8664 machine (x64)
+               3 number of sections
+        F8942C84 time date stamp
+             10E file pointer to symbol table
+               8 number of symbols
+               0 size of optional header
+               0 characteristics
+
+SECTION HEADER #1
+.debug$S name
+       0 physical address
+       0 virtual address
+      42 size of raw data
+      8C file pointer to raw data (0000008C to 000000CD)
+       0 file pointer to relocation table
+       0 file pointer to line numbers
+       0 number of relocations
+       0 number of line numbers
+42100040 flags
+         Initialized Data
+         Discardable
+         1 byte align
+         Read Only
+
+RAW DATA #1
+  00000000: 02 00 00 00 13 00 09 00 00 00 00 00 0C 50 68 79  .............Phy
+  00000010: 73 58 5F 36 34 2E 64 6C 6C 27 00 13 10 07 00 00  sX_64.dll'......
+  00000020: 00 D0 00 00 00 00 00 00 00 0E 00 22 00 BF 7C 12  .Ð.........".¿|.
+  00000030: 4D 69 63 72 6F 73 6F 66 74 20 28 52 29 20 4C 49  Microsoft (R) LI
+  00000040: 4E 4B                                            NK
+
+SECTION HEADER #2
+.idata$2 name
+       0 physical address
+       0 virtual address
+      14 size of raw data
+      CE file pointer to raw data (000000CE to 000000E1)
+      E2 file pointer to relocation table
+       0 file pointer to line numbers
+       3 number of relocations
+       0 number of line numbers
+C0300040 flags
+         Initialized Data
+         4 byte align
+         Read Write
+
+RAW DATA #2
+  00000000: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+  00000010: 00 00 00 00                                      ....
+
+RELOCATIONS #2
+                                                Symbol    Symbol
+ Offset    Type              Applied To         Index     Name
+ --------  ----------------  -----------------  --------  ------
+ 0000000C  ADDR32NB                   00000000         3  .idata$6
+ 00000000  ADDR32NB                   00000000         4  .idata$4
+ 00000010  ADDR32NB                   00000000         5  .idata$5
+
+SECTION HEADER #3
+.idata$6 name
+       0 physical address
+       0 virtual address
+       E size of raw data
+     100 file pointer to raw data (00000100 to 0000010D)
+      E2 file pointer to relocation table
+       0 file pointer to line numbers
+       0 number of relocations
+       0 number of line numbers
+C0200040 flags
+         Initialized Data
+         2 byte align
+         Read Write
+
+RAW DATA #3
+  00000000: 50 68 79 73 58 5F 36 34 2E 64 6C 6C 00 00        PhysX_64.dll..
+
+COFF SYMBOL TABLE
+000 01017CBF ABS    notype       Static       | @comp.id
+001 00000000 SECT2  notype       External     | __IMPORT_DESCRIPTOR_PhysX_64
+002 C0000040 SECT2  notype       Section      | .idata$2
+003 00000000 SECT3  notype       Static       | .idata$6
+004 C0000040 UNDEF  notype       Section      | .idata$4
+005 C0000040 UNDEF  notype       Section      | .idata$5
+006 00000000 UNDEF  notype       External     | __NULL_IMPORT_DESCRIPTOR
+007 00000000 UNDEF  notype       External     | PhysX_64_NULL_THUNK_DATA
+
+String Table Size = 0x54 bytes
+
+Archive member name at 9DB0: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      FB size
+correct header end
+
+FILE HEADER VALUES
+            8664 machine (x64)
+               2 number of sections
+        E79DB837 time date stamp
+              BA file pointer to symbol table
+               2 number of symbols
+               0 size of optional header
+               0 characteristics
+
+SECTION HEADER #1
+.debug$S name
+       0 physical address
+       0 virtual address
+      42 size of raw data
+      64 file pointer to raw data (00000064 to 000000A5)
+       0 file pointer to relocation table
+       0 file pointer to line numbers
+       0 number of relocations
+       0 number of line numbers
+42100040 flags
+         Initialized Data
+         Discardable
+         1 byte align
+         Read Only
+
+RAW DATA #1
+  00000000: 02 00 00 00 13 00 09 00 00 00 00 00 0C 50 68 79  .............Phy
+  00000010: 73 58 5F 36 34 2E 64 6C 6C 27 00 13 10 07 00 00  sX_64.dll'......
+  00000020: 00 D0 00 00 00 00 00 00 00 0E 00 22 00 BF 7C 12  .Ð.........".¿|.
+  00000030: 4D 69 63 72 6F 73 6F 66 74 20 28 52 29 20 4C 49  Microsoft (R) LI
+  00000040: 4E 4B                                            NK
+
+SECTION HEADER #2
+.idata$3 name
+       0 physical address
+       0 virtual address
+      14 size of raw data
+      A6 file pointer to raw data (000000A6 to 000000B9)
+       0 file pointer to relocation table
+       0 file pointer to line numbers
+       0 number of relocations
+       0 number of line numbers
+C0300040 flags
+         Initialized Data
+         4 byte align
+         Read Write
+
+RAW DATA #2
+  00000000: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+  00000010: 00 00 00 00                                      ....
+
+COFF SYMBOL TABLE
+000 01017CBF ABS    notype       Static       | @comp.id
+001 00000000 SECT2  notype       External     | __NULL_IMPORT_DESCRIPTOR
+
+String Table Size = 0x1D bytes
+
+Archive member name at 9EE8: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+     120 size
+correct header end
+
+FILE HEADER VALUES
+            8664 machine (x64)
+               3 number of sections
+        DED479DF time date stamp
+              DE file pointer to symbol table
+               2 number of symbols
+               0 size of optional header
+               0 characteristics
+
+SECTION HEADER #1
+.debug$S name
+       0 physical address
+       0 virtual address
+      42 size of raw data
+      8C file pointer to raw data (0000008C to 000000CD)
+       0 file pointer to relocation table
+       0 file pointer to line numbers
+       0 number of relocations
+       0 number of line numbers
+42100040 flags
+         Initialized Data
+         Discardable
+         1 byte align
+         Read Only
+
+RAW DATA #1
+  00000000: 02 00 00 00 13 00 09 00 00 00 00 00 0C 50 68 79  .............Phy
+  00000010: 73 58 5F 36 34 2E 64 6C 6C 27 00 13 10 07 00 00  sX_64.dll'......
+  00000020: 00 D0 00 00 00 00 00 00 00 0E 00 22 00 BF 7C 12  .Ð.........".¿|.
+  00000030: 4D 69 63 72 6F 73 6F 66 74 20 28 52 29 20 4C 49  Microsoft (R) LI
+  00000040: 4E 4B                                            NK
+
+SECTION HEADER #2
+.idata$5 name
+       0 physical address
+       0 virtual address
+       8 size of raw data
+      CE file pointer to raw data (000000CE to 000000D5)
+       0 file pointer to relocation table
+       0 file pointer to line numbers
+       0 number of relocations
+       0 number of line numbers
+C0400040 flags
+         Initialized Data
+         8 byte align
+         Read Write
+
+RAW DATA #2
+  00000000: 00 00 00 00 00 00 00 00                          ........
+
+SECTION HEADER #3
+.idata$4 name
+       0 physical address
+       0 virtual address
+       8 size of raw data
+      D6 file pointer to raw data (000000D6 to 000000DD)
+       0 file pointer to relocation table
+       0 file pointer to line numbers
+       0 number of relocations
+       0 number of line numbers
+C0400040 flags
+         Initialized Data
+         8 byte align
+         Read Write
+
+RAW DATA #3
+  00000000: 00 00 00 00 00 00 00 00                          ........
+
+COFF SYMBOL TABLE
+000 01017CBF ABS    notype       Static       | @comp.id
+001 00000000 SECT2  notype       External     | PhysX_64_NULL_THUNK_DATA
+
+String Table Size = 0x1E bytes
+
+Archive member name at A044: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      48 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E461895B
+  SizeOfData   : 00000034
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0Allocator@shdfnd@physx@@QEAA@PEBD@Z (public: __cdecl physx::shdfnd::Allocator::Allocator(char const *))
+  Type         : code
+  Name type    : name
+  Hint         : 0
+  Name         : ??0Allocator@shdfnd@physx@@QEAA@PEBD@Z
+
+Archive member name at A0C8: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      46 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: D3CAE648
+  SizeOfData   : 00000032
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0NbCCDPairsProperty@physx@@QEAA@XZ (public: __cdecl physx::NbCCDPairsProperty::NbCCDPairsProperty(void))
+  Type         : code
+  Name type    : name
+  Hint         : 1
+  Name         : ??0NbCCDPairsProperty@physx@@QEAA@XZ
+
+Archive member name at A14A: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      52 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: F68C565D
+  SizeOfData   : 0000003E
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0NbDiscreteContactPairsProperty@physx@@QEAA@XZ (public: __cdecl physx::NbDiscreteContactPairsProperty::NbDiscreteContactPairsProperty(void))
+  Type         : code
+  Name type    : name
+  Hint         : 2
+  Name         : ??0NbDiscreteContactPairsProperty@physx@@QEAA@XZ
+
+Archive member name at A1D8: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      52 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: DFE65A27
+  SizeOfData   : 0000003E
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0NbModifiedContactPairsProperty@physx@@QEAA@XZ (public: __cdecl physx::NbModifiedContactPairsProperty::NbModifiedContactPairsProperty(void))
+  Type         : code
+  Name type    : name
+  Hint         : 3
+  Name         : ??0NbModifiedContactPairsProperty@physx@@QEAA@XZ
+
+Archive member name at A266: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      44 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: ECEC84D7
+  SizeOfData   : 00000030
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0NbShapesProperty@physx@@QEAA@XZ (public: __cdecl physx::NbShapesProperty::NbShapesProperty(void))
+  Type         : code
+  Name type    : name
+  Hint         : 4
+  Name         : ??0NbShapesProperty@physx@@QEAA@XZ
+
+Archive member name at A2E6: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      4A size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: C55AADAA
+  SizeOfData   : 00000036
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0NbTriggerPairsProperty@physx@@QEAA@XZ (public: __cdecl physx::NbTriggerPairsProperty::NbTriggerPairsProperty(void))
+  Type         : code
+  Name type    : name
+  Hint         : 5
+  Name         : ??0NbTriggerPairsProperty@physx@@QEAA@XZ
+
+Archive member name at A36C: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      48 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: D5D71DA6
+  SizeOfData   : 00000034
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxActorGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxActorGeneratedInfo::PxActorGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 6
+  Name         : ??0PxActorGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at A3F0: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      58 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E8CEA57A
+  SizeOfData   : 00000044
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxActorGeneratedValues@physx@@QEAA@PEBVPxActor@1@@Z (public: __cdecl physx::PxActorGeneratedValues::PxActorGeneratedValues(class physx::PxActor const *))
+  Type         : code
+  Name type    : name
+  Hint         : 7
+  Name         : ??0PxActorGeneratedValues@physx@@QEAA@PEBVPxActor@1@@Z
+
+Archive member name at A484: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      4C size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: F29D1602
+  SizeOfData   : 00000038
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxAggregateGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxAggregateGeneratedInfo::PxAggregateGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 8
+  Name         : ??0PxAggregateGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at A50C: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      60 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: FDF1172D
+  SizeOfData   : 0000004C
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxAggregateGeneratedValues@physx@@QEAA@PEBVPxAggregate@1@@Z (public: __cdecl physx::PxAggregateGeneratedValues::PxAggregateGeneratedValues(class physx::PxAggregate const *))
+  Type         : code
+  Name type    : name
+  Hint         : 9
+  Name         : ??0PxAggregateGeneratedValues@physx@@QEAA@PEBVPxAggregate@1@@Z
+
+Archive member name at A5A8: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      53 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: DFF6F788
+  SizeOfData   : 0000003F
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxArticulationBaseGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxArticulationBaseGeneratedInfo::PxArticulationBaseGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 10
+  Name         : ??0PxArticulationBaseGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at A638: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      6E size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E52D86AB
+  SizeOfData   : 0000005A
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxArticulationBaseGeneratedValues@physx@@QEAA@PEBVPxArticulationBase@1@@Z (public: __cdecl physx::PxArticulationBaseGeneratedValues::PxArticulationBaseGeneratedValues(class physx::PxArticulationBase const *))
+  Type         : code
+  Name type    : name
+  Hint         : 11
+  Name         : ??0PxArticulationBaseGeneratedValues@physx@@QEAA@PEBVPxArticulationBase@1@@Z
+
+Archive member name at A6E2: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      4F size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: EDACA047
+  SizeOfData   : 0000003B
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxArticulationGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxArticulationGeneratedInfo::PxArticulationGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 12
+  Name         : ??0PxArticulationGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at A76E: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      66 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: F693E253
+  SizeOfData   : 00000052
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxArticulationGeneratedValues@physx@@QEAA@PEBVPxArticulation@1@@Z (public: __cdecl physx::PxArticulationGeneratedValues::PxArticulationGeneratedValues(class physx::PxArticulation const *))
+  Type         : code
+  Name type    : name
+  Hint         : 13
+  Name         : ??0PxArticulationGeneratedValues@physx@@QEAA@PEBVPxArticulation@1@@Z
+
+Archive member name at A810: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      58 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: D982C9F6
+  SizeOfData   : 00000044
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxArticulationJointBaseGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxArticulationJointBaseGeneratedInfo::PxArticulationJointBaseGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 14
+  Name         : ??0PxArticulationJointBaseGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at A8A4: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      78 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: F4F65FFA
+  SizeOfData   : 00000064
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxArticulationJointBaseGeneratedValues@physx@@QEAA@PEBVPxArticulationJointBase@1@@Z (public: __cdecl physx::PxArticulationJointBaseGeneratedValues::PxArticulationJointBaseGeneratedValues(class physx::PxArticulationJointBase const *))
+  Type         : code
+  Name type    : name
+  Hint         : 15
+  Name         : ??0PxArticulationJointBaseGeneratedValues@physx@@QEAA@PEBVPxArticulationJointBase@1@@Z
+
+Archive member name at A958: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      54 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E9C1707E
+  SizeOfData   : 00000040
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxArticulationJointGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxArticulationJointGeneratedInfo::PxArticulationJointGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 16
+  Name         : ??0PxArticulationJointGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at A9E8: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      70 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: F74B81E6
+  SizeOfData   : 0000005C
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxArticulationJointGeneratedValues@physx@@QEAA@PEBVPxArticulationJoint@1@@Z (public: __cdecl physx::PxArticulationJointGeneratedValues::PxArticulationJointGeneratedValues(class physx::PxArticulationJoint const *))
+  Type         : code
+  Name type    : name
+  Hint         : 17
+  Name         : ??0PxArticulationJointGeneratedValues@physx@@QEAA@PEBVPxArticulationJoint@1@@Z
+
+Archive member name at AA94: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      65 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: EFFAB350
+  SizeOfData   : 00000051
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxArticulationJointReducedCoordinateGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxArticulationJointReducedCoordinateGeneratedInfo::PxArticulationJointReducedCoordinateGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 18
+  Name         : ??0PxArticulationJointReducedCoordinateGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at AB36: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      92 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: D5E9EC97
+  SizeOfData   : 0000007E
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxArticulationJointReducedCoordinateGeneratedValues@physx@@QEAA@PEBVPxArticulationJointReducedCoordinate@1@@Z (public: __cdecl physx::PxArticulationJointReducedCoordinateGeneratedValues::PxArticulationJointReducedCoordinateGeneratedValues(class physx::PxArticulationJointReducedCoordinate const *))
+  Type         : code
+  Name type    : name
+  Hint         : 19
+  Name         : ??0PxArticulationJointReducedCoordinateGeneratedValues@physx@@QEAA@PEBVPxArticulationJointReducedCoordinate@1@@Z
+
+Archive member name at AC04: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      53 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: F5737098
+  SizeOfData   : 0000003F
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxArticulationLinkGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxArticulationLinkGeneratedInfo::PxArticulationLinkGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 20
+  Name         : ??0PxArticulationLinkGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at AC94: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      6E size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: F942C77C
+  SizeOfData   : 0000005A
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxArticulationLinkGeneratedValues@physx@@QEAA@PEBVPxArticulationLink@1@@Z (public: __cdecl physx::PxArticulationLinkGeneratedValues::PxArticulationLinkGeneratedValues(class physx::PxArticulationLink const *))
+  Type         : code
+  Name type    : name
+  Hint         : 21
+  Name         : ??0PxArticulationLinkGeneratedValues@physx@@QEAA@PEBVPxArticulationLink@1@@Z
+
+Archive member name at AD3E: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      60 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: D7597E6E
+  SizeOfData   : 0000004C
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxArticulationReducedCoordinateGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxArticulationReducedCoordinateGeneratedInfo::PxArticulationReducedCoordinateGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 22
+  Name         : ??0PxArticulationReducedCoordinateGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at ADDA: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      88 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: F2E8BD83
+  SizeOfData   : 00000074
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxArticulationReducedCoordinateGeneratedValues@physx@@QEAA@PEBVPxArticulationReducedCoordinate@1@@Z (public: __cdecl physx::PxArticulationReducedCoordinateGeneratedValues::PxArticulationReducedCoordinateGeneratedValues(class physx::PxArticulationReducedCoordinate const *))
+  Type         : code
+  Name type    : name
+  Hint         : 23
+  Name         : ??0PxArticulationReducedCoordinateGeneratedValues@physx@@QEAA@PEBVPxArticulationReducedCoordinate@1@@Z
+
+Archive member name at AE9E: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      4E size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: EC1E2240
+  SizeOfData   : 0000003A
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxBoxGeometryGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxBoxGeometryGeneratedInfo::PxBoxGeometryGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 24
+  Name         : ??0PxBoxGeometryGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at AF28: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      64 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E3370ECE
+  SizeOfData   : 00000050
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxBoxGeometryGeneratedValues@physx@@QEAA@PEBVPxBoxGeometry@1@@Z (public: __cdecl physx::PxBoxGeometryGeneratedValues::PxBoxGeometryGeneratedValues(class physx::PxBoxGeometry const *))
+  Type         : code
+  Name type    : name
+  Hint         : 25
+  Name         : ??0PxBoxGeometryGeneratedValues@physx@@QEAA@PEBVPxBoxGeometry@1@@Z
+
+Archive member name at AFC8: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      52 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E83E947A
+  SizeOfData   : 0000003E
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxCapsuleGeometryGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxCapsuleGeometryGeneratedInfo::PxCapsuleGeometryGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 26
+  Name         : ??0PxCapsuleGeometryGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at B056: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      6C size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: D35B83E5
+  SizeOfData   : 00000058
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxCapsuleGeometryGeneratedValues@physx@@QEAA@PEBVPxCapsuleGeometry@1@@Z (public: __cdecl physx::PxCapsuleGeometryGeneratedValues::PxCapsuleGeometryGeneratedValues(class physx::PxCapsuleGeometry const *))
+  Type         : code
+  Name type    : name
+  Hint         : 27
+  Name         : ??0PxCapsuleGeometryGeneratedValues@physx@@QEAA@PEBVPxCapsuleGeometry@1@@Z
+
+Archive member name at B0FE: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      4D size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: CD4E650B
+  SizeOfData   : 00000039
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxConstraintGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxConstraintGeneratedInfo::PxConstraintGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 28
+  Name         : ??0PxConstraintGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at B188: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      62 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: FDE6E430
+  SizeOfData   : 0000004E
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxConstraintGeneratedValues@physx@@QEAA@PEBVPxConstraint@1@@Z (public: __cdecl physx::PxConstraintGeneratedValues::PxConstraintGeneratedValues(class physx::PxConstraint const *))
+  Type         : code
+  Name type    : name
+  Hint         : 29
+  Name         : ??0PxConstraintGeneratedValues@physx@@QEAA@PEBVPxConstraint@1@@Z
+
+Archive member name at B226: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      55 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: CE7D4B28
+  SizeOfData   : 00000041
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxConvexMeshGeometryGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxConvexMeshGeometryGeneratedInfo::PxConvexMeshGeometryGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 30
+  Name         : ??0PxConvexMeshGeometryGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at B2B8: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      72 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: FF2F7A4C
+  SizeOfData   : 0000005E
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxConvexMeshGeometryGeneratedValues@physx@@QEAA@PEBVPxConvexMeshGeometry@1@@Z (public: __cdecl physx::PxConvexMeshGeometryGeneratedValues::PxConvexMeshGeometryGeneratedValues(class physx::PxConvexMeshGeometry const *))
+  Type         : code
+  Name type    : name
+  Hint         : 31
+  Name         : ??0PxConvexMeshGeometryGeneratedValues@physx@@QEAA@PEBVPxConvexMeshGeometry@1@@Z
+
+Archive member name at B366: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      47 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: C1CA3E41
+  SizeOfData   : 00000033
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxFoundation@physx@@QEAA@AEBV01@@Z (public: __cdecl physx::PxFoundation::PxFoundation(class physx::PxFoundation const &))
+  Type         : code
+  Name type    : name
+  Hint         : 32
+  Name         : ??0PxFoundation@physx@@QEAA@AEBV01@@Z
+
+Archive member name at B3EA: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      40 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E89E7676
+  SizeOfData   : 0000002C
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxFoundation@physx@@QEAA@XZ (public: __cdecl physx::PxFoundation::PxFoundation(void))
+  Type         : code
+  Name type    : name
+  Hint         : 33
+  Name         : ??0PxFoundation@physx@@QEAA@XZ
+
+Archive member name at B466: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      4B size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: D808FAD1
+  SizeOfData   : 00000037
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxGeometryGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxGeometryGeneratedInfo::PxGeometryGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 34
+  Name         : ??0PxGeometryGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at B4EE: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      5E size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: D473D408
+  SizeOfData   : 0000004A
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxGeometryGeneratedValues@physx@@QEAA@PEBVPxGeometry@1@@Z (public: __cdecl physx::PxGeometryGeneratedValues::PxGeometryGeneratedValues(class physx::PxGeometry const *))
+  Type         : code
+  Name type    : name
+  Hint         : 35
+  Name         : ??0PxGeometryGeneratedValues@physx@@QEAA@PEBVPxGeometry@1@@Z
+
+Archive member name at B588: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      52 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E46D9201
+  SizeOfData   : 0000003E
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxHeightFieldDescGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxHeightFieldDescGeneratedInfo::PxHeightFieldDescGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 36
+  Name         : ??0PxHeightFieldDescGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at B616: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      6C size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: CADC8735
+  SizeOfData   : 00000058
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxHeightFieldDescGeneratedValues@physx@@QEAA@PEBVPxHeightFieldDesc@1@@Z (public: __cdecl physx::PxHeightFieldDescGeneratedValues::PxHeightFieldDescGeneratedValues(class physx::PxHeightFieldDesc const *))
+  Type         : code
+  Name type    : name
+  Hint         : 37
+  Name         : ??0PxHeightFieldDescGeneratedValues@physx@@QEAA@PEBVPxHeightFieldDesc@1@@Z
+
+Archive member name at B6BE: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      56 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: ECFD59AC
+  SizeOfData   : 00000042
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxHeightFieldGeometryGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxHeightFieldGeometryGeneratedInfo::PxHeightFieldGeometryGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 38
+  Name         : ??0PxHeightFieldGeometryGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at B750: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      74 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: F8DA289C
+  SizeOfData   : 00000060
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxHeightFieldGeometryGeneratedValues@physx@@QEAA@PEBVPxHeightFieldGeometry@1@@Z (public: __cdecl physx::PxHeightFieldGeometryGeneratedValues::PxHeightFieldGeometryGeneratedValues(class physx::PxHeightFieldGeometry const *))
+  Type         : code
+  Name type    : name
+  Hint         : 39
+  Name         : ??0PxHeightFieldGeometryGeneratedValues@physx@@QEAA@PEBVPxHeightFieldGeometry@1@@Z
+
+Archive member name at B800: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      4B size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: CBC29B7E
+  SizeOfData   : 00000037
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxMaterialGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxMaterialGeneratedInfo::PxMaterialGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 40
+  Name         : ??0PxMaterialGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at B888: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      5E size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: D4A3132A
+  SizeOfData   : 0000004A
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxMaterialGeneratedValues@physx@@QEAA@PEBVPxMaterial@1@@Z (public: __cdecl physx::PxMaterialGeneratedValues::PxMaterialGeneratedValues(class physx::PxMaterial const *))
+  Type         : code
+  Name type    : name
+  Hint         : 41
+  Name         : ??0PxMaterialGeneratedValues@physx@@QEAA@PEBVPxMaterial@1@@Z
+
+Archive member name at B922: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      4C size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: FDCD50F6
+  SizeOfData   : 00000038
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxMeshScaleGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxMeshScaleGeneratedInfo::PxMeshScaleGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 42
+  Name         : ??0PxMeshScaleGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at B9AA: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      60 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: FC83DAFD
+  SizeOfData   : 0000004C
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxMeshScaleGeneratedValues@physx@@QEAA@PEBVPxMeshScale@1@@Z (public: __cdecl physx::PxMeshScaleGeneratedValues::PxMeshScaleGeneratedValues(class physx::PxMeshScale const *))
+  Type         : code
+  Name type    : name
+  Hint         : 43
+  Name         : ??0PxMeshScaleGeneratedValues@physx@@QEAA@PEBVPxMeshScale@1@@Z
+
+Archive member name at BA46: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      4A size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: C044A557
+  SizeOfData   : 00000036
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxPhysicsGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxPhysicsGeneratedInfo::PxPhysicsGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 44
+  Name         : ??0PxPhysicsGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at BACC: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      5C size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: DFC0FE81
+  SizeOfData   : 00000048
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxPhysicsGeneratedValues@physx@@QEAA@PEBVPxPhysics@1@@Z (public: __cdecl physx::PxPhysicsGeneratedValues::PxPhysicsGeneratedValues(class physx::PxPhysics const *))
+  Type         : code
+  Name type    : name
+  Hint         : 45
+  Name         : ??0PxPhysicsGeneratedValues@physx@@QEAA@PEBVPxPhysics@1@@Z
+
+Archive member name at BB64: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      50 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E80A4355
+  SizeOfData   : 0000003C
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxPlaneGeometryGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxPlaneGeometryGeneratedInfo::PxPlaneGeometryGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 46
+  Name         : ??0PxPlaneGeometryGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at BBF0: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      68 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: CEC0674A
+  SizeOfData   : 00000054
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxPlaneGeometryGeneratedValues@physx@@QEAA@PEBVPxPlaneGeometry@1@@Z (public: __cdecl physx::PxPlaneGeometryGeneratedValues::PxPlaneGeometryGeneratedValues(class physx::PxPlaneGeometry const *))
+  Type         : code
+  Name type    : name
+  Hint         : 47
+  Name         : ??0PxPlaneGeometryGeneratedValues@physx@@QEAA@PEBVPxPlaneGeometry@1@@Z
+
+Archive member name at BC94: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      53 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E1FBE44C
+  SizeOfData   : 0000003F
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxPruningStructureGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxPruningStructureGeneratedInfo::PxPruningStructureGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 48
+  Name         : ??0PxPruningStructureGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at BD24: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      6E size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: F3F95FFA
+  SizeOfData   : 0000005A
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxPruningStructureGeneratedValues@physx@@QEAA@PEBVPxPruningStructure@1@@Z (public: __cdecl physx::PxPruningStructureGeneratedValues::PxPruningStructureGeneratedValues(class physx::PxPruningStructure const *))
+  Type         : code
+  Name type    : name
+  Hint         : 49
+  Name         : ??0PxPruningStructureGeneratedValues@physx@@QEAA@PEBVPxPruningStructure@1@@Z
+
+Archive member name at BDCE: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      4D size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: EFE04B5C
+  SizeOfData   : 00000039
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxRigidActorGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxRigidActorGeneratedInfo::PxRigidActorGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 50
+  Name         : ??0PxRigidActorGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at BE58: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      62 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: D71B4A22
+  SizeOfData   : 0000004E
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxRigidActorGeneratedValues@physx@@QEAA@PEBVPxRigidActor@1@@Z (public: __cdecl physx::PxRigidActorGeneratedValues::PxRigidActorGeneratedValues(class physx::PxRigidActor const *))
+  Type         : code
+  Name type    : name
+  Hint         : 51
+  Name         : ??0PxRigidActorGeneratedValues@physx@@QEAA@PEBVPxRigidActor@1@@Z
+
+Archive member name at BEF6: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      4C size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: D1AA3CD7
+  SizeOfData   : 00000038
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxRigidBodyGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxRigidBodyGeneratedInfo::PxRigidBodyGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 52
+  Name         : ??0PxRigidBodyGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at BF7E: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      60 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E91EFD41
+  SizeOfData   : 0000004C
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxRigidBodyGeneratedValues@physx@@QEAA@PEBVPxRigidBody@1@@Z (public: __cdecl physx::PxRigidBodyGeneratedValues::PxRigidBodyGeneratedValues(class physx::PxRigidBody const *))
+  Type         : code
+  Name type    : name
+  Hint         : 53
+  Name         : ??0PxRigidBodyGeneratedValues@physx@@QEAA@PEBVPxRigidBody@1@@Z
+
+Archive member name at C01A: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      4F size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E18433DB
+  SizeOfData   : 0000003B
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxRigidDynamicGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxRigidDynamicGeneratedInfo::PxRigidDynamicGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 54
+  Name         : ??0PxRigidDynamicGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at C0A6: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      66 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: CCF3A858
+  SizeOfData   : 00000052
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxRigidDynamicGeneratedValues@physx@@QEAA@PEBVPxRigidDynamic@1@@Z (public: __cdecl physx::PxRigidDynamicGeneratedValues::PxRigidDynamicGeneratedValues(class physx::PxRigidDynamic const *))
+  Type         : code
+  Name type    : name
+  Hint         : 55
+  Name         : ??0PxRigidDynamicGeneratedValues@physx@@QEAA@PEBVPxRigidDynamic@1@@Z
+
+Archive member name at C148: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      4E size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: DAD8204B
+  SizeOfData   : 0000003A
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxRigidStaticGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxRigidStaticGeneratedInfo::PxRigidStaticGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 56
+  Name         : ??0PxRigidStaticGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at C1D2: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      64 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: F1EB3EE0
+  SizeOfData   : 00000050
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxRigidStaticGeneratedValues@physx@@QEAA@PEBVPxRigidStatic@1@@Z (public: __cdecl physx::PxRigidStaticGeneratedValues::PxRigidStaticGeneratedValues(class physx::PxRigidStatic const *))
+  Type         : code
+  Name type    : name
+  Hint         : 57
+  Name         : ??0PxRigidStaticGeneratedValues@physx@@QEAA@PEBVPxRigidStatic@1@@Z
+
+Archive member name at C272: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      4C size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E16C74B0
+  SizeOfData   : 00000038
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxSceneDescGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxSceneDescGeneratedInfo::PxSceneDescGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 58
+  Name         : ??0PxSceneDescGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at C2FA: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      60 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: CA6F9CA4
+  SizeOfData   : 0000004C
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxSceneDescGeneratedValues@physx@@QEAA@PEBVPxSceneDesc@1@@Z (public: __cdecl physx::PxSceneDescGeneratedValues::PxSceneDescGeneratedValues(class physx::PxSceneDesc const *))
+  Type         : code
+  Name type    : name
+  Hint         : 59
+  Name         : ??0PxSceneDescGeneratedValues@physx@@QEAA@PEBVPxSceneDesc@1@@Z
+
+Archive member name at C396: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      48 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E85D8AD9
+  SizeOfData   : 00000034
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxSceneGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxSceneGeneratedInfo::PxSceneGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 60
+  Name         : ??0PxSceneGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at C41A: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      58 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E4470F73
+  SizeOfData   : 00000044
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxSceneGeneratedValues@physx@@QEAA@PEBVPxScene@1@@Z (public: __cdecl physx::PxSceneGeneratedValues::PxSceneGeneratedValues(class physx::PxScene const *))
+  Type         : code
+  Name type    : name
+  Hint         : 61
+  Name         : ??0PxSceneGeneratedValues@physx@@QEAA@PEBVPxScene@1@@Z
+
+Archive member name at C4AE: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      4E size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: F15BF530
+  SizeOfData   : 0000003A
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxSceneLimitsGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxSceneLimitsGeneratedInfo::PxSceneLimitsGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 62
+  Name         : ??0PxSceneLimitsGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at C538: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      64 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: CD38C82B
+  SizeOfData   : 00000050
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxSceneLimitsGeneratedValues@physx@@QEAA@PEBVPxSceneLimits@1@@Z (public: __cdecl physx::PxSceneLimitsGeneratedValues::PxSceneLimitsGeneratedValues(class physx::PxSceneLimits const *))
+  Type         : code
+  Name type    : name
+  Hint         : 63
+  Name         : ??0PxSceneLimitsGeneratedValues@physx@@QEAA@PEBVPxSceneLimits@1@@Z
+
+Archive member name at C5D8: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      48 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: FDB1C521
+  SizeOfData   : 00000034
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxShapeGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxShapeGeneratedInfo::PxShapeGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 64
+  Name         : ??0PxShapeGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at C65C: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      58 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E6BDD1C4
+  SizeOfData   : 00000044
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxShapeGeneratedValues@physx@@QEAA@PEBVPxShape@1@@Z (public: __cdecl physx::PxShapeGeneratedValues::PxShapeGeneratedValues(class physx::PxShape const *))
+  Type         : code
+  Name type    : name
+  Hint         : 65
+  Name         : ??0PxShapeGeneratedValues@physx@@QEAA@PEBVPxShape@1@@Z
+
+Archive member name at C6F0: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      57 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: C687B938
+  SizeOfData   : 00000043
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxSimulationStatisticsGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxSimulationStatisticsGeneratedInfo::PxSimulationStatisticsGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 66
+  Name         : ??0PxSimulationStatisticsGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at C784: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      76 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: F5399969
+  SizeOfData   : 00000062
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxSimulationStatisticsGeneratedValues@physx@@QEAA@PEBVPxSimulationStatistics@1@@Z (public: __cdecl physx::PxSimulationStatisticsGeneratedValues::PxSimulationStatisticsGeneratedValues(class physx::PxSimulationStatistics const *))
+  Type         : code
+  Name type    : name
+  Hint         : 67
+  Name         : ??0PxSimulationStatisticsGeneratedValues@physx@@QEAA@PEBVPxSimulationStatistics@1@@Z
+
+Archive member name at C836: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      51 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E2CE63B1
+  SizeOfData   : 0000003D
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxSphereGeometryGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxSphereGeometryGeneratedInfo::PxSphereGeometryGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 68
+  Name         : ??0PxSphereGeometryGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at C8C4: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      6A size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: DE41E017
+  SizeOfData   : 00000056
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxSphereGeometryGeneratedValues@physx@@QEAA@PEBVPxSphereGeometry@1@@Z (public: __cdecl physx::PxSphereGeometryGeneratedValues::PxSphereGeometryGeneratedValues(class physx::PxSphereGeometry const *))
+  Type         : code
+  Name type    : name
+  Hint         : 69
+  Name         : ??0PxSphereGeometryGeneratedValues@physx@@QEAA@PEBVPxSphereGeometry@1@@Z
+
+Archive member name at C96A: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      52 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: C2BEFC57
+  SizeOfData   : 0000003E
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxTolerancesScaleGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxTolerancesScaleGeneratedInfo::PxTolerancesScaleGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 70
+  Name         : ??0PxTolerancesScaleGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at C9F8: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      6C size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: CDC985B5
+  SizeOfData   : 00000058
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxTolerancesScaleGeneratedValues@physx@@QEAA@PEBVPxTolerancesScale@1@@Z (public: __cdecl physx::PxTolerancesScaleGeneratedValues::PxTolerancesScaleGeneratedValues(class physx::PxTolerancesScale const *))
+  Type         : code
+  Name type    : name
+  Hint         : 71
+  Name         : ??0PxTolerancesScaleGeneratedValues@physx@@QEAA@PEBVPxTolerancesScale@1@@Z
+
+Archive member name at CAA0: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      57 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: C8635CE1
+  SizeOfData   : 00000043
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxTriangleMeshGeometryGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxTriangleMeshGeometryGeneratedInfo::PxTriangleMeshGeometryGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 72
+  Name         : ??0PxTriangleMeshGeometryGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at CB34: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      76 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: F2101847
+  SizeOfData   : 00000062
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxTriangleMeshGeometryGeneratedValues@physx@@QEAA@PEBVPxTriangleMeshGeometry@1@@Z (public: __cdecl physx::PxTriangleMeshGeometryGeneratedValues::PxTriangleMeshGeometryGeneratedValues(class physx::PxTriangleMeshGeometry const *))
+  Type         : code
+  Name type    : name
+  Hint         : 73
+  Name         : ??0PxTriangleMeshGeometryGeneratedValues@physx@@QEAA@PEBVPxTriangleMeshGeometry@1@@Z
+
+Archive member name at CBE6: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      58 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: D940CA64
+  SizeOfData   : 00000044
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxgDynamicsMemoryConfigGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxgDynamicsMemoryConfigGeneratedInfo::PxgDynamicsMemoryConfigGeneratedInfo(void))
+  Type         : code
+  Name type    : name
+  Hint         : 74
+  Name         : ??0PxgDynamicsMemoryConfigGeneratedInfo@physx@@QEAA@XZ
+
+Archive member name at CC7A: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      78 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: DC90CEEE
+  SizeOfData   : 00000064
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0PxgDynamicsMemoryConfigGeneratedValues@physx@@QEAA@PEBUPxgDynamicsMemoryConfig@1@@Z (public: __cdecl physx::PxgDynamicsMemoryConfigGeneratedValues::PxgDynamicsMemoryConfigGeneratedValues(struct physx::PxgDynamicsMemoryConfig const *))
+  Type         : code
+  Name type    : name
+  Hint         : 75
+  Name         : ??0PxgDynamicsMemoryConfigGeneratedValues@physx@@QEAA@PEBUPxgDynamicsMemoryConfig@1@@Z
+
+Archive member name at CD2E: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      50 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: CFC23537
+  SizeOfData   : 0000003C
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??0SimulationStatisticsProperty@physx@@QEAA@XZ (public: __cdecl physx::SimulationStatisticsProperty::SimulationStatisticsProperty(void))
+  Type         : code
+  Name type    : name
+  Hint         : 76
+  Name         : ??0SimulationStatisticsProperty@physx@@QEAA@XZ
+
+Archive member name at CDBA: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      40 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: EBF1D622
+  SizeOfData   : 0000002C
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??1PxFoundation@physx@@MEAA@XZ (protected: virtual __cdecl physx::PxFoundation::~PxFoundation(void))
+  Type         : code
+  Name type    : name
+  Hint         : 77
+  Name         : ??1PxFoundation@physx@@MEAA@XZ
+
+Archive member name at CE36: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      55 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E8273EF7
+  SizeOfData   : 00000041
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??4Allocator@shdfnd@physx@@QEAAAEAV012@$$QEAV012@@Z (public: class physx::shdfnd::Allocator & __cdecl physx::shdfnd::Allocator::operator=(class physx::shdfnd::Allocator &&))
+  Type         : code
+  Name type    : name
+  Hint         : 78
+  Name         : ??4Allocator@shdfnd@physx@@QEAAAEAV012@$$QEAV012@@Z
+
+Archive member name at CEC8: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      53 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: FA7C0872
+  SizeOfData   : 0000003F
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??4Allocator@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z (public: class physx::shdfnd::Allocator & __cdecl physx::shdfnd::Allocator::operator=(class physx::shdfnd::Allocator const &))
+  Type         : code
+  Name type    : name
+  Hint         : 79
+  Name         : ??4Allocator@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z
+
+Archive member name at CF58: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      52 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E2701B0F
+  SizeOfData   : 0000003E
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??4FPUGuard@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z (public: class physx::shdfnd::FPUGuard & __cdecl physx::shdfnd::FPUGuard::operator=(class physx::shdfnd::FPUGuard const &))
+  Type         : code
+  Name type    : name
+  Hint         : 80
+  Name         : ??4FPUGuard@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z
+
+Archive member name at CFE6: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      53 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: DAA1EF1B
+  SizeOfData   : 0000003F
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??4MutexImpl@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z (public: class physx::shdfnd::MutexImpl & __cdecl physx::shdfnd::MutexImpl::operator=(class physx::shdfnd::MutexImpl const &))
+  Type         : code
+  Name type    : name
+  Hint         : 81
+  Name         : ??4MutexImpl@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z
+
+Archive member name at D076: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      4D size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: FC75071F
+  SizeOfData   : 00000039
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??4PxFoundation@physx@@QEAAAEAV01@AEBV01@@Z (public: class physx::PxFoundation & __cdecl physx::PxFoundation::operator=(class physx::PxFoundation const &))
+  Type         : code
+  Name type    : name
+  Hint         : 82
+  Name         : ??4PxFoundation@physx@@QEAAAEAV01@AEBV01@@Z
+
+Archive member name at D100: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      52 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: F033397F
+  SizeOfData   : 0000003E
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??4SyncImpl@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z (public: class physx::shdfnd::SyncImpl & __cdecl physx::shdfnd::SyncImpl::operator=(class physx::shdfnd::SyncImpl const &))
+  Type         : code
+  Name type    : name
+  Hint         : 83
+  Name         : ??4SyncImpl@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z
+
+Archive member name at D18E: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      54 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: F55869AB
+  SizeOfData   : 00000040
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??4ThreadImpl@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z (public: class physx::shdfnd::ThreadImpl & __cdecl physx::shdfnd::ThreadImpl::operator=(class physx::shdfnd::ThreadImpl const &))
+  Type         : code
+  Name type    : name
+  Hint         : 84
+  Name         : ??4ThreadImpl@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z
+
+Archive member name at D21E: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      3D size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: CE3D897E
+  SizeOfData   : 00000029
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??_7PxFoundation@physx@@6B@ (const physx::PxFoundation::`vftable')
+  Type         : data
+  Name type    : name
+  Hint         : 85
+  Name         : ??_7PxFoundation@physx@@6B@
+
+Archive member name at D298: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      45 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: D5C6D0DD
+  SizeOfData   : 00000031
+  DLL name     : PhysX_64.dll
+  Symbol name  : ??_FAllocator@shdfnd@physx@@QEAAXXZ (public: void __cdecl physx::shdfnd::Allocator::`default constructor closure'(void))
+  Type         : code
+  Name type    : name
+  Hint         : 86
+  Name         : ??_FAllocator@shdfnd@physx@@QEAAXXZ
+
+Archive member name at D31A: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      A9 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: DF03C397
+  SizeOfData   : 00000095
+  DLL name     : PhysX_64.dll
+  Symbol name  : ?createLink@PxArticulationLinkCollectionPropHelper@physx@@QEBAPEAVPxArticulationLink@2@PEAVPxArticulation@2@PEAV32@AEBVPxTransform@2@@Z (public: class physx::PxArticulationLink * __cdecl physx::PxArticulationLinkCollectionPropHelper::createLink(class physx::PxArticulation *,class physx::PxArticulationLink *,class physx::PxTransform const &)const )
+  Type         : code
+  Name type    : name
+  Hint         : 87
+  Name         : ?createLink@PxArticulationLinkCollectionPropHelper@physx@@QEBAPEAVPxArticulationLink@2@PEAVPxArticulation@2@PEAV32@AEBVPxTransform@2@@Z
+
+Archive member name at D400: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      CA size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: C9285EBD
+  SizeOfData   : 000000B6
+  DLL name     : PhysX_64.dll
+  Symbol name  : ?createShape@PxRigidActorShapeCollectionHelper@physx@@QEBAPEAVPxShape@2@PEAVPxRigidActor@2@AEBVPxGeometry@2@AEAVPxMaterial@2@V?$PxFlags@W4Enum@PxShapeFlag@physx@@E@2@@Z (public: class physx::PxShape * __cdecl physx::PxRigidActorShapeCollectionHelper::createShape(class physx::PxRigidActor *,class physx::PxGeometry const &,class physx::PxMaterial &,class physx::PxFlags<enum physx::PxShapeFlag::Enum,unsigned char>)const )
+  Type         : code
+  Name type    : name
+  Hint         : 88
+  Name         : ?createShape@PxRigidActorShapeCollectionHelper@physx@@QEBAPEAVPxShape@2@PEAVPxRigidActor@2@AEBVPxGeometry@2@AEAVPxMaterial@2@V?$PxFlags@W4Enum@PxShapeFlag@physx@@E@2@@Z
+
+Archive member name at D506: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      CE size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: D1FA0391
+  SizeOfData   : 000000BA
+  DLL name     : PhysX_64.dll
+  Symbol name  : ?createShape@PxRigidActorShapeCollectionHelper@physx@@QEBAPEAVPxShape@2@PEAVPxRigidActor@2@AEBVPxGeometry@2@PEBQEAVPxMaterial@2@GV?$PxFlags@W4Enum@PxShapeFlag@physx@@E@2@@Z (public: class physx::PxShape * __cdecl physx::PxRigidActorShapeCollectionHelper::createShape(class physx::PxRigidActor *,class physx::PxGeometry const &,class physx::PxMaterial * const *,unsigned short,class physx::PxFlags<enum physx::PxShapeFlag::Enum,unsigned char>)const )
+  Type         : code
+  Name type    : name
+  Hint         : 89
+  Name         : ?createShape@PxRigidActorShapeCollectionHelper@physx@@QEBAPEAVPxShape@2@PEAVPxRigidActor@2@AEBVPxGeometry@2@PEBQEAVPxMaterial@2@GV?$PxFlags@W4Enum@PxShapeFlag@physx@@E@2@@Z
+
+Archive member name at D610: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      69 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: FFA3ED37
+  SizeOfData   : 00000055
+  DLL name     : PhysX_64.dll
+  Symbol name  : ?getAllocator@Foundation@shdfnd@physx@@QEAAAEAVPxAllocatorCallback@3@XZ (public: class physx::PxAllocatorCallback & __cdecl physx::shdfnd::Foundation::getAllocator(void))
+  Type         : code
+  Name type    : name
+  Hint         : 90
+  Name         : ?getAllocator@Foundation@shdfnd@physx@@QEAAAEAVPxAllocatorCallback@3@XZ
+
+Archive member name at D6B6: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      71 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: EBFB3BF1
+  SizeOfData   : 0000005D
+  DLL name     : PhysX_64.dll
+  Symbol name  : ?getAllocatorCallback@Foundation@shdfnd@physx@@UEAAAEAVPxAllocatorCallback@3@XZ (public: virtual class physx::PxAllocatorCallback & __cdecl physx::shdfnd::Foundation::getAllocatorCallback(void))
+  Type         : code
+  Name type    : name
+  Hint         : 91
+  Name         : ?getAllocatorCallback@Foundation@shdfnd@physx@@UEAAAEAVPxAllocatorCallback@3@XZ
+
+Archive member name at D764: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      69 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: FF40E5FE
+  SizeOfData   : 00000055
+  DLL name     : PhysX_64.dll
+  Symbol name  : ?getErrorCallback@Foundation@shdfnd@physx@@UEAAAEAVPxErrorCallback@3@XZ (public: virtual class physx::PxErrorCallback & __cdecl physx::shdfnd::Foundation::getErrorCallback(void))
+  Type         : code
+  Name type    : name
+  Hint         : 92
+  Name         : ?getErrorCallback@Foundation@shdfnd@physx@@UEAAAEAVPxErrorCallback@3@XZ
+
+Archive member name at D80A: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      67 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E18BFCB3
+  SizeOfData   : 00000053
+  DLL name     : PhysX_64.dll
+  Symbol name  : ?getErrorLevel@Foundation@shdfnd@physx@@UEBA?AW4Enum@PxErrorCode@3@XZ (public: virtual enum physx::PxErrorCode::Enum __cdecl physx::shdfnd::Foundation::getErrorLevel(void)const )
+  Type         : code
+  Name type    : name
+  Hint         : 93
+  Name         : ?getErrorLevel@Foundation@shdfnd@physx@@UEBA?AW4Enum@PxErrorCode@3@XZ
+
+Archive member name at D8AE: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      7E size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: D8D29F4A
+  SizeOfData   : 0000006A
+  DLL name     : PhysX_64.dll
+  Symbol name  : ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxBoxGeometry@2@@Z (public: bool __cdecl physx::PxShapeGeometryPropertyHelper::getGeometry(class physx::PxShape const *,class physx::PxBoxGeometry &)const )
+  Type         : code
+  Name type    : name
+  Hint         : 94
+  Name         : ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxBoxGeometry@2@@Z
+
+Archive member name at D968: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      82 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: F9397166
+  SizeOfData   : 0000006E
+  DLL name     : PhysX_64.dll
+  Symbol name  : ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxCapsuleGeometry@2@@Z (public: bool __cdecl physx::PxShapeGeometryPropertyHelper::getGeometry(class physx::PxShape const *,class physx::PxCapsuleGeometry &)const )
+  Type         : code
+  Name type    : name
+  Hint         : 95
+  Name         : ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxCapsuleGeometry@2@@Z
+
+Archive member name at DA26: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      85 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: C5C80DF4
+  SizeOfData   : 00000071
+  DLL name     : PhysX_64.dll
+  Symbol name  : ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxConvexMeshGeometry@2@@Z (public: bool __cdecl physx::PxShapeGeometryPropertyHelper::getGeometry(class physx::PxShape const *,class physx::PxConvexMeshGeometry &)const )
+  Type         : code
+  Name type    : name
+  Hint         : 96
+  Name         : ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxConvexMeshGeometry@2@@Z
+
+Archive member name at DAE8: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      86 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: FCEB6CFF
+  SizeOfData   : 00000072
+  DLL name     : PhysX_64.dll
+  Symbol name  : ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxHeightFieldGeometry@2@@Z (public: bool __cdecl physx::PxShapeGeometryPropertyHelper::getGeometry(class physx::PxShape const *,class physx::PxHeightFieldGeometry &)const )
+  Type         : code
+  Name type    : name
+  Hint         : 97
+  Name         : ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxHeightFieldGeometry@2@@Z
+
+Archive member name at DBAA: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      80 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: D551CBB0
+  SizeOfData   : 0000006C
+  DLL name     : PhysX_64.dll
+  Symbol name  : ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxPlaneGeometry@2@@Z (public: bool __cdecl physx::PxShapeGeometryPropertyHelper::getGeometry(class physx::PxShape const *,class physx::PxPlaneGeometry &)const )
+  Type         : code
+  Name type    : name
+  Hint         : 98
+  Name         : ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxPlaneGeometry@2@@Z
+
+Archive member name at DC66: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      81 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: D8CE7020
+  SizeOfData   : 0000006D
+  DLL name     : PhysX_64.dll
+  Symbol name  : ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxSphereGeometry@2@@Z (public: bool __cdecl physx::PxShapeGeometryPropertyHelper::getGeometry(class physx::PxShape const *,class physx::PxSphereGeometry &)const )
+  Type         : code
+  Name type    : name
+  Hint         : 99
+  Name         : ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxSphereGeometry@2@@Z
+
+Archive member name at DD24: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      87 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: CCECE33E
+  SizeOfData   : 00000073
+  DLL name     : PhysX_64.dll
+  Symbol name  : ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxTriangleMeshGeometry@2@@Z (public: bool __cdecl physx::PxShapeGeometryPropertyHelper::getGeometry(class physx::PxShape const *,class physx::PxTriangleMeshGeometry &)const )
+  Type         : code
+  Name type    : name
+  Hint         : 100
+  Name         : ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxTriangleMeshGeometry@2@@Z
+
+Archive member name at DDE8: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      86 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: F35E7097
+  SizeOfData   : 00000072
+  DLL name     : PhysX_64.dll
+  Symbol name  : ?getGeometryType@PxShapeGeometryPropertyHelper@physx@@QEBA?AW4Enum@PxGeometryType@2@PEBVPxShape@2@@Z (public: enum physx::PxGeometryType::Enum __cdecl physx::PxShapeGeometryPropertyHelper::getGeometryType(class physx::PxShape const *)const )
+  Type         : code
+  Name type    : name
+  Hint         : 101
+  Name         : ?getGeometryType@PxShapeGeometryPropertyHelper@physx@@QEBA?AW4Enum@PxGeometryType@2@PEBVPxShape@2@@Z
+
+Archive member name at DEAA: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      71 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E20DB3D3
+  SizeOfData   : 0000005D
+  DLL name     : PhysX_64.dll
+  Symbol name  : ?getInternalErrorCallback@Foundation@shdfnd@physx@@QEAAAEAVPxErrorCallback@3@XZ (public: class physx::PxErrorCallback & __cdecl physx::shdfnd::Foundation::getInternalErrorCallback(void))
+  Type         : code
+  Name type    : name
+  Hint         : 102
+  Name         : ?getInternalErrorCallback@Foundation@shdfnd@physx@@QEAAAEAVPxErrorCallback@3@XZ
+
+Archive member name at DF58: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      D0 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: D1AF93FE
+  SizeOfData   : 000000BC
+  DLL name     : PhysX_64.dll
+  Symbol name  : ?getNamedAllocMap@Foundation@shdfnd@physx@@QEAAAEAV?$HashMap@PEBVNamedAllocator@shdfnd@physx@@PEBDU?$Hash@PEBVNamedAllocator@shdfnd@physx@@@23@VNonTrackingAllocator@23@@23@XZ (public: class physx::shdfnd::HashMap<class physx::shdfnd::NamedAllocator const *,char const *,struct physx::shdfnd::Hash<class physx::shdfnd::NamedAllocator const *>,class physx::shdfnd::NonTrackingAllocator> & __cdecl physx::shdfnd::Foundation::getNamedAllocMap(void))
+  Type         : code
+  Name type    : name
+  Hint         : 103
+  Name         : ?getNamedAllocMap@Foundation@shdfnd@physx@@QEAAAEAV?$HashMap@PEBVNamedAllocator@shdfnd@physx@@PEBDU?$Hash@PEBVNamedAllocator@shdfnd@physx@@@23@VNonTrackingAllocator@23@@23@XZ
+
+Archive member name at E064: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      7F size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: C6CACF97
+  SizeOfData   : 0000006B
+  DLL name     : PhysX_64.dll
+  Symbol name  : ?getNamedAllocMutex@Foundation@shdfnd@physx@@QEAAAEAV?$MutexT@VAllocator@shdfnd@physx@@@23@XZ (public: class physx::shdfnd::MutexT<class physx::shdfnd::Allocator> & __cdecl physx::shdfnd::Foundation::getNamedAllocMutex(void))
+  Type         : code
+  Name type    : name
+  Hint         : 104
+  Name         : ?getNamedAllocMutex@Foundation@shdfnd@physx@@QEAAAEAV?$MutexT@VAllocator@shdfnd@physx@@@23@XZ
+
+Archive member name at E120: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      5D size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: C618A153
+  SizeOfData   : 00000049
+  DLL name     : PhysX_64.dll
+  Symbol name  : ?getReportAllocationNames@Foundation@shdfnd@physx@@UEBA_NXZ (public: virtual bool __cdecl physx::shdfnd::Foundation::getReportAllocationNames(void)const )
+  Type         : code
+  Name type    : name
+  Hint         : 105
+  Name         : ?getReportAllocationNames@Foundation@shdfnd@physx@@UEBA_NXZ
+
+Archive member name at E1BA: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      9B size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: C903819D
+  SizeOfData   : 00000087
+  DLL name     : PhysX_64.dll
+  Symbol name  : ?getTempAllocFreeTable@Foundation@shdfnd@physx@@QEAAAEAV?$Array@PEATTempAllocatorChunk@shdfnd@physx@@VAllocator@23@@23@XZ (public: class physx::shdfnd::Array<union physx::shdfnd::TempAllocatorChunk *,class physx::shdfnd::Allocator> & __cdecl physx::shdfnd::Foundation::getTempAllocFreeTable(void))
+  Type         : code
+  Name type    : name
+  Hint         : 106
+  Name         : ?getTempAllocFreeTable@Foundation@shdfnd@physx@@QEAAAEAV?$Array@PEATTempAllocatorChunk@shdfnd@physx@@VAllocator@23@@23@XZ
+
+Archive member name at E292: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      7E size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: FD0C9E7F
+  SizeOfData   : 0000006A
+  DLL name     : PhysX_64.dll
+  Symbol name  : ?getTempAllocMutex@Foundation@shdfnd@physx@@QEAAAEAV?$MutexT@VAllocator@shdfnd@physx@@@23@XZ (public: class physx::shdfnd::MutexT<class physx::shdfnd::Allocator> & __cdecl physx::shdfnd::Foundation::getTempAllocMutex(void))
+  Type         : code
+  Name type    : name
+  Hint         : 107
+  Name         : ?getTempAllocMutex@Foundation@shdfnd@physx@@QEAAAEAV?$MutexT@VAllocator@shdfnd@physx@@@23@XZ
+
+Archive member name at E34C: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      66 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E9BC54B0
+  SizeOfData   : 00000052
+  DLL name     : PhysX_64.dll
+  Symbol name  : ?setErrorLevel@Foundation@shdfnd@physx@@UEAAXW4Enum@PxErrorCode@3@@Z (public: virtual void __cdecl physx::shdfnd::Foundation::setErrorLevel(enum physx::PxErrorCode::Enum))
+  Type         : code
+  Name type    : name
+  Hint         : 108
+  Name         : ?setErrorLevel@Foundation@shdfnd@physx@@UEAAXW4Enum@PxErrorCode@3@@Z
+
+Archive member name at E3EE: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      80 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: D01C552C
+  SizeOfData   : 0000006C
+  DLL name     : PhysX_64.dll
+  Symbol name  : ?setMaterials@PxShapeMaterialsPropertyHelper@physx@@QEBAXPEAVPxShape@2@PEBQEAVPxMaterial@2@G@Z (public: void __cdecl physx::PxShapeMaterialsPropertyHelper::setMaterials(class physx::PxShape *,class physx::PxMaterial * const *,unsigned short)const )
+  Type         : code
+  Name type    : name
+  Hint         : 109
+  Name         : ?setMaterials@PxShapeMaterialsPropertyHelper@physx@@QEBAXPEAVPxShape@2@PEBQEAVPxMaterial@2@G@Z
+
+Archive member name at E4AA: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      5E size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E823B468
+  SizeOfData   : 0000004A
+  DLL name     : PhysX_64.dll
+  Symbol name  : ?setReportAllocationNames@Foundation@shdfnd@physx@@UEAAX_N@Z (public: virtual void __cdecl physx::shdfnd::Foundation::setReportAllocationNames(bool))
+  Type         : code
+  Name type    : name
+  Hint         : 110
+  Name         : ?setReportAllocationNames@Foundation@shdfnd@physx@@UEAAX_N@Z
+
+Archive member name at E544: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      49 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: DCD41CA6
+  SizeOfData   : 00000035
+  DLL name     : PhysX_64.dll
+  Symbol name  : ?waitForever@SyncImpl@shdfnd@physx@@2IB (public: static unsigned int const physx::shdfnd::SyncImpl::waitForever)
+  Type         : data
+  Name type    : name
+  Hint         : 111
+  Name         : ?waitForever@SyncImpl@shdfnd@physx@@2IB
+
+Archive member name at E5CA: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      37 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: DF5B0074
+  SizeOfData   : 00000023
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxAddArticulationLink
+  Type         : code
+  Name type    : name
+  Hint         : 112
+  Name         : PxAddArticulationLink
+
+Archive member name at E63E: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      3A size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E067EAB6
+  SizeOfData   : 00000026
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxAddCollectionToPhysics
+  Type         : code
+  Name type    : name
+  Hint         : 113
+  Name         : PxAddCollectionToPhysics
+
+Archive member name at E6B4: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      3A size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: D49CF095
+  SizeOfData   : 00000026
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxApplyArticulationCache
+  Type         : code
+  Name type    : name
+  Hint         : 114
+  Name         : PxApplyArticulationCache
+
+Archive member name at E72A: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      34 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: C38E22C6
+  SizeOfData   : 00000020
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxBatchConstraints
+  Type         : code
+  Name type    : name
+  Hint         : 115
+  Name         : PxBatchConstraints
+
+Archive member name at E79A: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      37 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: D78F704D
+  SizeOfData   : 00000023
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxBatchConstraintsTGS
+  Type         : code
+  Name type    : name
+  Hint         : 116
+  Name         : PxBatchConstraintsTGS
+
+Archive member name at E80E: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      42 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: CB1F015D
+  SizeOfData   : 0000002E
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxComputeUnconstrainedVelocities
+  Type         : code
+  Name type    : name
+  Hint         : 117
+  Name         : PxComputeUnconstrainedVelocities
+
+Archive member name at E88C: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      45 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: C2686877
+  SizeOfData   : 00000031
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxComputeUnconstrainedVelocitiesTGS
+  Type         : code
+  Name type    : name
+  Hint         : 118
+  Name         : PxComputeUnconstrainedVelocitiesTGS
+
+Archive member name at E90E: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      39 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E6889AA5
+  SizeOfData   : 00000025
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxConstructSolverBodies
+  Type         : code
+  Name type    : name
+  Hint         : 119
+  Name         : PxConstructSolverBodies
+
+Archive member name at E984: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      3C size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: D4C9CBA3
+  SizeOfData   : 00000028
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxConstructSolverBodiesTGS
+  Type         : code
+  Name type    : name
+  Hint         : 120
+  Name         : PxConstructSolverBodiesTGS
+
+Archive member name at E9FC: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      3D size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E934F22F
+  SizeOfData   : 00000029
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxConstructStaticSolverBody
+  Type         : code
+  Name type    : name
+  Hint         : 121
+  Name         : PxConstructStaticSolverBody
+
+Archive member name at EA76: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      40 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: D82F2DDB
+  SizeOfData   : 0000002C
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxConstructStaticSolverBodyTGS
+  Type         : code
+  Name type    : name
+  Hint         : 122
+  Name         : PxConstructStaticSolverBodyTGS
+
+Archive member name at EAF2: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      48 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: F53AAB81
+  SizeOfData   : 00000034
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxCopyInternalStateToArticulationCache
+  Type         : code
+  Name type    : name
+  Hint         : 123
+  Name         : PxCopyInternalStateToArticulationCache
+
+Archive member name at EB76: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      3B size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E6EDCF99
+  SizeOfData   : 00000027
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxCreateArticulationCache
+  Type         : code
+  Name type    : name
+  Hint         : 124
+  Name         : PxCreateArticulationCache
+
+Archive member name at EBEE: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      35 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: D23B9988
+  SizeOfData   : 00000021
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxCreateBasePhysics
+  Type         : code
+  Name type    : name
+  Hint         : 125
+  Name         : PxCreateBasePhysics
+
+Archive member name at EC60: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      3C size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: D0240611
+  SizeOfData   : 00000028
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxCreateContactConstraints
+  Type         : code
+  Name type    : name
+  Hint         : 126
+  Name         : PxCreateContactConstraints
+
+Archive member name at ECD8: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      3F size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: C4E4D244
+  SizeOfData   : 0000002B
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxCreateContactConstraintsTGS
+  Type         : code
+  Name type    : name
+  Hint         : 127
+  Name         : PxCreateContactConstraintsTGS
+
+Archive member name at ED54: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      42 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: D4933401
+  SizeOfData   : 0000002E
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxCreateCudaClientContextManager
+  Type         : code
+  Name type    : name
+  Hint         : 128
+  Name         : PxCreateCudaClientContextManager
+
+Archive member name at EDD2: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      3C size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E58FA1BB
+  SizeOfData   : 00000028
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxCreateCudaContextManager
+  Type         : code
+  Name type    : name
+  Hint         : 129
+  Name         : PxCreateCudaContextManager
+
+Archive member name at EE4A: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      42 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: F4DDA257
+  SizeOfData   : 0000002E
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxCreateFeatherstoneArticulation
+  Type         : code
+  Name type    : name
+  Hint         : 130
+  Name         : PxCreateFeatherstoneArticulation
+
+Archive member name at EEC8: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      3A size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: EA841F34
+  SizeOfData   : 00000026
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxCreateJointConstraints
+  Type         : code
+  Name type    : name
+  Hint         : 131
+  Name         : PxCreateJointConstraints
+
+Archive member name at EF3E: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      3D size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: F26322A4
+  SizeOfData   : 00000029
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxCreateJointConstraintsTGS
+  Type         : code
+  Name type    : name
+  Hint         : 132
+  Name         : PxCreateJointConstraintsTGS
+
+Archive member name at EFB8: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      4E size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: EA06AB9E
+  SizeOfData   : 0000003A
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxCreateJointConstraintsWithImmediateShaders
+  Type         : code
+  Name type    : name
+  Hint         : 133
+  Name         : PxCreateJointConstraintsWithImmediateShaders
+
+Archive member name at F042: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      51 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: D00C3C20
+  SizeOfData   : 0000003D
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxCreateJointConstraintsWithImmediateShadersTGS
+  Type         : code
+  Name type    : name
+  Hint         : 134
+  Name         : PxCreateJointConstraintsWithImmediateShadersTGS
+
+Archive member name at F0D0: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      45 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E7C82082
+  SizeOfData   : 00000031
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxCreateJointConstraintsWithShaders
+  Type         : code
+  Name type    : name
+  Hint         : 135
+  Name         : PxCreateJointConstraintsWithShaders
+
+Archive member name at F152: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      48 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: D2DF6B3A
+  SizeOfData   : 00000034
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxCreateJointConstraintsWithShadersTGS
+  Type         : code
+  Name type    : name
+  Hint         : 136
+  Name         : PxCreateJointConstraintsWithShadersTGS
+
+Archive member name at F1D6: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      34 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E40F1A7C
+  SizeOfData   : 00000020
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxGenerateContacts
+  Type         : code
+  Name type    : name
+  Hint         : 137
+  Name         : PxGenerateContacts
+
+Archive member name at F246: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      32 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E7B54CB6
+  SizeOfData   : 0000001E
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxGetAllLinkData
+  Type         : code
+  Name type    : name
+  Hint         : 138
+  Name         : PxGetAllLinkData
+
+Archive member name at F2B4: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      30 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: C67066AF
+  SizeOfData   : 0000001C
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxGetJointData
+  Type         : code
+  Name type    : name
+  Hint         : 139
+  Name         : PxGetJointData
+
+Archive member name at F320: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      37 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: F3A1A1F2
+  SizeOfData   : 00000023
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxGetLinkArticulation
+  Type         : code
+  Name type    : name
+  Hint         : 140
+  Name         : PxGetLinkArticulation
+
+Archive member name at F394: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      2F size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E3FA5CD7
+  SizeOfData   : 0000001B
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxGetLinkData
+  Type         : code
+  Name type    : name
+  Hint         : 141
+  Name         : PxGetLinkData
+
+Archive member name at F400: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      30 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: C6A64E80
+  SizeOfData   : 0000001C
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxGetLinkIndex
+  Type         : code
+  Name type    : name
+  Hint         : 142
+  Name         : PxGetLinkIndex
+
+Archive member name at F46C: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      36 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E46AEEF7
+  SizeOfData   : 00000022
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxGetMutableLinkData
+  Type         : code
+  Name type    : name
+  Hint         : 143
+  Name         : PxGetMutableLinkData
+
+Archive member name at F4DE: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      2E size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: D1D0E068
+  SizeOfData   : 0000001A
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxGetPhysics
+  Type         : code
+  Name type    : name
+  Hint         : 144
+  Name         : PxGetPhysics
+
+Archive member name at F548: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      3C size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E5603139
+  SizeOfData   : 00000028
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxGetPhysicsBinaryMetaData
+  Type         : code
+  Name type    : name
+  Hint         : 145
+  Name         : PxGetPhysicsBinaryMetaData
+
+Archive member name at F5C0: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      41 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: CDEC150A
+  SizeOfData   : 0000002D
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxGetSuggestedCudaDeviceOrdinal
+  Type         : code
+  Name type    : name
+  Hint         : 146
+  Name         : PxGetSuggestedCudaDeviceOrdinal
+
+Archive member name at F63E: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      39 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: F83EBA8B
+  SizeOfData   : 00000025
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxIntegrateSolverBodies
+  Type         : code
+  Name type    : name
+  Hint         : 147
+  Name         : PxIntegrateSolverBodies
+
+Archive member name at F6B4: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      3C size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E1DB8A6D
+  SizeOfData   : 00000028
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxIntegrateSolverBodiesTGS
+  Type         : code
+  Name type    : name
+  Hint         : 148
+  Name         : PxIntegrateSolverBodiesTGS
+
+Archive member name at F72C: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      39 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: F0F81CC0
+  SizeOfData   : 00000025
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxRegisterArticulations
+  Type         : code
+  Name type    : name
+  Hint         : 149
+  Name         : PxRegisterArticulations
+
+Archive member name at F7A2: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      4A size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: F9134D78
+  SizeOfData   : 00000036
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxRegisterArticulationsReducedCoordinate
+  Type         : code
+  Name type    : name
+  Hint         : 150
+  Name         : PxRegisterArticulationsReducedCoordinate
+
+Archive member name at F828: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      38 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: DAE72DDC
+  SizeOfData   : 00000024
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxRegisterHeightFields
+  Type         : code
+  Name type    : name
+  Hint         : 151
+  Name         : PxRegisterHeightFields
+
+Archive member name at F89C: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      42 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E93D3BF8
+  SizeOfData   : 0000002E
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxRegisterImmediateArticulations
+  Type         : code
+  Name type    : name
+  Hint         : 152
+  Name         : PxRegisterImmediateArticulations
+
+Archive member name at F91A: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      3E size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: F2D63B6D
+  SizeOfData   : 0000002A
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxRegisterPhysicsSerializers
+  Type         : code
+  Name type    : name
+  Hint         : 153
+  Name         : PxRegisterPhysicsSerializers
+
+Archive member name at F994: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      37 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: C05EA475
+  SizeOfData   : 00000023
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxReleaseArticulation
+  Type         : code
+  Name type    : name
+  Hint         : 154
+  Name         : PxReleaseArticulation
+
+Archive member name at FA08: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      3C size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: DDB69C34
+  SizeOfData   : 00000028
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxReleaseArticulationCache
+  Type         : code
+  Name type    : name
+  Hint         : 155
+  Name         : PxReleaseArticulationCache
+
+Archive member name at FA80: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      30 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: DA0DA51B
+  SizeOfData   : 0000001C
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxSetJointData
+  Type         : code
+  Name type    : name
+  Hint         : 156
+  Name         : PxSetJointData
+
+Archive member name at FAEC: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      36 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: DC97C751
+  SizeOfData   : 00000022
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxSetMutableLinkData
+  Type         : code
+  Name type    : name
+  Hint         : 157
+  Name         : PxSetMutableLinkData
+
+Archive member name at FB5E: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      39 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E84F1C1C
+  SizeOfData   : 00000025
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxSetPhysXDelayLoadHook
+  Type         : code
+  Name type    : name
+  Hint         : 158
+  Name         : PxSetPhysXDelayLoadHook
+
+Archive member name at FBD4: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      37 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: E63FB313
+  SizeOfData   : 00000023
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxSetPhysXGpuLoadHook
+  Type         : code
+  Name type    : name
+  Hint         : 159
+  Name         : PxSetPhysXGpuLoadHook
+
+Archive member name at FC48: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      34 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: F6460858
+  SizeOfData   : 00000020
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxSolveConstraints
+  Type         : code
+  Name type    : name
+  Hint         : 160
+  Name         : PxSolveConstraints
+
+Archive member name at FCB8: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      37 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: D3C08808
+  SizeOfData   : 00000023
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxSolveConstraintsTGS
+  Type         : code
+  Name type    : name
+  Hint         : 161
+  Name         : PxSolveConstraintsTGS
+
+Archive member name at FD2C: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      40 size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: CAEEA069
+  SizeOfData   : 0000002C
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxUnregisterPhysicsSerializers
+  Type         : code
+  Name type    : name
+  Hint         : 162
+  Name         : PxUnregisterPhysicsSerializers
+
+Archive member name at FDA8: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      3C size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: CBBD3FC3
+  SizeOfData   : 00000028
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxUpdateArticulationBodies
+  Type         : code
+  Name type    : name
+  Hint         : 163
+  Name         : PxUpdateArticulationBodies
+
+Archive member name at FE20: PhysX_64.dll/   
+FFFFFFFF time/date
+         uid
+         gid
+       0 mode
+      3F size
+correct header end
+
+  Version      : 0
+  Machine      : 8664 (x64)
+  TimeDateStamp: F26CF5AD
+  SizeOfData   : 0000002B
+  DLL name     : PhysX_64.dll
+  Symbol name  : PxUpdateArticulationBodiesTGS
+  Type         : code
+  Name type    : name
+  Hint         : 164
+  Name         : PxUpdateArticulationBodiesTGS
+
+     Exports
+
+       ordinal    name
+
+                  ??0Allocator@shdfnd@physx@@QEAA@PEBD@Z (public: __cdecl physx::shdfnd::Allocator::Allocator(char const *))
+                  ??0NbCCDPairsProperty@physx@@QEAA@XZ (public: __cdecl physx::NbCCDPairsProperty::NbCCDPairsProperty(void))
+                  ??0NbDiscreteContactPairsProperty@physx@@QEAA@XZ (public: __cdecl physx::NbDiscreteContactPairsProperty::NbDiscreteContactPairsProperty(void))
+                  ??0NbModifiedContactPairsProperty@physx@@QEAA@XZ (public: __cdecl physx::NbModifiedContactPairsProperty::NbModifiedContactPairsProperty(void))
+                  ??0NbShapesProperty@physx@@QEAA@XZ (public: __cdecl physx::NbShapesProperty::NbShapesProperty(void))
+                  ??0NbTriggerPairsProperty@physx@@QEAA@XZ (public: __cdecl physx::NbTriggerPairsProperty::NbTriggerPairsProperty(void))
+                  ??0PxActorGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxActorGeneratedInfo::PxActorGeneratedInfo(void))
+                  ??0PxActorGeneratedValues@physx@@QEAA@PEBVPxActor@1@@Z (public: __cdecl physx::PxActorGeneratedValues::PxActorGeneratedValues(class physx::PxActor const *))
+                  ??0PxAggregateGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxAggregateGeneratedInfo::PxAggregateGeneratedInfo(void))
+                  ??0PxAggregateGeneratedValues@physx@@QEAA@PEBVPxAggregate@1@@Z (public: __cdecl physx::PxAggregateGeneratedValues::PxAggregateGeneratedValues(class physx::PxAggregate const *))
+                  ??0PxArticulationBaseGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxArticulationBaseGeneratedInfo::PxArticulationBaseGeneratedInfo(void))
+                  ??0PxArticulationBaseGeneratedValues@physx@@QEAA@PEBVPxArticulationBase@1@@Z (public: __cdecl physx::PxArticulationBaseGeneratedValues::PxArticulationBaseGeneratedValues(class physx::PxArticulationBase const *))
+                  ??0PxArticulationGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxArticulationGeneratedInfo::PxArticulationGeneratedInfo(void))
+                  ??0PxArticulationGeneratedValues@physx@@QEAA@PEBVPxArticulation@1@@Z (public: __cdecl physx::PxArticulationGeneratedValues::PxArticulationGeneratedValues(class physx::PxArticulation const *))
+                  ??0PxArticulationJointBaseGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxArticulationJointBaseGeneratedInfo::PxArticulationJointBaseGeneratedInfo(void))
+                  ??0PxArticulationJointBaseGeneratedValues@physx@@QEAA@PEBVPxArticulationJointBase@1@@Z (public: __cdecl physx::PxArticulationJointBaseGeneratedValues::PxArticulationJointBaseGeneratedValues(class physx::PxArticulationJointBase const *))
+                  ??0PxArticulationJointGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxArticulationJointGeneratedInfo::PxArticulationJointGeneratedInfo(void))
+                  ??0PxArticulationJointGeneratedValues@physx@@QEAA@PEBVPxArticulationJoint@1@@Z (public: __cdecl physx::PxArticulationJointGeneratedValues::PxArticulationJointGeneratedValues(class physx::PxArticulationJoint const *))
+                  ??0PxArticulationJointReducedCoordinateGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxArticulationJointReducedCoordinateGeneratedInfo::PxArticulationJointReducedCoordinateGeneratedInfo(void))
+                  ??0PxArticulationJointReducedCoordinateGeneratedValues@physx@@QEAA@PEBVPxArticulationJointReducedCoordinate@1@@Z (public: __cdecl physx::PxArticulationJointReducedCoordinateGeneratedValues::PxArticulationJointReducedCoordinateGeneratedValues(class physx::PxArticulationJointReducedCoordinate const *))
+                  ??0PxArticulationLinkGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxArticulationLinkGeneratedInfo::PxArticulationLinkGeneratedInfo(void))
+                  ??0PxArticulationLinkGeneratedValues@physx@@QEAA@PEBVPxArticulationLink@1@@Z (public: __cdecl physx::PxArticulationLinkGeneratedValues::PxArticulationLinkGeneratedValues(class physx::PxArticulationLink const *))
+                  ??0PxArticulationReducedCoordinateGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxArticulationReducedCoordinateGeneratedInfo::PxArticulationReducedCoordinateGeneratedInfo(void))
+                  ??0PxArticulationReducedCoordinateGeneratedValues@physx@@QEAA@PEBVPxArticulationReducedCoordinate@1@@Z (public: __cdecl physx::PxArticulationReducedCoordinateGeneratedValues::PxArticulationReducedCoordinateGeneratedValues(class physx::PxArticulationReducedCoordinate const *))
+                  ??0PxBoxGeometryGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxBoxGeometryGeneratedInfo::PxBoxGeometryGeneratedInfo(void))
+                  ??0PxBoxGeometryGeneratedValues@physx@@QEAA@PEBVPxBoxGeometry@1@@Z (public: __cdecl physx::PxBoxGeometryGeneratedValues::PxBoxGeometryGeneratedValues(class physx::PxBoxGeometry const *))
+                  ??0PxCapsuleGeometryGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxCapsuleGeometryGeneratedInfo::PxCapsuleGeometryGeneratedInfo(void))
+                  ??0PxCapsuleGeometryGeneratedValues@physx@@QEAA@PEBVPxCapsuleGeometry@1@@Z (public: __cdecl physx::PxCapsuleGeometryGeneratedValues::PxCapsuleGeometryGeneratedValues(class physx::PxCapsuleGeometry const *))
+                  ??0PxConstraintGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxConstraintGeneratedInfo::PxConstraintGeneratedInfo(void))
+                  ??0PxConstraintGeneratedValues@physx@@QEAA@PEBVPxConstraint@1@@Z (public: __cdecl physx::PxConstraintGeneratedValues::PxConstraintGeneratedValues(class physx::PxConstraint const *))
+                  ??0PxConvexMeshGeometryGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxConvexMeshGeometryGeneratedInfo::PxConvexMeshGeometryGeneratedInfo(void))
+                  ??0PxConvexMeshGeometryGeneratedValues@physx@@QEAA@PEBVPxConvexMeshGeometry@1@@Z (public: __cdecl physx::PxConvexMeshGeometryGeneratedValues::PxConvexMeshGeometryGeneratedValues(class physx::PxConvexMeshGeometry const *))
+                  ??0PxFoundation@physx@@QEAA@AEBV01@@Z (public: __cdecl physx::PxFoundation::PxFoundation(class physx::PxFoundation const &))
+                  ??0PxFoundation@physx@@QEAA@XZ (public: __cdecl physx::PxFoundation::PxFoundation(void))
+                  ??0PxGeometryGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxGeometryGeneratedInfo::PxGeometryGeneratedInfo(void))
+                  ??0PxGeometryGeneratedValues@physx@@QEAA@PEBVPxGeometry@1@@Z (public: __cdecl physx::PxGeometryGeneratedValues::PxGeometryGeneratedValues(class physx::PxGeometry const *))
+                  ??0PxHeightFieldDescGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxHeightFieldDescGeneratedInfo::PxHeightFieldDescGeneratedInfo(void))
+                  ??0PxHeightFieldDescGeneratedValues@physx@@QEAA@PEBVPxHeightFieldDesc@1@@Z (public: __cdecl physx::PxHeightFieldDescGeneratedValues::PxHeightFieldDescGeneratedValues(class physx::PxHeightFieldDesc const *))
+                  ??0PxHeightFieldGeometryGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxHeightFieldGeometryGeneratedInfo::PxHeightFieldGeometryGeneratedInfo(void))
+                  ??0PxHeightFieldGeometryGeneratedValues@physx@@QEAA@PEBVPxHeightFieldGeometry@1@@Z (public: __cdecl physx::PxHeightFieldGeometryGeneratedValues::PxHeightFieldGeometryGeneratedValues(class physx::PxHeightFieldGeometry const *))
+                  ??0PxMaterialGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxMaterialGeneratedInfo::PxMaterialGeneratedInfo(void))
+                  ??0PxMaterialGeneratedValues@physx@@QEAA@PEBVPxMaterial@1@@Z (public: __cdecl physx::PxMaterialGeneratedValues::PxMaterialGeneratedValues(class physx::PxMaterial const *))
+                  ??0PxMeshScaleGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxMeshScaleGeneratedInfo::PxMeshScaleGeneratedInfo(void))
+                  ??0PxMeshScaleGeneratedValues@physx@@QEAA@PEBVPxMeshScale@1@@Z (public: __cdecl physx::PxMeshScaleGeneratedValues::PxMeshScaleGeneratedValues(class physx::PxMeshScale const *))
+                  ??0PxPhysicsGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxPhysicsGeneratedInfo::PxPhysicsGeneratedInfo(void))
+                  ??0PxPhysicsGeneratedValues@physx@@QEAA@PEBVPxPhysics@1@@Z (public: __cdecl physx::PxPhysicsGeneratedValues::PxPhysicsGeneratedValues(class physx::PxPhysics const *))
+                  ??0PxPlaneGeometryGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxPlaneGeometryGeneratedInfo::PxPlaneGeometryGeneratedInfo(void))
+                  ??0PxPlaneGeometryGeneratedValues@physx@@QEAA@PEBVPxPlaneGeometry@1@@Z (public: __cdecl physx::PxPlaneGeometryGeneratedValues::PxPlaneGeometryGeneratedValues(class physx::PxPlaneGeometry const *))
+                  ??0PxPruningStructureGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxPruningStructureGeneratedInfo::PxPruningStructureGeneratedInfo(void))
+                  ??0PxPruningStructureGeneratedValues@physx@@QEAA@PEBVPxPruningStructure@1@@Z (public: __cdecl physx::PxPruningStructureGeneratedValues::PxPruningStructureGeneratedValues(class physx::PxPruningStructure const *))
+                  ??0PxRigidActorGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxRigidActorGeneratedInfo::PxRigidActorGeneratedInfo(void))
+                  ??0PxRigidActorGeneratedValues@physx@@QEAA@PEBVPxRigidActor@1@@Z (public: __cdecl physx::PxRigidActorGeneratedValues::PxRigidActorGeneratedValues(class physx::PxRigidActor const *))
+                  ??0PxRigidBodyGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxRigidBodyGeneratedInfo::PxRigidBodyGeneratedInfo(void))
+                  ??0PxRigidBodyGeneratedValues@physx@@QEAA@PEBVPxRigidBody@1@@Z (public: __cdecl physx::PxRigidBodyGeneratedValues::PxRigidBodyGeneratedValues(class physx::PxRigidBody const *))
+                  ??0PxRigidDynamicGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxRigidDynamicGeneratedInfo::PxRigidDynamicGeneratedInfo(void))
+                  ??0PxRigidDynamicGeneratedValues@physx@@QEAA@PEBVPxRigidDynamic@1@@Z (public: __cdecl physx::PxRigidDynamicGeneratedValues::PxRigidDynamicGeneratedValues(class physx::PxRigidDynamic const *))
+                  ??0PxRigidStaticGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxRigidStaticGeneratedInfo::PxRigidStaticGeneratedInfo(void))
+                  ??0PxRigidStaticGeneratedValues@physx@@QEAA@PEBVPxRigidStatic@1@@Z (public: __cdecl physx::PxRigidStaticGeneratedValues::PxRigidStaticGeneratedValues(class physx::PxRigidStatic const *))
+                  ??0PxSceneDescGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxSceneDescGeneratedInfo::PxSceneDescGeneratedInfo(void))
+                  ??0PxSceneDescGeneratedValues@physx@@QEAA@PEBVPxSceneDesc@1@@Z (public: __cdecl physx::PxSceneDescGeneratedValues::PxSceneDescGeneratedValues(class physx::PxSceneDesc const *))
+                  ??0PxSceneGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxSceneGeneratedInfo::PxSceneGeneratedInfo(void))
+                  ??0PxSceneGeneratedValues@physx@@QEAA@PEBVPxScene@1@@Z (public: __cdecl physx::PxSceneGeneratedValues::PxSceneGeneratedValues(class physx::PxScene const *))
+                  ??0PxSceneLimitsGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxSceneLimitsGeneratedInfo::PxSceneLimitsGeneratedInfo(void))
+                  ??0PxSceneLimitsGeneratedValues@physx@@QEAA@PEBVPxSceneLimits@1@@Z (public: __cdecl physx::PxSceneLimitsGeneratedValues::PxSceneLimitsGeneratedValues(class physx::PxSceneLimits const *))
+                  ??0PxShapeGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxShapeGeneratedInfo::PxShapeGeneratedInfo(void))
+                  ??0PxShapeGeneratedValues@physx@@QEAA@PEBVPxShape@1@@Z (public: __cdecl physx::PxShapeGeneratedValues::PxShapeGeneratedValues(class physx::PxShape const *))
+                  ??0PxSimulationStatisticsGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxSimulationStatisticsGeneratedInfo::PxSimulationStatisticsGeneratedInfo(void))
+                  ??0PxSimulationStatisticsGeneratedValues@physx@@QEAA@PEBVPxSimulationStatistics@1@@Z (public: __cdecl physx::PxSimulationStatisticsGeneratedValues::PxSimulationStatisticsGeneratedValues(class physx::PxSimulationStatistics const *))
+                  ??0PxSphereGeometryGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxSphereGeometryGeneratedInfo::PxSphereGeometryGeneratedInfo(void))
+                  ??0PxSphereGeometryGeneratedValues@physx@@QEAA@PEBVPxSphereGeometry@1@@Z (public: __cdecl physx::PxSphereGeometryGeneratedValues::PxSphereGeometryGeneratedValues(class physx::PxSphereGeometry const *))
+                  ??0PxTolerancesScaleGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxTolerancesScaleGeneratedInfo::PxTolerancesScaleGeneratedInfo(void))
+                  ??0PxTolerancesScaleGeneratedValues@physx@@QEAA@PEBVPxTolerancesScale@1@@Z (public: __cdecl physx::PxTolerancesScaleGeneratedValues::PxTolerancesScaleGeneratedValues(class physx::PxTolerancesScale const *))
+                  ??0PxTriangleMeshGeometryGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxTriangleMeshGeometryGeneratedInfo::PxTriangleMeshGeometryGeneratedInfo(void))
+                  ??0PxTriangleMeshGeometryGeneratedValues@physx@@QEAA@PEBVPxTriangleMeshGeometry@1@@Z (public: __cdecl physx::PxTriangleMeshGeometryGeneratedValues::PxTriangleMeshGeometryGeneratedValues(class physx::PxTriangleMeshGeometry const *))
+                  ??0PxgDynamicsMemoryConfigGeneratedInfo@physx@@QEAA@XZ (public: __cdecl physx::PxgDynamicsMemoryConfigGeneratedInfo::PxgDynamicsMemoryConfigGeneratedInfo(void))
+                  ??0PxgDynamicsMemoryConfigGeneratedValues@physx@@QEAA@PEBUPxgDynamicsMemoryConfig@1@@Z (public: __cdecl physx::PxgDynamicsMemoryConfigGeneratedValues::PxgDynamicsMemoryConfigGeneratedValues(struct physx::PxgDynamicsMemoryConfig const *))
+                  ??0SimulationStatisticsProperty@physx@@QEAA@XZ (public: __cdecl physx::SimulationStatisticsProperty::SimulationStatisticsProperty(void))
+                  ??1PxFoundation@physx@@MEAA@XZ (protected: virtual __cdecl physx::PxFoundation::~PxFoundation(void))
+                  ??4Allocator@shdfnd@physx@@QEAAAEAV012@$$QEAV012@@Z (public: class physx::shdfnd::Allocator & __cdecl physx::shdfnd::Allocator::operator=(class physx::shdfnd::Allocator &&))
+                  ??4Allocator@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z (public: class physx::shdfnd::Allocator & __cdecl physx::shdfnd::Allocator::operator=(class physx::shdfnd::Allocator const &))
+                  ??4FPUGuard@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z (public: class physx::shdfnd::FPUGuard & __cdecl physx::shdfnd::FPUGuard::operator=(class physx::shdfnd::FPUGuard const &))
+                  ??4MutexImpl@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z (public: class physx::shdfnd::MutexImpl & __cdecl physx::shdfnd::MutexImpl::operator=(class physx::shdfnd::MutexImpl const &))
+                  ??4PxFoundation@physx@@QEAAAEAV01@AEBV01@@Z (public: class physx::PxFoundation & __cdecl physx::PxFoundation::operator=(class physx::PxFoundation const &))
+                  ??4SyncImpl@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z (public: class physx::shdfnd::SyncImpl & __cdecl physx::shdfnd::SyncImpl::operator=(class physx::shdfnd::SyncImpl const &))
+                  ??4ThreadImpl@shdfnd@physx@@QEAAAEAV012@AEBV012@@Z (public: class physx::shdfnd::ThreadImpl & __cdecl physx::shdfnd::ThreadImpl::operator=(class physx::shdfnd::ThreadImpl const &))
+                  ??_7PxFoundation@physx@@6B@ (const physx::PxFoundation::`vftable')
+                  ??_FAllocator@shdfnd@physx@@QEAAXXZ (public: void __cdecl physx::shdfnd::Allocator::`default constructor closure'(void))
+                  ?createLink@PxArticulationLinkCollectionPropHelper@physx@@QEBAPEAVPxArticulationLink@2@PEAVPxArticulation@2@PEAV32@AEBVPxTransform@2@@Z (public: class physx::PxArticulationLink * __cdecl physx::PxArticulationLinkCollectionPropHelper::createLink(class physx::PxArticulation *,class physx::PxArticulationLink *,class physx::PxTransform const &)const )
+                  ?createShape@PxRigidActorShapeCollectionHelper@physx@@QEBAPEAVPxShape@2@PEAVPxRigidActor@2@AEBVPxGeometry@2@AEAVPxMaterial@2@V?$PxFlags@W4Enum@PxShapeFlag@physx@@E@2@@Z (public: class physx::PxShape * __cdecl physx::PxRigidActorShapeCollectionHelper::createShape(class physx::PxRigidActor *,class physx::PxGeometry const &,class physx::PxMaterial &,class physx::PxFlags<enum physx::PxShapeFlag::Enum,unsigned char>)const )
+                  ?createShape@PxRigidActorShapeCollectionHelper@physx@@QEBAPEAVPxShape@2@PEAVPxRigidActor@2@AEBVPxGeometry@2@PEBQEAVPxMaterial@2@GV?$PxFlags@W4Enum@PxShapeFlag@physx@@E@2@@Z (public: class physx::PxShape * __cdecl physx::PxRigidActorShapeCollectionHelper::createShape(class physx::PxRigidActor *,class physx::PxGeometry const &,class physx::PxMaterial * const *,unsigned short,class physx::PxFlags<enum physx::PxShapeFlag::Enum,unsigned char>)const )
+                  ?getAllocator@Foundation@shdfnd@physx@@QEAAAEAVPxAllocatorCallback@3@XZ (public: class physx::PxAllocatorCallback & __cdecl physx::shdfnd::Foundation::getAllocator(void))
+                  ?getAllocatorCallback@Foundation@shdfnd@physx@@UEAAAEAVPxAllocatorCallback@3@XZ (public: virtual class physx::PxAllocatorCallback & __cdecl physx::shdfnd::Foundation::getAllocatorCallback(void))
+                  ?getErrorCallback@Foundation@shdfnd@physx@@UEAAAEAVPxErrorCallback@3@XZ (public: virtual class physx::PxErrorCallback & __cdecl physx::shdfnd::Foundation::getErrorCallback(void))
+                  ?getErrorLevel@Foundation@shdfnd@physx@@UEBA?AW4Enum@PxErrorCode@3@XZ (public: virtual enum physx::PxErrorCode::Enum __cdecl physx::shdfnd::Foundation::getErrorLevel(void)const )
+                  ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxBoxGeometry@2@@Z (public: bool __cdecl physx::PxShapeGeometryPropertyHelper::getGeometry(class physx::PxShape const *,class physx::PxBoxGeometry &)const )
+                  ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxCapsuleGeometry@2@@Z (public: bool __cdecl physx::PxShapeGeometryPropertyHelper::getGeometry(class physx::PxShape const *,class physx::PxCapsuleGeometry &)const )
+                  ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxConvexMeshGeometry@2@@Z (public: bool __cdecl physx::PxShapeGeometryPropertyHelper::getGeometry(class physx::PxShape const *,class physx::PxConvexMeshGeometry &)const )
+                  ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxHeightFieldGeometry@2@@Z (public: bool __cdecl physx::PxShapeGeometryPropertyHelper::getGeometry(class physx::PxShape const *,class physx::PxHeightFieldGeometry &)const )
+                  ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxPlaneGeometry@2@@Z (public: bool __cdecl physx::PxShapeGeometryPropertyHelper::getGeometry(class physx::PxShape const *,class physx::PxPlaneGeometry &)const )
+                  ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxSphereGeometry@2@@Z (public: bool __cdecl physx::PxShapeGeometryPropertyHelper::getGeometry(class physx::PxShape const *,class physx::PxSphereGeometry &)const )
+                  ?getGeometry@PxShapeGeometryPropertyHelper@physx@@QEBA_NPEBVPxShape@2@AEAVPxTriangleMeshGeometry@2@@Z (public: bool __cdecl physx::PxShapeGeometryPropertyHelper::getGeometry(class physx::PxShape const *,class physx::PxTriangleMeshGeometry &)const )
+                  ?getGeometryType@PxShapeGeometryPropertyHelper@physx@@QEBA?AW4Enum@PxGeometryType@2@PEBVPxShape@2@@Z (public: enum physx::PxGeometryType::Enum __cdecl physx::PxShapeGeometryPropertyHelper::getGeometryType(class physx::PxShape const *)const )
+                  ?getInternalErrorCallback@Foundation@shdfnd@physx@@QEAAAEAVPxErrorCallback@3@XZ (public: class physx::PxErrorCallback & __cdecl physx::shdfnd::Foundation::getInternalErrorCallback(void))
+                  ?getNamedAllocMap@Foundation@shdfnd@physx@@QEAAAEAV?$HashMap@PEBVNamedAllocator@shdfnd@physx@@PEBDU?$Hash@PEBVNamedAllocator@shdfnd@physx@@@23@VNonTrackingAllocator@23@@23@XZ (public: class physx::shdfnd::HashMap<class physx::shdfnd::NamedAllocator const *,char const *,struct physx::shdfnd::Hash<class physx::shdfnd::NamedAllocator const *>,class physx::shdfnd::NonTrackingAllocator> & __cdecl physx::shdfnd::Foundation::getNamedAllocMap(void))
+                  ?getNamedAllocMutex@Foundation@shdfnd@physx@@QEAAAEAV?$MutexT@VAllocator@shdfnd@physx@@@23@XZ (public: class physx::shdfnd::MutexT<class physx::shdfnd::Allocator> & __cdecl physx::shdfnd::Foundation::getNamedAllocMutex(void))
+                  ?getReportAllocationNames@Foundation@shdfnd@physx@@UEBA_NXZ (public: virtual bool __cdecl physx::shdfnd::Foundation::getReportAllocationNames(void)const )
+                  ?getTempAllocFreeTable@Foundation@shdfnd@physx@@QEAAAEAV?$Array@PEATTempAllocatorChunk@shdfnd@physx@@VAllocator@23@@23@XZ (public: class physx::shdfnd::Array<union physx::shdfnd::TempAllocatorChunk *,class physx::shdfnd::Allocator> & __cdecl physx::shdfnd::Foundation::getTempAllocFreeTable(void))
+                  ?getTempAllocMutex@Foundation@shdfnd@physx@@QEAAAEAV?$MutexT@VAllocator@shdfnd@physx@@@23@XZ (public: class physx::shdfnd::MutexT<class physx::shdfnd::Allocator> & __cdecl physx::shdfnd::Foundation::getTempAllocMutex(void))
+                  ?setErrorLevel@Foundation@shdfnd@physx@@UEAAXW4Enum@PxErrorCode@3@@Z (public: virtual void __cdecl physx::shdfnd::Foundation::setErrorLevel(enum physx::PxErrorCode::Enum))
+                  ?setMaterials@PxShapeMaterialsPropertyHelper@physx@@QEBAXPEAVPxShape@2@PEBQEAVPxMaterial@2@G@Z (public: void __cdecl physx::PxShapeMaterialsPropertyHelper::setMaterials(class physx::PxShape *,class physx::PxMaterial * const *,unsigned short)const )
+                  ?setReportAllocationNames@Foundation@shdfnd@physx@@UEAAX_N@Z (public: virtual void __cdecl physx::shdfnd::Foundation::setReportAllocationNames(bool))
+                  ?waitForever@SyncImpl@shdfnd@physx@@2IB (public: static unsigned int const physx::shdfnd::SyncImpl::waitForever)
+                  PxAddArticulationLink
+                  PxAddCollectionToPhysics
+                  PxApplyArticulationCache
+                  PxBatchConstraints
+                  PxBatchConstraintsTGS
+                  PxComputeUnconstrainedVelocities
+                  PxComputeUnconstrainedVelocitiesTGS
+                  PxConstructSolverBodies
+                  PxConstructSolverBodiesTGS
+                  PxConstructStaticSolverBody
+                  PxConstructStaticSolverBodyTGS
+                  PxCopyInternalStateToArticulationCache
+                  PxCreateArticulationCache
+                  PxCreateBasePhysics
+                  PxCreateContactConstraints
+                  PxCreateContactConstraintsTGS
+                  PxCreateCudaClientContextManager
+                  PxCreateCudaContextManager
+                  PxCreateFeatherstoneArticulation
+                  PxCreateJointConstraints
+                  PxCreateJointConstraintsTGS
+                  PxCreateJointConstraintsWithImmediateShaders
+                  PxCreateJointConstraintsWithImmediateShadersTGS
+                  PxCreateJointConstraintsWithShaders
+                  PxCreateJointConstraintsWithShadersTGS
+                  PxGenerateContacts
+                  PxGetAllLinkData
+                  PxGetJointData
+                  PxGetLinkArticulation
+                  PxGetLinkData
+                  PxGetLinkIndex
+                  PxGetMutableLinkData
+                  PxGetPhysics
+                  PxGetPhysicsBinaryMetaData
+                  PxGetSuggestedCudaDeviceOrdinal
+                  PxIntegrateSolverBodies
+                  PxIntegrateSolverBodiesTGS
+                  PxRegisterArticulations
+                  PxRegisterArticulationsReducedCoordinate
+                  PxRegisterHeightFields
+                  PxRegisterImmediateArticulations
+                  PxRegisterPhysicsSerializers
+                  PxReleaseArticulation
+                  PxReleaseArticulationCache
+                  PxSetJointData
+                  PxSetMutableLinkData
+                  PxSetPhysXDelayLoadHook
+                  PxSetPhysXGpuLoadHook
+                  PxSolveConstraints
+                  PxSolveConstraintsTGS
+                  PxUnregisterPhysicsSerializers
+                  PxUpdateArticulationBodies
+                  PxUpdateArticulationBodiesTGS
+
+  Summary
+
+          C6 .debug$S
+          14 .idata$2
+          14 .idata$3
+           8 .idata$4
+           8 .idata$5
+           E .idata$6

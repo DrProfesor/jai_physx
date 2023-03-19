@@ -1,228 +1,228 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\api\src\px_globals.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\api\src\px_globals.cpp">
       <Filter>API Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\common\src\pipeline\PxcContactCache.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\common\src\pipeline\PxcContactCache.cpp">
       <Filter>Common Source\pipeline</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\common\src\pipeline\PxcContactMethodImpl.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\common\src\pipeline\PxcContactMethodImpl.cpp">
       <Filter>Common Source\pipeline</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\common\src\pipeline\PxcMaterialHeightField.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\common\src\pipeline\PxcMaterialHeightField.cpp">
       <Filter>Common Source\pipeline</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\common\src\pipeline\PxcMaterialMesh.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\common\src\pipeline\PxcMaterialMesh.cpp">
       <Filter>Common Source\pipeline</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\common\src\pipeline\PxcMaterialMethodImpl.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\common\src\pipeline\PxcMaterialMethodImpl.cpp">
       <Filter>Common Source\pipeline</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\common\src\pipeline\PxcMaterialShape.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\common\src\pipeline\PxcMaterialShape.cpp">
       <Filter>Common Source\pipeline</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\common\src\pipeline\PxcNpBatch.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\common\src\pipeline\PxcNpBatch.cpp">
       <Filter>Common Source\pipeline</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\common\src\pipeline\PxcNpCacheStreamPair.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\common\src\pipeline\PxcNpCacheStreamPair.cpp">
       <Filter>Common Source\pipeline</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\common\src\pipeline\PxcNpContactPrepShared.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\common\src\pipeline\PxcNpContactPrepShared.cpp">
       <Filter>Common Source\pipeline</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\common\src\pipeline\PxcNpMemBlockPool.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\common\src\pipeline\PxcNpMemBlockPool.cpp">
       <Filter>Common Source\pipeline</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\common\src\pipeline\PxcNpThreadContext.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\common\src\pipeline\PxcNpThreadContext.cpp">
       <Filter>Common Source\pipeline</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\software\src\PxsCCD.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\software\src\PxsCCD.cpp">
       <Filter>Software Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\software\src\PxsContactManager.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\software\src\PxsContactManager.cpp">
       <Filter>Software Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\software\src\PxsContext.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\software\src\PxsContext.cpp">
       <Filter>Software Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\software\src\PxsDefaultMemoryManager.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\software\src\PxsDefaultMemoryManager.cpp">
       <Filter>Software Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\software\src\PxsIslandSim.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\software\src\PxsIslandSim.cpp">
       <Filter>Software Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\software\src\PxsMaterialCombiner.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\software\src\PxsMaterialCombiner.cpp">
       <Filter>Software Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\software\src\PxsNphaseImplementationContext.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\software\src\PxsNphaseImplementationContext.cpp">
       <Filter>Software Source</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\software\src\PxsSimpleIslandManager.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\software\src\PxsSimpleIslandManager.cpp">
       <Filter>Software Source</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\api\include\PxsMaterialCore.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\api\include\PxsMaterialCore.h">
       <Filter>API Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\api\include\PxsMaterialManager.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\api\include\PxsMaterialManager.h">
       <Filter>API Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\api\include\PxvConfig.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\api\include\PxvConfig.h">
       <Filter>API Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\api\include\PxvDynamics.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\api\include\PxvDynamics.h">
       <Filter>API Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\api\include\PxvGeometry.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\api\include\PxvGeometry.h">
       <Filter>API Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\api\include\PxvGlobals.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\api\include\PxvGlobals.h">
       <Filter>API Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\api\include\PxvManager.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\api\include\PxvManager.h">
       <Filter>API Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\api\include\PxvSimStats.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\api\include\PxvSimStats.h">
       <Filter>API Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\common\include\collision\PxcContactMethodImpl.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\common\include\collision\PxcContactMethodImpl.h">
       <Filter>Common Includes\collision</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\common\include\pipeline\PxcConstraintBlockStream.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\common\include\pipeline\PxcConstraintBlockStream.h">
       <Filter>Common Includes\pipeline</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\common\include\pipeline\PxcContactCache.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\common\include\pipeline\PxcContactCache.h">
       <Filter>Common Includes\pipeline</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\common\include\pipeline\PxcMaterialMethodImpl.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\common\include\pipeline\PxcMaterialMethodImpl.h">
       <Filter>Common Includes\pipeline</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\common\include\pipeline\PxcNpBatch.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\common\include\pipeline\PxcNpBatch.h">
       <Filter>Common Includes\pipeline</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\common\include\pipeline\PxcNpCache.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\common\include\pipeline\PxcNpCache.h">
       <Filter>Common Includes\pipeline</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\common\include\pipeline\PxcNpCacheStreamPair.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\common\include\pipeline\PxcNpCacheStreamPair.h">
       <Filter>Common Includes\pipeline</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\common\include\pipeline\PxcNpContactPrepShared.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\common\include\pipeline\PxcNpContactPrepShared.h">
       <Filter>Common Includes\pipeline</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\common\include\pipeline\PxcNpMemBlockPool.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\common\include\pipeline\PxcNpMemBlockPool.h">
       <Filter>Common Includes\pipeline</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\common\include\pipeline\PxcNpThreadContext.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\common\include\pipeline\PxcNpThreadContext.h">
       <Filter>Common Includes\pipeline</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\common\include\pipeline\PxcNpWorkUnit.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\common\include\pipeline\PxcNpWorkUnit.h">
       <Filter>Common Includes\pipeline</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\common\include\utils\PxcScratchAllocator.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\common\include\utils\PxcScratchAllocator.h">
       <Filter>Common Includes\utils</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\common\include\utils\PxcThreadCoherentCache.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\common\include\utils\PxcThreadCoherentCache.h">
       <Filter>Common Includes\utils</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsBodySim.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsBodySim.h">
       <Filter>Software Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsCCD.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsCCD.h">
       <Filter>Software Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsContactManager.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsContactManager.h">
       <Filter>Software Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsContactManagerState.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsContactManagerState.h">
       <Filter>Software Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsContext.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsContext.h">
       <Filter>Software Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsDefaultMemoryManager.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsDefaultMemoryManager.h">
       <Filter>Software Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsHeapMemoryAllocator.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsHeapMemoryAllocator.h">
       <Filter>Software Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsIncrementalConstraintPartitioning.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsIncrementalConstraintPartitioning.h">
       <Filter>Software Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsIslandManagerTypes.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsIslandManagerTypes.h">
       <Filter>Software Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsIslandSim.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsIslandSim.h">
       <Filter>Software Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsIslandNodeIndex.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsIslandNodeIndex.h">
       <Filter>Software Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsKernelWrangler.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsKernelWrangler.h">
       <Filter>Software Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsMaterialCombiner.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsMaterialCombiner.h">
       <Filter>Software Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsMemoryManager.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsMemoryManager.h">
       <Filter>Software Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsNphaseImplementationContext.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsNphaseImplementationContext.h">
       <Filter>Software Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsRigidBody.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsRigidBody.h">
       <Filter>Software Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsShapeSim.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsShapeSim.h">
       <Filter>Software Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsSimpleIslandManager.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsSimpleIslandManager.h">
       <Filter>Software Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsSimulationController.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsSimulationController.h">
       <Filter>Software Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsTransformCache.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\software\include\PxsTransformCache.h">
       <Filter>Software Includes</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\lowlevel\software\include\PxvNphaseImplementationContext.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\lowlevel\software\include\PxvNphaseImplementationContext.h">
       <Filter>Software Includes</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\compiler\cmake\CMakeLists.txt" />
+    <CustomBuild Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\compiler\cmake\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="API Includes">
-      <UniqueIdentifier>{38ECD2D1-8D74-3731-B246-DB600E6687C7}</UniqueIdentifier>
+      <UniqueIdentifier>{F65741D8-C7A8-39BE-ABD6-F2C910565275}</UniqueIdentifier>
     </Filter>
     <Filter Include="API Source">
-      <UniqueIdentifier>{90645343-B3A0-36CB-8D0D-DDFC1641FE80}</UniqueIdentifier>
+      <UniqueIdentifier>{B113764D-A637-3DE6-9BCD-3829C4193F42}</UniqueIdentifier>
     </Filter>
     <Filter Include="Common Includes">
-      <UniqueIdentifier>{50B725FB-20B3-3FED-8CC1-C4AC6AF7579F}</UniqueIdentifier>
+      <UniqueIdentifier>{F63E524A-4853-362A-A56A-8111E4734551}</UniqueIdentifier>
     </Filter>
     <Filter Include="Common Includes\collision">
-      <UniqueIdentifier>{4BA72744-012F-3AF7-B96B-EB4A2022EB38}</UniqueIdentifier>
+      <UniqueIdentifier>{3A216653-0DAF-3927-96B3-4005A875FCA6}</UniqueIdentifier>
     </Filter>
     <Filter Include="Common Includes\pipeline">
-      <UniqueIdentifier>{13D20FDB-23B1-38CB-802D-5CBCE217A472}</UniqueIdentifier>
+      <UniqueIdentifier>{63746759-E071-32BF-90E0-A14322E76F6B}</UniqueIdentifier>
     </Filter>
     <Filter Include="Common Includes\utils">
-      <UniqueIdentifier>{D4C8E25B-072B-3B4E-A661-36BC424E5FFE}</UniqueIdentifier>
+      <UniqueIdentifier>{1EF08C12-1C82-3769-BC6E-406776A983CC}</UniqueIdentifier>
     </Filter>
     <Filter Include="Common Source">
-      <UniqueIdentifier>{D7E1F129-CD21-381A-B592-96D3F25B783E}</UniqueIdentifier>
+      <UniqueIdentifier>{F0FE2088-EA75-317C-A0CF-5162F009DEE8}</UniqueIdentifier>
     </Filter>
     <Filter Include="Common Source\pipeline">
-      <UniqueIdentifier>{CBD14287-2480-3EA6-9BDA-3DE307BCC11B}</UniqueIdentifier>
+      <UniqueIdentifier>{880CAAAC-421D-33F8-8B0D-961DD7BF0120}</UniqueIdentifier>
     </Filter>
     <Filter Include="Software Includes">
-      <UniqueIdentifier>{2888A935-D11D-3E39-9DA2-0FD799433AEF}</UniqueIdentifier>
+      <UniqueIdentifier>{DFD2BDC7-2D31-3B7A-8AFA-9A6D37EFAD2D}</UniqueIdentifier>
     </Filter>
     <Filter Include="Software Source">
-      <UniqueIdentifier>{68F6A759-8E86-31BE-BB0C-D9A7A0A0FAC0}</UniqueIdentifier>
+      <UniqueIdentifier>{1FE01F7D-9BCF-36B9-810D-1DAF954795D9}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

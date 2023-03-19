@@ -22,7 +22,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{73466747-3F16-39C2-9D75-E85572C3A943}</ProjectGuid>
+    <ProjectGuid>{9403BEB3-CA1A-32D7-B6B9-D42DD45D78D0}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <WindowsTargetPlatformVersion>10.0.22621.0</WindowsTargetPlatformVersion>
     <Platform>x64</Platform>
@@ -59,26 +59,26 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup>
     <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='debug|x64'">C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\debug\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='debug|x64'">C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\debug\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='debug|x64'">SnippetUtils.dir\debug\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='debug|x64'">SnippetUtils_static_64</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='debug|x64'">.lib</TargetExt>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='checked|x64'">C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\checked\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='checked|x64'">C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\checked\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='checked|x64'">SnippetUtils.dir\checked\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='checked|x64'">SnippetUtils_static_64</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='checked|x64'">.lib</TargetExt>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='profile|x64'">C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\profile\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='profile|x64'">C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\profile\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='profile|x64'">SnippetUtils.dir\profile\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='profile|x64'">SnippetUtils_static_64</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='profile|x64'">.lib</TargetExt>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='release|x64'">C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='release|x64'">C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='release|x64'">SnippetUtils.dir\release\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='release|x64'">SnippetUtils_static_64</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='release|x64'">.lib</TargetExt>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='debug|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\common\src;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\..\pxshared\include;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\common\src;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\..\pxshared\include;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\foundation\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AdditionalOptions>%(AdditionalOptions) /d2Zi+</AdditionalOptions>
       <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
       <BasicRuntimeChecks>UninitializedLocalUsageCheck</BasicRuntimeChecks>
@@ -100,14 +100,14 @@
       <WarningLevel>Level4</WarningLevel>
       <PreprocessorDefinitions>%(PreprocessorDefinitions);_DEBUG;WIN32;WIN64;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_WINSOCK_DEPRECATED_NO_WARNINGS;PX_DEBUG=1;PX_CHECKED=1;PX_NVTX=0;PX_SUPPORT_PVD=1;CMAKE_INTDIR="debug"</PreprocessorDefinitions>
       <ObjectFileName>$(IntDir)</ObjectFileName>
-      <ProgramDataBaseFileName>C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\debug\SnippetUtils_static__64.pdb</ProgramDataBaseFileName>
+      <ProgramDataBaseFileName>C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\debug\SnippetUtils_static__64.pdb</ProgramDataBaseFileName>
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_DEBUG;WIN64;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_WINSOCK_DEPRECATED_NO_WARNINGS;PX_DEBUG=1;PX_CHECKED=1;PX_NVTX=0;PX_SUPPORT_PVD=1;CMAKE_INTDIR=\"debug\"</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\common\src;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\..\pxshared\include;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\common\src;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\..\pxshared\include;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\foundation\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Midl>
-      <AdditionalIncludeDirectories>C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\common\src;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\..\pxshared\include;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\common\src;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\..\pxshared\include;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\foundation\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -120,7 +120,7 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='checked|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\common\src;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\..\pxshared\include;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\common\src;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\..\pxshared\include;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\foundation\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AdditionalOptions>%(AdditionalOptions) /d2Zi+</AdditionalOptions>
       <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
       <BufferSecurityCheck>false</BufferSecurityCheck>
@@ -141,14 +141,14 @@
       <WarningLevel>Level4</WarningLevel>
       <PreprocessorDefinitions>%(PreprocessorDefinitions);_HAS_ITERATOR_DEBUGGING=0;_ITERATOR_DEBUG_LEVEL=0;NDEBUG;WIN32;WIN64;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_WINSOCK_DEPRECATED_NO_WARNINGS;PX_CHECKED=1;PX_NVTX=0;PX_SUPPORT_PVD=1;CMAKE_INTDIR="checked"</PreprocessorDefinitions>
       <ObjectFileName>$(IntDir)</ObjectFileName>
-      <ProgramDataBaseFileName>C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\checked\SnippetUtils_static__64.pdb</ProgramDataBaseFileName>
+      <ProgramDataBaseFileName>C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\checked\SnippetUtils_static__64.pdb</ProgramDataBaseFileName>
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_HAS_ITERATOR_DEBUGGING=0;_ITERATOR_DEBUG_LEVEL=0;NDEBUG;WIN64;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_WINSOCK_DEPRECATED_NO_WARNINGS;PX_CHECKED=1;PX_NVTX=0;PX_SUPPORT_PVD=1;CMAKE_INTDIR=\"checked\"</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\common\src;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\..\pxshared\include;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\common\src;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\..\pxshared\include;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\foundation\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Midl>
-      <AdditionalIncludeDirectories>C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\common\src;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\..\pxshared\include;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\common\src;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\..\pxshared\include;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\foundation\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -161,7 +161,7 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='profile|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\common\src;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\..\pxshared\include;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\common\src;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\..\pxshared\include;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\foundation\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AdditionalOptions>%(AdditionalOptions) /d2Zi+</AdditionalOptions>
       <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
       <BufferSecurityCheck>false</BufferSecurityCheck>
@@ -182,14 +182,14 @@
       <WarningLevel>Level4</WarningLevel>
       <PreprocessorDefinitions>%(PreprocessorDefinitions);_HAS_ITERATOR_DEBUGGING=0;_ITERATOR_DEBUG_LEVEL=0;NDEBUG;WIN32;WIN64;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_WINSOCK_DEPRECATED_NO_WARNINGS;PX_PROFILE=1;PX_NVTX=0;PX_SUPPORT_PVD=1;CMAKE_INTDIR="profile"</PreprocessorDefinitions>
       <ObjectFileName>$(IntDir)</ObjectFileName>
-      <ProgramDataBaseFileName>C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\profile\SnippetUtils_static__64.pdb</ProgramDataBaseFileName>
+      <ProgramDataBaseFileName>C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\profile\SnippetUtils_static__64.pdb</ProgramDataBaseFileName>
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_HAS_ITERATOR_DEBUGGING=0;_ITERATOR_DEBUG_LEVEL=0;NDEBUG;WIN64;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_WINSOCK_DEPRECATED_NO_WARNINGS;PX_PROFILE=1;PX_NVTX=0;PX_SUPPORT_PVD=1;CMAKE_INTDIR=\"profile\"</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\common\src;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\..\pxshared\include;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\common\src;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\..\pxshared\include;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\foundation\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Midl>
-      <AdditionalIncludeDirectories>C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\common\src;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\..\pxshared\include;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\common\src;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\..\pxshared\include;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\foundation\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -202,7 +202,7 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='release|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\common\src;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\..\pxshared\include;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\common\src;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\..\pxshared\include;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\foundation\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AdditionalOptions>%(AdditionalOptions) /d2Zi+</AdditionalOptions>
       <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
       <BufferSecurityCheck>false</BufferSecurityCheck>
@@ -223,14 +223,14 @@
       <WarningLevel>Level4</WarningLevel>
       <PreprocessorDefinitions>%(PreprocessorDefinitions);_HAS_ITERATOR_DEBUGGING=0;_ITERATOR_DEBUG_LEVEL=0;NDEBUG;WIN32;WIN64;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_WINSOCK_DEPRECATED_NO_WARNINGS;PX_SUPPORT_PVD=0;CMAKE_INTDIR="release"</PreprocessorDefinitions>
       <ObjectFileName>$(IntDir)</ObjectFileName>
-      <ProgramDataBaseFileName>C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\SnippetUtils_static__64.pdb</ProgramDataBaseFileName>
+      <ProgramDataBaseFileName>C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\SnippetUtils_static__64.pdb</ProgramDataBaseFileName>
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_HAS_ITERATOR_DEBUGGING=0;_ITERATOR_DEBUG_LEVEL=0;NDEBUG;WIN64;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_WINSOCK_DEPRECATED_NO_WARNINGS;PX_SUPPORT_PVD=0;CMAKE_INTDIR=\"release\"</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\common\src;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\..\pxshared\include;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\common\src;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\..\pxshared\include;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\foundation\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Midl>
-      <AdditionalIncludeDirectories>C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\common\src;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\..\pxshared\include;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\foundation\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\common\src;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\..\pxshared\include;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\foundation\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -242,11 +242,11 @@
     </Lib>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\CMakeLists.txt">
+    <CustomBuild Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\CMakeLists.txt">
       <UseUtf8Encoding>Always</UseUtf8Encoding>
-      <Message Condition="'$(Configuration)|$(Platform)'=='debug|x64'">Building Custom Rule C:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/snippets/compiler/cmake/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='debug|x64'">Building Custom Rule C:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/snippets/compiler/cmake/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='debug|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/compiler/public -BC:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/compiler/vc22win64 --check-stamp-file C:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/compiler/vc22win64/sdk_snippets_bin/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/compiler/public -BC:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/compiler/vc22win64 --check-stamp-file C:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/compiler/vc22win64/sdk_snippets_bin/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -254,12 +254,12 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='debug|x64'">C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\externals\cmakemodules\ConfigureFileMT.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\externals\cmakemodules\GetCompilerAndPlatform.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\externals\cmakemodules\NvidiaBuildOptions.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\externals\cmakemodules\SetOutputPaths.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetRender.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetTemplate.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetUtils.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetVehicleTemplate.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\CMakeLists.txt;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetRender.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetTemplate.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetUtils.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetVehicleTemplate.cmake;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='debug|x64'">C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\compiler\vc22win64\sdk_snippets_bin\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='debug|x64'">C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\externals\cmakemodules\ConfigureFileMT.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\externals\cmakemodules\GetCompilerAndPlatform.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\externals\cmakemodules\NvidiaBuildOptions.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\externals\cmakemodules\SetOutputPaths.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetRender.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetTemplate.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetUtils.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetVehicleTemplate.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\CMakeLists.txt;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetRender.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetTemplate.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetUtils.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetVehicleTemplate.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='debug|x64'">C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\compiler\vc22win64\sdk_snippets_bin\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='debug|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='checked|x64'">Building Custom Rule C:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/snippets/compiler/cmake/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='checked|x64'">Building Custom Rule C:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/snippets/compiler/cmake/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='checked|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/compiler/public -BC:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/compiler/vc22win64 --check-stamp-file C:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/compiler/vc22win64/sdk_snippets_bin/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/compiler/public -BC:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/compiler/vc22win64 --check-stamp-file C:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/compiler/vc22win64/sdk_snippets_bin/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -267,12 +267,12 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='checked|x64'">C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\externals\cmakemodules\ConfigureFileMT.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\externals\cmakemodules\GetCompilerAndPlatform.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\externals\cmakemodules\NvidiaBuildOptions.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\externals\cmakemodules\SetOutputPaths.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetRender.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetTemplate.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetUtils.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetVehicleTemplate.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\CMakeLists.txt;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetRender.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetTemplate.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetUtils.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetVehicleTemplate.cmake;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='checked|x64'">C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\compiler\vc22win64\sdk_snippets_bin\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='checked|x64'">C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\externals\cmakemodules\ConfigureFileMT.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\externals\cmakemodules\GetCompilerAndPlatform.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\externals\cmakemodules\NvidiaBuildOptions.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\externals\cmakemodules\SetOutputPaths.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetRender.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetTemplate.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetUtils.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetVehicleTemplate.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\CMakeLists.txt;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetRender.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetTemplate.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetUtils.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetVehicleTemplate.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='checked|x64'">C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\compiler\vc22win64\sdk_snippets_bin\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='checked|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='profile|x64'">Building Custom Rule C:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/snippets/compiler/cmake/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='profile|x64'">Building Custom Rule C:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/snippets/compiler/cmake/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='profile|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/compiler/public -BC:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/compiler/vc22win64 --check-stamp-file C:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/compiler/vc22win64/sdk_snippets_bin/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/compiler/public -BC:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/compiler/vc22win64 --check-stamp-file C:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/compiler/vc22win64/sdk_snippets_bin/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -280,12 +280,12 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='profile|x64'">C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\externals\cmakemodules\ConfigureFileMT.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\externals\cmakemodules\GetCompilerAndPlatform.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\externals\cmakemodules\NvidiaBuildOptions.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\externals\cmakemodules\SetOutputPaths.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetRender.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetTemplate.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetUtils.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetVehicleTemplate.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\CMakeLists.txt;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetRender.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetTemplate.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetUtils.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetVehicleTemplate.cmake;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='profile|x64'">C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\compiler\vc22win64\sdk_snippets_bin\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='profile|x64'">C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\externals\cmakemodules\ConfigureFileMT.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\externals\cmakemodules\GetCompilerAndPlatform.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\externals\cmakemodules\NvidiaBuildOptions.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\externals\cmakemodules\SetOutputPaths.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetRender.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetTemplate.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetUtils.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetVehicleTemplate.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\CMakeLists.txt;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetRender.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetTemplate.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetUtils.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetVehicleTemplate.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='profile|x64'">C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\compiler\vc22win64\sdk_snippets_bin\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='profile|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='release|x64'">Building Custom Rule C:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/snippets/compiler/cmake/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='release|x64'">Building Custom Rule C:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/snippets/compiler/cmake/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='release|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/compiler/public -BC:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/compiler/vc22win64 --check-stamp-file C:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/compiler/vc22win64/sdk_snippets_bin/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/compiler/public -BC:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/compiler/vc22win64 --check-stamp-file C:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/compiler/vc22win64/sdk_snippets_bin/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -293,24 +293,24 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='release|x64'">C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\externals\cmakemodules\ConfigureFileMT.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\externals\cmakemodules\GetCompilerAndPlatform.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\externals\cmakemodules\NvidiaBuildOptions.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\externals\cmakemodules\SetOutputPaths.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetRender.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetTemplate.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetUtils.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetVehicleTemplate.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\CMakeLists.txt;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetRender.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetTemplate.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetUtils.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetVehicleTemplate.cmake;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='release|x64'">C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\compiler\vc22win64\sdk_snippets_bin\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='release|x64'">C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\externals\cmakemodules\ConfigureFileMT.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\externals\cmakemodules\GetCompilerAndPlatform.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\externals\cmakemodules\NvidiaBuildOptions.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\externals\cmakemodules\SetOutputPaths.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetRender.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetTemplate.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetUtils.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\SnippetVehicleTemplate.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\CMakeLists.txt;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetRender.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetTemplate.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetUtils.cmake;C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\compiler\cmake\windows\SnippetVehicleTemplate.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='release|x64'">C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\compiler\vc22win64\sdk_snippets_bin\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='release|x64'">false</LinkObjects>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\snippetutils\SnippetUtils.cpp" />
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\snippets\snippetutils\SnippetUtils.h" />
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\snippetutils\SnippetUtils.cpp" />
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\snippets\snippetutils\SnippetUtils.h" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\compiler\vc22win64\ZERO_CHECK.vcxproj">
-      <Project>{C5FD0C2B-4F24-3F0E-8AA7-F37904EF3212}</Project>
+    <ProjectReference Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\compiler\vc22win64\ZERO_CHECK.vcxproj">
+      <Project>{E00532A0-0596-331B-BCBA-660BBE889E45}</Project>
       <Name>ZERO_CHECK</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\compiler\vc22win64\sdk_source_bin\PhysXFoundation.vcxproj">
-      <Project>{62DF4F58-4A2D-3E34-9B39-35D9F1B0CC89}</Project>
+    <ProjectReference Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\compiler\vc22win64\sdk_source_bin\PhysXFoundation.vcxproj">
+      <Project>{DD627DC8-3786-32DD-A10E-A335BE364017}</Project>
       <Name>PhysXFoundation</Name>
     </ProjectReference>
   </ItemGroup>

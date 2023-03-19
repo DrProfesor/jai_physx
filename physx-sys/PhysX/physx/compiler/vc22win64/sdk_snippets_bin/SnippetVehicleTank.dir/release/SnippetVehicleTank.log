@@ -1,4 +1,4 @@
-﻿  Building Custom Rule C:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/snippets/compiler/cmake/CMakeLists.txt
+﻿  Building Custom Rule C:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/snippets/compiler/cmake/CMakeLists.txt
   ClassicMain.cpp
   SnippetVehicleTank.cpp
   SnippetVehicleTankRender.cpp
@@ -9,4 +9,4 @@
   SnippetVehicleSceneQuery.cpp
   SnippetVehicleTankCreate.cpp
   SnippetVehicleTireFriction.cpp
-  SnippetVehicleTank.vcxproj -> C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\SnippetVehicleTank_64.exe
+  SnippetVehicleTank.vcxproj -> C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\SnippetVehicleTank_64.exe

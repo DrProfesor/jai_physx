@@ -2,22 +2,22 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\compiler\vc22win64\x64\release\ZERO_CHECK</FullPath>
+      <FullPath>C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\compiler\vc22win64\x64\release\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\PhysXFoundation_64.dll</FullPath>
+      <FullPath>C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\PhysXFoundation_64.dll</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\PhysXCommon_64.dll</FullPath>
+      <FullPath>C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\PhysXCommon_64.dll</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\PhysX_64.dll</FullPath>
+      <FullPath>C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\PhysX_64.dll</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\PhysXCooking_64.dll</FullPath>
+      <FullPath>C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\PhysXCooking_64.dll</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\SnippetVehicleTank_64.exe</FullPath>
+      <FullPath>C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\SnippetVehicleTank_64.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

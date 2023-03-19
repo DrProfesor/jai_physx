@@ -1,4 +1,4 @@
-﻿  Building Custom Rule C:/Dev/jaiscape/workbench/external/physx/physx-rs/physx-sys/PhysX/physx/source/compiler/cmake/CMakeLists.txt
+﻿  Building Custom Rule C:/Dev/jaiscape/workbench/external/physx/physx-sys/PhysX/physx/source/compiler/cmake/CMakeLists.txt
   BpAABBManager.cpp
   BpBroadPhase.cpp
   BpBroadPhaseABP.cpp
@@ -8,4 +8,4 @@
   BpBroadPhaseShared.cpp
   BpMBPTasks.cpp
   BpSAPTasks.cpp
-  LowLevelAABB.vcxproj -> C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\LowLevelAABB_static_64.lib
+  LowLevelAABB.vcxproj -> C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\bin\win.x86_64.vc142.mt\release\LowLevelAABB_static_64.lib

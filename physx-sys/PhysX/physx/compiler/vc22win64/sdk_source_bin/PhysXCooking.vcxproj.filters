@@ -1,185 +1,185 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\Adjacencies.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\Adjacencies.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\Cooking.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\Cooking.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\CookingUtils.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\CookingUtils.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\EdgeList.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\EdgeList.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\MeshCleaner.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\MeshCleaner.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\Quantizer.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\Quantizer.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\BVHStructureBuilder.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\BVHStructureBuilder.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\mesh\HeightFieldCooking.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\mesh\HeightFieldCooking.cpp">
       <Filter>src\mesh</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\mesh\RTreeCooking.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\mesh\RTreeCooking.cpp">
       <Filter>src\mesh</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\mesh\MeshBuilder.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\mesh\MeshBuilder.cpp">
       <Filter>src\mesh</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\mesh\TriangleMeshBuilder.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\mesh\TriangleMeshBuilder.cpp">
       <Filter>src\mesh</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\mesh\GrbTriangleMeshCooking.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\mesh\GrbTriangleMeshCooking.cpp">
       <Filter>src\mesh</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\convex\BigConvexDataBuilder.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\convex\BigConvexDataBuilder.cpp">
       <Filter>src\convex</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\convex\ConvexHullBuilder.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\convex\ConvexHullBuilder.cpp">
       <Filter>src\convex</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\convex\ConvexHullLib.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\convex\ConvexHullLib.cpp">
       <Filter>src\convex</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\convex\ConvexHullUtils.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\convex\ConvexHullUtils.cpp">
       <Filter>src\convex</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\convex\ConvexMeshBuilder.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\convex\ConvexMeshBuilder.cpp">
       <Filter>src\convex</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\convex\ConvexPolygonsBuilder.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\convex\ConvexPolygonsBuilder.cpp">
       <Filter>src\convex</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\convex\QuickHullConvexHullLib.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\convex\QuickHullConvexHullLib.cpp">
       <Filter>src\convex</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\convex\VolumeIntegration.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\convex\VolumeIntegration.cpp">
       <Filter>src\convex</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\windows\WindowsCookingDelayLoadHook.cpp">
+    <ClCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\windows\WindowsCookingDelayLoadHook.cpp">
       <Filter>src\windows</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include\cooking\PxBVH33MidphaseDesc.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include\cooking\PxBVH33MidphaseDesc.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include\cooking\PxBVH34MidphaseDesc.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include\cooking\PxBVH34MidphaseDesc.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include\cooking\Pxc.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include\cooking\Pxc.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include\cooking\PxConvexMeshDesc.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include\cooking\PxConvexMeshDesc.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include\cooking\PxCooking.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include\cooking\PxCooking.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include\cooking\PxMidphaseDesc.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include\cooking\PxMidphaseDesc.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include\cooking\PxTriangleMeshDesc.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include\cooking\PxTriangleMeshDesc.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\include\cooking\PxBVHStructureDesc.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\include\cooking\PxBVHStructureDesc.h">
       <Filter>include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\Adjacencies.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\Adjacencies.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\Cooking.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\Cooking.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\CookingUtils.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\CookingUtils.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\EdgeList.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\EdgeList.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\MeshCleaner.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\MeshCleaner.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\Quantizer.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\Quantizer.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\BVHStructureBuilder.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\BVHStructureBuilder.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\mesh\GrbTriangleMeshCooking.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\mesh\GrbTriangleMeshCooking.h">
       <Filter>src\mesh</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\mesh\HeightFieldCooking.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\mesh\HeightFieldCooking.h">
       <Filter>src\mesh</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\mesh\QuickSelect.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\mesh\QuickSelect.h">
       <Filter>src\mesh</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\mesh\RTreeCooking.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\mesh\RTreeCooking.h">
       <Filter>src\mesh</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\mesh\MeshBuilder.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\mesh\MeshBuilder.h">
       <Filter>src\mesh</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\mesh\TriangleMeshBuilder.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\mesh\TriangleMeshBuilder.h">
       <Filter>src\mesh</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\convex\BigConvexDataBuilder.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\convex\BigConvexDataBuilder.h">
       <Filter>src\convex</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\convex\ConvexHullBuilder.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\convex\ConvexHullBuilder.h">
       <Filter>src\convex</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\convex\ConvexHullLib.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\convex\ConvexHullLib.h">
       <Filter>src\convex</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\convex\ConvexHullUtils.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\convex\ConvexHullUtils.h">
       <Filter>src\convex</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\convex\ConvexMeshBuilder.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\convex\ConvexMeshBuilder.h">
       <Filter>src\convex</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\convex\ConvexPolygonsBuilder.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\convex\ConvexPolygonsBuilder.h">
       <Filter>src\convex</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\convex\QuickHullConvexHullLib.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\convex\QuickHullConvexHullLib.h">
       <Filter>src\convex</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\physxcooking\src\convex\VolumeIntegration.h">
+    <ClInclude Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\physxcooking\src\convex\VolumeIntegration.h">
       <Filter>src\convex</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\compiler\cmake\CMakeLists.txt" />
+    <CustomBuild Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\compiler\cmake\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-rs\physx-sys\PhysX\physx\source\compiler\resource_x64\PhysXCooking.rc">
+    <ResourceCompile Include="C:\Dev\jaiscape\workbench\external\physx\physx-sys\PhysX\physx\source\compiler\resource_x64\PhysXCooking.rc">
       <Filter>resource</Filter>
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="include">
-      <UniqueIdentifier>{DA99DC59-6AFE-387A-8FF2-4F40D45B3B77}</UniqueIdentifier>
+      <UniqueIdentifier>{42A9E21F-953E-3525-9EF5-171D6D37AF54}</UniqueIdentifier>
     </Filter>
     <Filter Include="resource">
-      <UniqueIdentifier>{7D4F49A6-3837-39FD-B125-F297D0A503CE}</UniqueIdentifier>
+      <UniqueIdentifier>{11786B2E-53A2-3BFF-A0D4-CA27B698B61B}</UniqueIdentifier>
     </Filter>
     <Filter Include="src">
-      <UniqueIdentifier>{873E5AAF-253D-30EC-B8D5-D65B7113EA83}</UniqueIdentifier>
+      <UniqueIdentifier>{527F5D1E-BED6-3206-A9F3-D9D8D6374842}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\convex">
-      <UniqueIdentifier>{59B9EC07-A44F-3FC5-84EF-7CBFD02DA0A9}</UniqueIdentifier>
+      <UniqueIdentifier>{F0414BBD-5236-3004-83F7-4CD4394A8D0D}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\mesh">
-      <UniqueIdentifier>{60BFF2F5-3972-3F44-9386-5C973330580E}</UniqueIdentifier>
+      <UniqueIdentifier>{128CA48F-1542-3594-AA68-D892069578C3}</UniqueIdentifier>
     </Filter>
     <Filter Include="src\windows">
-      <UniqueIdentifier>{02664132-3784-3D9E-9BA2-4B9553F89061}</UniqueIdentifier>
+      <UniqueIdentifier>{C8A4F753-C672-31CF-8368-BCEC80DC0A38}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
